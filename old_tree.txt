@@ -1,0 +1,8272 @@
+Report   : Org Tree Report
+Tree Name: UCB_MASTERORGTREE
+As of    : 2018-03-03
+<- Tree Level Details ->
+Node Name;Level;Org Descr
+=========;=====;========
+UCBKL;1;
+COLLE;2;
+CENVD;3;
+DACED;4;
+DACE5;5;
+DACE6;6;
+;11610 - 11619
+;;11611 - DACED Comp Gen Ops
+;;11612 - DACED Comp Lab
+;;11613 - DACED Shop
+;;11614 - DACED CAD CAM
+;;11618 - DACED Undergraduate
+;11620 - 11629
+;;11620 - DACED Admin
+;;11622 - DACED DEAN Salary Provisions
+;;11624 - DACED DEAN Endowment
+;;11625 - DACED DEAN Acad Staff
+;;11627 - DACED DEAN Student Activities
+;11630 - 11639
+;;11630 - DACED ER Gen Ops
+;;11635 - DACED CED SSGPD Programs
+;11640 - 11645
+;;11640 - DACED Docs Gen Ops
+;;11641 - DACED Docs Svcs for Scholars
+;;11642 - DACED Slide Library
+;11646 - 11655
+;;11646 - DACED Fac Gen Ops
+DBARC;4;
+DBAR5;5;
+DBAR6;6;
+;11656 - 11659
+;;11656 - DBARC Research
+;11660 - 11673
+;;11660 - DBARC OPS Gen Ops
+;;11664 - DBARC OPS Temp Acad Staff
+;11674 - 11684
+;11685 - 11690
+;11691 - 11695
+;11696
+;11697 - 11706
+;11707 - 11712
+;;11707 - DBARC Student Aid
+DCCRP;4;
+DCCR5;5;
+DCCR6;6;
+;11713 - 11728
+;;11714 - DCCRP Research
+;;11715 - DCCRP Student Aid
+;11729 - 11745
+;;11729 - DCCRP OPS Gen Ops
+;;11730 - DCCRP OPS Chair's Discretion
+;;11732 - DCCRP OPS Chair's Endowments
+;;11733 - DCCRP OPS Temp Acad Staff
+DFLAE;4;
+DFLA5;5;
+DFLA6;6;
+;11746 - 11749
+;;11746 - DFLAE Blake Gen Ops
+;;11748 - DFLAE Research
+;11750 - 11769
+;;11750 - DFLAE OPS Gen Ops
+;;11753 - DFLAE OPS Chair's Endowments
+;;11754 - DFLAE OPS Temp Acad Staff
+;11770 - 11774
+;;11772 - DFLAE SA Graduate Aid
+CO1NR;3;
+MANRD;4;
+MACFS;5;
+MACF6;6;
+;13466 - 13468
+;;13466 - MANRD Wildlife Fisheries
+;;13467 - MANRD C Fire
+;;13468 - MANRD C Biological Control
+;13469
+;;13469 - MANRD C Forestry
+;13470 - 13481
+;;13470 - MANRD C Food Systems
+;;13471 - MANRD C Weight and Health
+;;13472 - MANRD C Sust Res Dvmt
+;;13473 - MANRD F OXFORD
+;;13475 - MANRD F Spectroscopy
+;;13476 - MANRD F Bio Imaging
+;;13477 - MANRD RESEARCH FIELD STATIONS
+;;13478 - MANRD AG FR GENOMICS
+;;13479 - MANRD C Water
+;;13480 - MANRD F GEOSPATIAL IMAG
+;;13481 - MANRD PS GENERAL OPS
+;13487 - 13488
+;;13487 - MANRD P Ciriacy-Wantrup Fellow
+;;13488 - MANRD P Coop Eco Study Unit
+;13496 - 13499
+;;13496 - MANRD P Master Dev Practice
+;;13497 - MANRD P Intl and Exec Pgms
+MADDF;5;
+MADD6;6;
+;13489 - 13495
+;;13490 - MANRD DO NR OPS
+;;13491 - MANRD Dean Descr
+;;13492 - MANRD BO HOLDING ACCOUNTS
+;;13494 - MANRD Salary Provisions
+MAOPS;5;
+MAOP6;6;
+;13460 - 13465
+;;13460 - MANRD Dean's Office Gen Ops
+;;13461 - MANRD BioInfo & Stat Services
+;;13462 - MANRD Student Affains Gen Ops
+;;13463 - MANRD NR Env Scince Major
+;;13464 - MANRD SA STUDENT RES CENTER
+;;13465 - MANRD AG GENERAL OPS
+;13482 - 13486
+;;13482 - MANRD CR GENERAL OPS
+;;13483 - MANRD CR ALUMNI & SPEC EVENTS
+;;13484 - MANRD CR ANNUAL FUND
+;;13485 - MANRD CR PUBLICATIONS
+;;13486 - MANRD CR PUBLIC INFORMATION
+MBARC;4;
+MBAGS;5;
+MBAG6;6;
+;13503 - 13506
+;;13503 - MBARC AE AG GENERAL OPS
+;;13505 - MBARC AE AG MER AWARDS
+;;13506 - MBARC AE AG RES GRANTS
+;13507 - 13508
+;;13508 - MBARC PS COOP EXT PROG SUPP
+;13509
+MBINR;5;
+MBIN6;6;
+;13500 - 13502
+;;13500 - MBARC IR GENERAL OPS
+;;13502 - MBARC IR STUDENT SERVICES
+MCESP;4;
+MCECO;5;
+MCEAG;6;
+;13521 - 13526
+;;13521 - MCESP ES DIV AG GEN OPS - ECO
+;;13523 - MCESP ES DIV AG MERIT AWDS-ECO
+;;13524 - MCESP ES DIV AG GRANTS - ECO
+;13527 - 13529
+;;13528 - MCESP ES DIV PS PROG SUPP- ECO
+;13530
+;13531 - 13535
+;;13533 - MCESP ES DIV AG MERIT AWDS-FOR
+;;13534 - MCESP ES DIV AG GRANTS - FOR
+;;13535 - MCESP ES DIV AG RECHG - FOR
+;13536 - 13539
+;;13536 - MCESP ES DIV PS GEN OPS - FOR
+;;13537 - MCESP ES DIV PS PROG SUPP- FOR
+MCEIN;6;
+;13519 - 13520
+;;13519 - MCESP Provision for Allocation
+;;13520 - MCESP ES DIV IR GEN OPS - ECO
+MCES5;5;
+MCES6;6;
+;13510 - 13514
+;;13510 - MCESP GENERAL OPS
+;;13511 - MCESP ACAD SALARIES
+;13515 - 13518
+;;13516 - MCESP RECHARGE
+MCESD;5;
+MCRAG;6;
+;13551 - 13554
+;;13551 - MCESP Society & Env Ag Gen Ops
+;;13553 - MCESP Society & Env AES Awards
+;;13554 - MCESP Society & Env Res Grants
+;13555 - 13559
+;;13555 - MCESP Society & Env PS Gen Ops
+;;13556 - MCESP Society & Env PS Progrms
+MCRIN;6;
+;13550
+;;13550 - MCESP Society & Env Gen Ops
+MCINS;5;
+MCIAG;6;
+;13541 - 13544
+;;13541 - MCESP INSECT  AG GENERAL OPS
+;;13543 - MCESP INSECT AG MERIT AWARDS
+;;13544 - MCESP INSECT AG RES GRANTS
+;13545 - 13549
+;;13545 - MCESP INSECT PS GENERAL OPS
+MCIIN;6;
+;13540
+;;13540 - MCESP INSECT IR GENERAL OPS
+MDNST;4;
+MDNS5;5;
+MDNS6;6;
+;13560 - 13569
+;;13560 - MDNST GENERAL OPS
+;;13561 - MDNST ACAD SALARIES
+;;13562 - MDNST STUDENT SERVICES
+;;13563 - MDNST RECHARGE
+;13570
+;13571 - 13579
+;;13571 - MDNST NS GENERAL AG OPERATIONS
+;;13573 - MDNST NS AES AWARDS
+;;13574 - MDNST NS RESEARCH GRANTS
+;13580 - 13584
+;;13580 - MDNST NS PS GEN OPERATIONS
+;;13581 - MDNST NS PS PROG SUPPORT
+;13585
+;13586 - 13594
+;;13586 - MDNST TOX AES GEN OPERATIONS
+;;13587 - MDNST TOX FAC RESEARCH SUPPORT
+;;13588 - MDNST TOX AG RESEARCH AWARDS
+;;13589 - MDNST TOX RESEARCH GRANTS
+;;13590 - MDNST TOX RECHARGE
+;13595 - 13599
+;;13595 - MDNST TOX PS  GEN OPERATIONS
+;;13596 - MDNST TOX PS PROG SUPPORT
+MEPMB;4;
+MEGEN;5;
+MEGE6;6;
+;13651 - 13654
+;;13651 - MEPMB GENE RES GRANTS
+MEMIC;5;
+MEMAG;6;
+;13635 - 13644
+;;13635 - MEPMB  MB GENERAL OMB
+;;13637 - MEPMB MB MERIT AWARDS
+;;13638 - MEPMB MB RES GRANTS
+;13645 - 13649
+;;13645 - MEPMB MB COOP EXT GENERAL OMB
+;;13646 - MEPMB MB COOP EXT PROG SUPP
+;13650
+MEMIN;6;
+;13630 - 13634
+;;13630 - MEPMB MB GENERAL OMB
+MEPLT;5;
+MEBAG;6;
+;13615 - 13624
+;;13615 - MEPMB  PL GENERAL OPS
+;;13617 - MEPMB PL MERIT AWARDS
+;;13618 - MEPMB PL RES GRANTS
+;;13620 - MEPMB PL RECHARGE
+;13625 - 13629
+;;13625 - MEPMB PL COOP EXT GENERAL OPL
+;;13626 - MEPMB PL COOP EXT PROG SUPP
+MEBIN;6;
+;13610
+;;13610 - MEPMB PL GENERAL OPS
+MEPM5;5;
+MEPM6;6;
+;13600 - 13609
+;;13600 - MEPMB GENERAL OPS
+;;13604 - MEPMB Comput Genomics Res Lab
+;;13605 - MEPMB General Ag Ops
+MGERG;4;
+MGER5;5;
+MGER6;6;
+;15310 - 15324
+;;15310 - MGERG Administration
+;;15311 - MGERG Instructional Support
+;;15312 - MGERG Research
+;;15315 - MGERG Outreach
+;31330 - 31349
+;;31330 - MGERG CNR Gen Ops RFS
+;;31331 - MGERG CNR Res Ops RFS
+COCHM;3;
+CCHEM;4;
+CCCHE;5;
+CCCH6;6;
+;10665 - 10699
+;;10665 - CCHEM CHM Gen Ops
+;;10667 - CCHEM CHM GSR Support
+;;10670 - CCHEM CHM Dept Funds
+;;10673 - CCHEM CHM  Endowments & Gifts
+;;10675 - CCHEM Center for Global Sci
+;;10676 - CCHEM Chem Core Instruction
+;10700 - 10719
+;;10700 - CCHEM Seminars
+;10720 - 10804
+;;10720 - CCHEM INSTR Ops
+;10805 - 10830
+;;10805 - CCHEM RES Research
+;;10806 - CCHEM RES Fellowships
+CDCDN;4;
+CDDOF;5;
+CDDO6;6;
+;10966 - 10974
+;;10967 - CDCDN Dean Reserve
+;;10968 - CDCDN Dean Endowment & Gifts
+;;10972 - CDCDN STIP/Gift Fee
+;;10973 - CDCDN Salary Provisions
+;;10974 - CDCDN Centers for Excellence
+CDSVS;5;
+CDRCG;6;
+;11010 - 11019
+;;11010 - CDCDN Bio-Safety Lab 3
+;11020 - 11024
+;;11020 - CDCDN An Mass Spec Ops
+;;11021 - CDCDN An NMR Ops
+;;11022 - CDCDN An Microlab Ops
+;;11023 - CDCDN An CHEXRAY Ops
+;11065 - 11072
+;;11070 - CDCDN Chem R&D Engineering Svc
+;11117 - 11144
+;;11117 - CDCDN Unix Research Support
+;;11118 - CDCDN Desktop Support
+;;11119 - CDCDN-Graphics
+;11149
+;;11149 - CDCDN E/F Liquid Air Plant Ops
+;11217
+;;11217 - CDCDN BAS/Mat Mgmt Stores Ops
+;11221 - 11224
+;;11221 - CDCDN College Amenities
+CDSBU;6;
+;10965
+;;10965 - CDCDN Dean's Office Ops
+;10975 - 10989
+;;10975 - CDCDN Undergrad Aff Ops
+;10990 - 11004
+;;10990 - CDCDN Relations Ops
+;11005 - 11009
+;;11005 - CDCDN Serv Ops
+;11110 - 11116
+;;11114 - CDCDN IT Ops
+;11215 - 11216
+;;11216 - CDCDN BAS/Materiel Mgmt Ops
+;11218 - 11220
+;;11218 - CDCDN BAS/ Human Resources Ops
+;;11219 - CDCDN BAS/C&G Administration
+;;11220 - CDCDN BAS/State/College/Rech
+;11225 - 11229
+;11230 - 11235
+;;11230 - CDCDN RES Biodyn Research
+CDSEF;6;
+;11025 - 11064
+;11073 - 11109
+;;11073 - CDCDN SHOP Student Shop
+;11145 - 11148
+;;11145 - CDCDN E/F Engineering Ops
+;;11146 - CDCDN E/F Facilities Ops
+;;11147 - CDCDN E/F Surge/Renovations
+;11150 - 11189
+;;11150 - CDCDN E/F Minor Cap Renovation
+;11190 - 11214
+;;11190 - CDCDN EH&S Ops
+CEEEG;4;
+CEEE5;5;
+CEEE6;6;
+;10831 - 10859
+;;10831 - CEEEG Gen Ops
+;;10833 - CEEEG GSR Support
+;;10836 - CEEEG Dept Funds
+;;10837 - CEEEG Endowments & Gifts
+;10860 - 10899
+;;10860 - CEEEG Inst. TAS
+;10900 - 10929
+;;10900 - CEEEG Seminars
+;10930 - 10934
+;10935 - 10964
+;;10935 - CEEEG RES Research
+COENG;3;
+EDDNO;4;
+ED1CR;5;
+ED1C6;6;
+;11408 - 11415
+;;11408 - EDDNO CR Annual Fund
+;;11409 - EDDNO CR Capital Campaign
+;;11410 - EDDNO Corp Relations
+;;11411 - EDDNO IT/Data Systems
+;;11412 - EDDNO Marketing: Publications
+;;11413 - EDDNO Marketing: Events
+;;11414 - EDDNO Stewardship
+ED1DO;5;
+ED1D6;6;
+;11395 - 11407
+;;11395 - EDDNO DEANS Discretionary
+;;11396 - EDDNO DEANS Central Office
+;;11398 - EDDNO Program Revenue
+;;11399 - EDDNO DEANS Restricted
+;;11400 - EDDNO DEANS Admin Computing
+;;11401 - EDDNO DEANS Research Services
+;;11402 - EDDNO DEANS Human Resour
+;;11403 - EDDNO DEANS Provision Acad Dep
+;;11404 - EDDNO DEANS Facility Improve
+;;11405 - EDDNO DEANS Endowed Chairs
+;;11406 - EDDNO DEANS Salary Provisions
+;;11407 - EDDNO Central Allocation
+;11422 - 11424
+;;11422 - EDDNO DEAN Equity&Inclus
+;;11423 - EDDNO GLOBE Learning/Outreach
+;;11424 - EDDNO Exec Education
+EDCFI;5;
+EDCF6;6;
+;11435 - 11449
+;;11440 - EDDNO CFI-Operations
+;;11441 - EDDNO CFI Mgt of Technol
+;;11442 - EDDNO C Fung Institute-CET
+;;11443 - EDDNO MEng - Instruction
+;;11444 - EDDNO CFI-M. Eng Program
+;;11445 - EDDNO CFI-Financial Aid
+;;11446 - EDDNO CFI Degree Programs
+;;11447 - EDDNO CFI ExecEd NonDegr
+;;11448 - EDDNO Fung Fellowship
+EDESS;5;
+EDES6;6;
+;11416 - 11421
+;;11416 - EDDNO ESS Undergrad Programs
+;;11417 - EDDNO ESS Stdnt-Aid/Scholarshp
+;;11418 - EDDNO ESS Graduate Programs
+;;11419 - EDDNO ESS Student Funds
+;;11420 - EDDNO ESS Operations
+;;11421 - EDDNO ESS- Discretionary
+EDMET;5;
+EDME6;6;
+;11481 - 11485
+;;11481 - EDDNO MET Ops
+;;11482 - EDDNO MET Instruction
+EERES;4;
+EEBRS;5;
+EEBR6;6;
+;23830 - 23844
+;;23830 - EERES BEARS Headquarter
+;;23831 - EERES SinBerBEST
+;;23832 - EERES SinBerRISE
+;;23833 - EERES CREST
+EERCG;5;
+EERG6;6;
+;23815 - 23818
+;;23815 - EERES NanoLab
+;;23816 - EERES SSG (Softwr Sys Grp)
+;;23817 - EERES Machine Shop
+EERCT;5;
+EERC6;6;
+;23790 - 23793
+;;23791 - EERES Other
+;23794 - 23814
+;;23794 - EERES CHESS
+;;23795 - EERES BSAC
+;;23796 - EERES MSG
+;;23797 - EERES BNSG
+;;23798 - EERES DMG
+;;23799 - EERES GSRC
+;;23800 - EERES Res Central
+;;23801 - EERES BWRC
+;;23802 - EERES Res CITRIS
+;;23803 - EERES BSAC CITRIS
+;;23804 - EERES CITRIS - Gift/Donor
+;;23805 - EERES BNSG CITRIS
+;;23806 - EERES DMG CITRIS
+;;23807 - EERES GSRC CITRIS
+;;23808 - EERES BWRC CITRIS
+;;23809 - EERES SSG CITRIS
+;;23810 - EERES SWARM - Ops
+;;23811 - EERES CHESS CITRIS
+;;23812 - EERES TRUST
+;;23813 - EERES Siebel Energy Inst
+;;23814 - EERES Human Compatible AI
+;23819 - 23829
+;;23819 - EERES Blum Center Research
+;23845 - 23874
+;;23845 - EERES Res Projects
+;;23848 - EERES Kaust Research Agreement
+;;23855 - EERES CERC WET
+;;23856 - EERES CEE
+;;23857 - EERES TSRC
+;;23858 - EERES NEXTOR
+;;23859 - EERES PATH
+;;23860 - EERES PRC
+;;23861 - EERES Rechg Std/Fac Svcs
+;;23866 - EERES URS Multicultural Prog
+;;23868 - EERES URS Grad Acad Diversity
+EFBIO;4;
+EF1BO;5;
+EF1B6;6;
+;11450 - 11459
+;;11450 - EFBIO BO Central Office
+;;11451 - EFBIO BO Admin Computing
+;;11452 - EFBIO BO Faculty Funds
+;;11453 - EFBIO BO Student Funds
+;;11454 - EFBIO BO Instruction
+;;11455 - EFBIO BO Research
+;;11458 - EFBIO BO Unrestriced Funds
+;;11459 - EFBIO Synthetic Bio Institute
+;11480
+;;11480 - EFBIO TAS
+EF1JG;5;
+EF1J6;6;
+;11460 - 11470
+;;11461 - EFBIO JG Central Office
+;;11462 - EFBIO JG Admin Computing
+;;11463 - EFBIO JG Student Funds
+EF1SF;5;
+EF1S6;6;
+;11471 - 11475
+;;11471 - EFBIO MTM Operations
+;;11472 - EFBIO SF Research
+EGCEE;4;
+EGCE5;5;
+EGCE6;6;
+;11500 - 11519
+;;11500 - EGCEE CEE Central office
+;;11501 - EGCEE CEE Admin Computing
+;;11502 - EGCEE CEE Instruction
+;;11503 - EGCEE CEE Faculty Funds
+;;11504 - EGCEE CEE Student Funds
+;;11505 - EGCEE CEE Research
+;;11506 - EGCEE CEE Shop
+;;11507 - EGCEE CEE Unrestricted Funds
+;;11508 - EGCEE TAS
+;;11509 - EGCEE CEE PDST
+EHEEC;4;
+EH1CS;5;
+EH1C6;6;
+;11540 - 11549
+;;11540 - EHEEC CS General Operations
+;;11541 - EHEEC CS Instruction
+;;11542 - EHEEC CS Faculty Funds
+;;11543 - EHEEC CS Student Funds
+;;11544 - EHEEC CS Building & Equipment
+;;11545 - EHEEC CS CS Chair's Discretion
+;;11546 - EHEEC CS TAS
+EH1EE;5;
+EH1E6;6;
+;11530 - 11539
+;;11530 - EHEEC EE General Operations
+;;11531 - EHEEC EE Instruction
+;;11532 - EHEEC EE Faculty Funds
+;;11533 - EHEEC EE Student Funds
+;;11534 - EHEEC EE Building & Equipment
+;;11535 - EHEEC EE TAS
+EH1EO;5;
+EH1O6;6;
+;11520 - 11523
+;;11520 - EHEEC EO General Operations
+;;11521 - EHEEC EO Student Funds
+;;11522 - EHEEC EO Instruction
+;;11523 - EHEEC EO Chair's Discretion
+EH1RC;5;
+EH1R6;6;
+;11524 - 11529
+;;11524 - EHEEC EO ESG Recharge Funds
+;;11525 - EHEEC EO IDSG Recharge Funds
+;;11526 - EHEEC EO CUSG Recharge
+EIIEO;4;
+EIIE5;5;
+EIIE6;6;
+;11550 - 11564
+;;11550 - EIIEO OR Central office
+;;11551 - EIIEO OR Admin Computing
+;;11552 - EIIEO OR Instruction
+;;11553 - EIIEO OR Faculty Funds
+;;11554 - EIIEO OR Student Funds
+;;11555 - EIIEO OR Research
+;;11556 - EIIEO OR Unrestricted Funds
+;;11557 - EIIEO CET INSTRUCTION
+;;11558 - EIIEO CET Operations
+;;11559 - EIIEO TAS
+EJMSM;4;
+EJMS5;5;
+EJMS6;6;
+;11565 - 11579
+;;11565 - EJMSM MO Central office
+;;11566 - EJMSM MO Admin Computing
+;;11567 - EJMSM MO  Instruction
+;;11568 - EJMSM MO Faculty Funds
+;;11569 - EJMSM MO  Student Funds
+;;11570 - EJMSM MMO  Research
+;;11571 - EJMSM MO  Machine Shop
+;;11572 - EJMSM MO Unrestricted Funds
+;;11573 - EJMSM TAS
+EKMEG;4;
+EKJDI;5;
+EKJD6;6;
+;11476 - 11479
+;;11476 - EKMEG Jacobs Design Inst Ops
+;;11477 - EKMEG Jacobs Design Innv Prgm
+EKMEO;5;
+EKME6;6;
+;11580 - 11594
+;;11580 - EKMEG MEO Central office
+;;11581 - EKMEG MEO Admin Computing
+;;11582 - EKMEG MEO Instruction
+;;11583 - EKMEG MEO Faculty Funds
+;;11584 - EKMEG MEO Student Funds
+;;11585 - EKMEG MEO Research
+;;11586 - EKMEG MEO Machine Shop
+;;11587 - EKMEG MEO Electronic Shop
+;;11588 - EKMEG MEO DE Computing Fac
+;;11589 - EKMEG MEO Unrestricted Funds
+;;11590 - EKMEG TAS
+ELNUC;4;
+ELNU5;5;
+ELNU6;6;
+;11595 - 11609
+;;11595 - ELNUC NUC Central office
+;;11596 - ELNUC NUC Admin Computing
+;;11597 - ELNUC NUC Instruction
+;;11598 - ELNUC NUC Faculty Funds
+;;11599 - ELNUC NUC Student Funds
+;;11600 - ELNUC NUC Research
+;;11601 - ELNUC NUC Unrestricted Funds
+;;11602 - ELNUC TAS
+HXRFS;4;
+HXRF5;5;
+HXRF6;6;
+;11425 - 11433
+;;11425 - HXRFS RFS General Operations
+;;11426 - HXRFS RFS Bldg Maintenance
+;;11427 - HXRFS RFS Ground Maintenance
+;;11428 - HXRFS RFS Janitorial Serv
+;;11431 - HXRFS RFS Plant Services
+;;11433 - HXRFS RFS Purchase Utilities
+NCEER;4;
+NC1AD;5;
+NC1A6;6;
+;23750 - 23764
+;;23750 - NCEER EERC Research
+NC1EX;5;
+NC1E6;6;
+;23770 - 23773
+;;23770 - NCEER EERC Lab Operations
+;;23771 - NCEER EERC STI O/H
+NC1PR;5;
+NC1P6;6;
+;23765 - 23769
+;23774 - 23789
+;;23774 - NCEER PEER Core Research
+;;23780 - NCEER PEER Operations
+;;23784 - NCEER PEER Lifelines Gen Ops
+NCEE5;5;
+NCEE6;6;
+;23735 - 23749
+;;23735 - NCEER EERC General Ops
+NFEEH;4;
+NFEE5;5;
+NFEE6;6;
+;23875 - 23889
+;;23875 - NFEEH IESE General Ops
+;;23876 - NFEEH IESE Recharge
+NFRES;5;
+NFRE6;6;
+;23890 - 23904
+;;23890 - NFEEH Res Risk Analysis Ctr
+;;23891 - NFEEH Res Env Air Quality
+;;23892 - NFEEH Res Earth Resources
+;;23893 - NFEEH Res Public Health
+;;23894 - NFEEH Res Hydrology
+;;23895 - NFEEH Res Fluid Mechanics
+;;23896 - NFEEH Water Treatment
+;;23897 - NFEEH Water Chem & Microbio
+;;23898 - NFEEH Water Quality Management
+;;23899 - NFEEH Res Other Research
+;;23900 - NFEEH Berkeley Water Center
+COLLS;2;
+COL1S;3;
+QALSD;4;
+QADAD;5;
+QADA6;6;
+;12085 - 12088
+;;12085 - QALSD Gen Ops
+;;12086 - QALSD College Relations
+;;12087 - QALSD College Funds
+;;12088 - QALSD Salary Provisions
+;12090
+;;12090 - QALSD COL1S Benefit Pool
+;12092 - 12094
+;;12092 - QALSD Executive Dean Projects
+QADFA;5;
+QADF6;6;
+;12089
+;;12089 - QALSD L&S Facilities
+QADRS;5;
+QADR6;6;
+;12095 - 12099
+;;12095 - QALSD CR Gen Admin Support
+;12198 - 12199
+;;12198 - QALSD Equipment Repair Shop
+;;12199 - QALSD Letters & Science Shops
+LS1BS;3;
+CNCND;4;
+CNCN5;5;
+CNCN6;6;
+;32305 - 32313
+;;32305 - CNCND Operations
+;;32307 - CNCND Research
+IABSS;4;
+IAADM;5;
+IAAD6;6;
+;12126 - 12129
+;;12126 - IABSS Biosci Div Srvs Gen Ops
+IBIBI;4;
+IBADM;5;
+IBAD6;6;
+;12305 - 12306
+;;12305 - IBIBI IB Perm Faculty
+;12309 - 12313
+;;12309 - IBIBI IB Core Services
+;;12310 - IBIBI IB Chair Reserves
+;;12311 - IBIBI IB Gen Ops
+IBSTD;6;
+;12321 - 12332
+;;12332 - IBIBI IB Undergraduate Program
+;12333 - 12334
+;;12333 - IBIBI SS Biology Scholars Prog
+;;12334 - IBIBI SS Grad Student Support
+IBBTL;5;
+IBBT6;6;
+;12307 - 12308
+;;12307 - IBIBI Adm Instructional Sup
+;;12308 - IBIBI Temp Acad Support_TAS
+IBFAC;5;
+IBFA6;6;
+;12314
+;;12314 - IBIBI Building Ops
+IBRCH;5;
+IBRC6;6;
+;12335 - 12339
+;;12336 - IBIBI Rchg Mass Spec Facility
+;;12337 - IBIBI Jane Gray Greenhouse
+IBRES;5;
+IBRE6;6;
+;12300 - 12304
+;;12300 - IBIBI Int Bio Research
+IDBSD;4;
+IDADM;5;
+IDAD6;6;
+;12115
+;;12115 - IDBSD Bio Sc Dean Gen Ops
+;12117 - 12125
+;;12117 - IDBSD Salary Provisions
+;;12118 - IDBSD Neglected Diseases
+;;12119 - IDBSD LS1BS Benefit Pool
+IDDSS;6;
+;12116
+;;12116 - IDBSD Student Diversity
+IDFAC;5;
+IDVSL;6;
+;12340 - 12349
+;;12340 - IDBSD Gen Ops
+IDKSB;6;
+;12350 - 12359
+;;12350 - IDBSD Gen Ops
+IGIGI;4;
+IGADM;5;
+IGAD6;6;
+;12315 - 12320
+;;12315 - IGIGI IGI Gen Ops
+IGRES;5;
+IGRE6;6;
+;12370 - 12374
+;;12370 - IGIGI IGI Research
+IMMCB;4;
+IMADM;5;
+IMAD6;6;
+;12133
+;;12133 - IMMCB Perm Faculty
+;12143 - 12146
+;;12143 - IMMCB Chair Reserves
+;;12144 - IMMCB Gen Ops
+;12155 - 12158
+;;12157 - IMMCB Div of BBS
+;;12158 - IMMCB Div of Genetics & Dev
+;12244 - 12247
+;;12244 - IMMCB Core Services
+;;12245 - IMMCB Div of Cell & Dev Biol
+;;12246 - IMMCB Div of Neurobiology
+;;12247 - IMMCB Div of Immunology
+IMMSS;6;
+;12131
+;;12131 - IMMCB Undergraduate Program
+;12134
+;12159
+;;12159 - IMMCB Graduate Program
+IMFAC;5;
+IMFA6;6;
+;12151
+;12154
+;12241
+;;12241 - IMMCB MCB Building Ops
+;12281
+IMMTL;5;
+IMMT6;6;
+;12130
+;;12130 - IMMCB Instructional Support
+;12132
+;;12132 - IMMCB Temp Academic Support
+;12135
+;12147 - 12150
+;12152 - 12153
+;12240
+;12242 - 12243
+;12280
+;12282 - 12283
+IMRES;5;
+IMRE6;6;
+;12136 - 12142
+;;12136 - IMMCB MCB Dept Research
+;12160 - 12189
+;;12160 - IMMCB BH Research
+;12248 - 12269
+;;12248 - IMMCB LSA Research
+;12284
+;24135 - 24164
+IMRSV;5;
+IMRS6;6;
+;12190 - 12197
+;;12192 - IMMCB MCB Technical Facilities
+;12200 - 12239
+;;12202 - IMMCB SiRNA Imaging Facility
+;12270 - 12279
+;;12271 - IMMCB MCB Stockroom
+;12285 - 12299
+IPPEP;4;
+IPPTL;5;
+IPPT6;6;
+;12360 - 12369
+;;12360 - IPPEP Gen Ops
+;;12361 - IPPEP Service Ctr
+ITEML;4;
+ITRSV;5;
+ITRS6;6;
+;12390 - 12399
+;;12390 - ITEML EML Gen  Ops
+NKCRL;4;
+NKADM;5;
+NKAD6;6;
+;24090 - 24099
+;;24090 - NKCRL Cancer Research Lab
+NKRSV;5;
+NKRS6;6;
+;24100 - 24105
+;;24105 - NKCRL  Rchg Cancer Res Lab
+LS1HU;3;
+CRTHE;4;
+CRCTL;5;
+CRCT6;6;
+;32349 - 32354
+;;32350 - CRTHE General Ops
+DMEDL;4;
+DMMTL;5;
+DMMT6;6;
+;32338 - 32348
+;;32338 - DMEDL DML GEN OPS
+HARTH;4;
+HAADM;5;
+HAAD6;6;
+;12435
+;;12435 - HARTH Gen Ops
+HAATL;5;
+HAAT6;6;
+;12436 - 12437
+;;12436 - HARTH Classroom Media
+;;12437 - HARTH Reading & Comp Instr
+;12439 - 12449
+;;12439 - HARTH TAS Temp Acad Support
+HAVRC;6;
+;12450 - 12464
+;;12450 - HARTH VR Gen Ops
+;;12451 - HARTH VR Photographic Serv
+;;12452 - HARTH VR Visual Collection
+HARES;5;
+HARE6;6;
+;12438
+;;12438 - HARTH Research
+HBBLC;4;
+HBADM;5;
+HBAD6;6;
+;12495
+;;12495 - HBBLC BLC Gen Ops
+HBBTL;5;
+HBBT6;6;
+;12497 - 12509
+;;12497 - HBBLC BLC Instructional Prgms
+HBCRS;5;
+HBCR6;6;
+;12496
+;;12496 - HBBLC BLC Recharge
+HCPHI;4;
+HCADM;5;
+HCAD6;6;
+;12835
+;;12835 - HCPHI Philosophy Gen Ops
+HCPTL;5;
+HCPT6;6;
+;12836
+;;12836 - HCPHI Howison Library
+;12838 - 12849
+;;12838 - HCPHI Temp Academic Support
+;;12839 - HCPHI Reading & Composition
+HCRES;5;
+HCRE6;6;
+;12837
+;;12837 - HCPHI Research
+HDRAM;4;
+HDADM;5;
+HDAD6;6;
+;12581
+;;12581 - HDRAM Theater Gen Admin
+HDRES;5;
+HDRE6;6;
+;12583 - 12584
+;;12583 - HDRAM Research
+;;12584 - HDRAM Misc Faculty Allocations
+HDTLT;5;
+HDTL6;6;
+;12582
+;;12582 - HDRAM Reading & Comp
+;12585 - 12595
+;;12585 - HDRAM Theater Production
+HENGL;4;
+HEADM;5;
+HEAD6;6;
+;12615
+;;12615 - HENGL English Gen Ops
+HEETL;5;
+HEET6;6;
+;12616 - 12618
+;;12616 - HENGL Rdg & Composition Instr
+;12621 - 12629
+;;12621 - HENGL In-year Instruc Support
+;;12622 - HENGL Perm Academic Salaries
+HERES;5;
+HERE6;6;
+;12619 - 12620
+;;12619 - HENGL Research
+;;12620 - HENGL Start-up and Retention
+HFREN;4;
+HFADM;5;
+HFAD6;6;
+;12645
+;;12645 - HFREN French Gen Ops
+HFFTL;5;
+HFFT6;6;
+;12646
+;;12646 - HFREN French Library
+;12648 - 12659
+;;12648 - HFREN Reading & Composition
+;;12649 - HFREN TAS salaries, non R & C
+HFRES;5;
+HFRE6;6;
+;12647
+;;12647 - HFREN Research
+HGEAL;4;
+HGADM;5;
+HGAD6;6;
+;12600
+;;12600 - HGEAL East Asian Lang Gen Ops
+HGATL;5;
+HGAT6;6;
+;12602 - 12614
+;;12602 - HGEAL TAS Temp Acad Support
+;;12603 - HGEAL Advanced Chinese Program
+HGRES;5;
+HGRE6;6;
+;12601
+;;12601 - HGEAL Research
+HHDNO;4;
+HHADM;5;
+HHAD6;6;
+;10040 - 10044
+;12404 - 12405
+;;12404 - HHDNO Salary Provisions
+;;12405 - HHDNO Dean's Office Ops
+;12408 - 12419
+;;12408 - HHDNO A&H Benefits Pool
+;12596 - 12599
+HHDSS;6;
+;12406
+;;12406 - HHDNO Student Diversity
+HHRES;5;
+HHRE6;6;
+;12407
+;;12407 - HHDNO Dean's Office Research
+HITAL;4;
+HIADM;5;
+HIAD6;6;
+;12690
+;;12690 - HITAL Italian Studies Gen Ops
+HIITL;5;
+HIIT6;6;
+;12692 - 12704
+;;12692 - HITAL Reading & Comp
+;;12693 - HITAL Temp Academic Support
+HIRES;5;
+HIRE6;6;
+;12691
+;;12691 - HITAL Research
+HKCLF;4;
+HKADM;5;
+HKAD6;6;
+;12570 - 12580
+;;12570 - HKCLF Comp Lit & French Gen Op
+HLCOM;4;
+HLADM;5;
+HLAD6;6;
+;12555
+;;12555 - HLCOM Comp Lit Gen Ops
+HLCTL;5;
+HLCT6;6;
+;12556 - 12557
+;;12556 - HLCOM Comparative Lit Library
+;;12557 - HLCOM Rdg & Composition Instr
+;12559 - 12569
+;;12559 - HLCOM TAS salaries, non-R & C
+HLRES;5;
+HLRE6;6;
+;12558
+;;12558 - HLCOM Research
+HMUSC;4;
+HMADM;5;
+HMAD6;6;
+;12750 - 12752
+;;12750 - HMUSC Music Gen Ops
+;12756 - 12794
+;12796 - 12819
+HMMTL;5;
+HMMT6;6;
+;12754 - 12755
+;;12754 - HMUSC R&C Activities
+;;12755 - HMUSC Temporary Acad Support
+;12795
+;;12795 - HMUSC Perf Gen Ops
+HMRES;5;
+HMRE6;6;
+;12753
+;;12753 - HMUSC Research
+HNNES;4;
+HNADM;5;
+HNAD6;6;
+;12820
+;;12820 - HNNES Near Eastern Gen Ops
+HNETL;5;
+HNET6;6;
+;12821
+;;12821 - HNNES Rdg & Comp Instr
+;12823 - 12834
+;;12823 - HNNES TAS Temp Acad Support
+HNRES;5;
+HNRE6;6;
+;12822
+;;12822 - HNNES Research
+HOGSP;4;
+HOADM;5;
+HOAD6;6;
+;12675 - 12689
+;;12675 - HOGSP Germ Span & Port Gen Ops
+HPMED;4;
+HPADM;5;
+HPAD6;6;
+;12735 - 12749
+;;12735 - HPMED Medieval Studies Gen Ops
+HQISS;4;
+HQADM;5;
+HQAD6;6;
+;12705 - 12719
+;;12705 - HQISS Ital San & Slav Gen Ops
+HRHET;4;
+HRADM;5;
+HRAD6;6;
+;12850
+;;12850 - HRHET Rhetoric Gen Ops
+HRRES;5;
+HRRE6;6;
+;12852
+;;12852 - HRHET Research
+;12854 - 12864
+HRRTL;5;
+HRRT6;6;
+;12851
+;;12851 - HRHET Rdg & Comp Instr
+;12853
+;;12853 - HRHET Temp Academic Support
+HSCAN;4;
+HSADM;5;
+HSAD6;6;
+;12880
+;;12880 - HSCAN Scand Lang Gen Ops
+;12882
+;;12882 - HSCAN Celtic Studies
+HSRES;5;
+HSRE6;6;
+;12883
+;;12883 - HSCAN Research
+HSSTL;5;
+HSST6;6;
+;12881
+;;12881 - HSCAN Rdg & Comp Instr
+;12884 - 12894
+;;12884 - HSCAN Celtic Rdg & Comp Instr
+;;12885 - HSCAN Temp Academic Support
+HTAHN;4;
+HTATL;5;
+HTAT6;6;
+;12420 - 12434
+;;12420 - HTAHN Gen Ops
+HUFLM;4;
+HUADM;5;
+HUAD6;6;
+;12630 - 12631
+;;12630 - HUFLM Film Studies Gen Ops
+HUFTL;5;
+HUFT6;6;
+;12632
+;;12632 - HUFLM Rdg & Composition Instr
+;12634
+;;12634 - HUFLM Temp Academic Support
+HURES;5;
+HURE6;6;
+;12633
+;;12633 - HUFLM Research
+;12635 - 12644
+HVSSA;4;
+HVADM;5;
+HVAD6;6;
+;12910
+;;12910 - HVSSA So & SE Asian Gen Ops
+HVATL;5;
+HVAT6;6;
+;12911
+;;12911 - HVSSA Rdg & Comp Instr
+;12913 - 12924
+;;12913 - HVSSA TAS Administration
+HVRES;5;
+HVRE6;6;
+;12912
+;;12912 - HVSSA Research
+HWBUD;4;
+HWBTL;5;
+HWBT6;6;
+;31350
+;;31350 - HWBUD Buddhist Studies Gen Op
+HWRES;5;
+HWRE6;6;
+;31351 - 31364
+;;31351 - HWBUD Buddhist St Research
+HYHRT;4;
+HYHR5;5;
+HYHR6;6;
+;32355 - 32359
+;;32355 - HYHRT CSM Interdiscp Research
+;;32356 - HYHRT Study of Religion
+;;32357 - HYHRT Study of Value
+HZGER;4;
+HZADM;5;
+HZAD6;6;
+;12660 - 12661
+;;12660 - HZGER German Gen Ops
+;;12661 - HZGER Dutch Studies
+HZGTL;5;
+HZGT6;6;
+;12662
+;;12662 - HZGER Rdg & Comp Instr
+;12664 - 12674
+;;12664 - HZGER TAS: German
+HZRES;5;
+HZRE6;6;
+;12663
+;;12663 - HZGER Research
+INCAS;4;
+INADM;5;
+INAD6;6;
+;12540 - 12554
+;;12540 - INCAS CASMA Gen Ops
+KDCJS;4;
+KDCJ5;5;
+KDCJ6;6;
+;12720 - 12734
+;;12720 - KDCJS Jewish Studies Gen Ops
+;15902
+;;15902 - KDCJS Magnes Operations
+LORFS;4;
+LOADM;5;
+LOAD6;6;
+;12865 - 12879
+;;12865 - LORFS Rhet Film Art Hist Admin
+;;12866 - LORFS Rhet Film Tech Support
+LPSPP;4;
+LPADM;5;
+LPAD6;6;
+;12925
+;;12925 - LPSPP Spanish & Port Gen Ops
+LPRES;5;
+LPRE6;6;
+;12926
+;;12926 - LPSPP Resarch
+LPSTL;5;
+LPST6;6;
+;12927 - 12939
+;;12927 - LPSPP R&C: Sp & Portuguese
+;;12928 - LPSPP TAS: Sp & Portuguese
+LQAPR;4;
+LQADM;5;
+LQAD6;6;
+;12465
+;;12465 - LQAPR Art Practice Gen Ops
+LQATL;5;
+LQAT6;6;
+;12467 - 12479
+;;12467 - LQAPR TAS Temp Acad Support
+LQINS;6;
+;12480 - 12494
+;;12480 - LQAPR Sudios Gen Ops
+;;12481 - LQAPR Studios Ceramics
+;;12482 - LQAPR Studios Painting
+;;12483 - LQAPR Studios Sculpture
+;;12484 - LQAPR Studios Printmaking
+;;12485 - LQAPR Studios Metal
+;;12487 - LQAPR Studios Worth Ryder Gal
+;;12488 - LQAPR St Digital Media Lab
+LQRES;5;
+LQRE6;6;
+;12466
+;;12466 - LQAPR Art Practice Research
+LRTOW;4;
+LRADM;5;
+LRAD6;6;
+;12940
+;;12940 - LRTOW Townsend Ctr Gen Ops
+LRRES;5;
+LRADP;6;
+;12941 - 12954
+;;12941 - LRTOW Townsend Ctr Fellows
+;;12942 - LRTOW Tsnd Ctr Working Groups
+;;12943 - LRTOW Tsnd Ctr DBTCH Newslettr
+;;12944 - LRTOW Tsnd Ctr Prgms
+;;12946 - LRTOW Tsnd Ctr Discovery Prog
+;12955 - 12964
+;;12955 - LRTOW Adm Pro Art Tech & Cultu
+;;12956 - LRTOW Adm Pro Qui Parle
+;;12957 - LRTOW Adm Pro Representations
+LSCLA;4;
+LSADM;5;
+LSAD6;6;
+;12525
+;;12525 - LSCLA Classics Gen Ops
+LSCTL;5;
+LSCT6;6;
+;12526
+;;12526 - LSCLA Nemea
+;12528 - 12539
+;;12528 - LSCLA TAS Administration
+;;12529 - LSCLA R&C ALLOCATION
+LSRES;5;
+LSRE6;6;
+;12527
+;;12527 - LSCLA Research
+LTSLL;4;
+LTADM;5;
+LTAD6;6;
+;12895
+;;12895 - LTSLL Slavic Lang & Lit Gen Op
+LTRES;5;
+LTRE6;6;
+;12896
+;;12896 - LTSLL Research
+LTSTL;5;
+LTST6;6;
+;12897 - 12909
+;;12897 - LTSLL Rdg & Comp Instr
+LXNMA;4;
+LXADM;5;
+LXAD6;6;
+;12510 - 12524
+;;12510 - LXNMA New Mus & Aud Gen Ops
+NWARC;4;
+NWADM;5;
+NWAD6;6;
+;31130
+;;31130 - NWARC General Operations
+NWRES;5;
+NWRE6;6;
+;31131 - 31139
+;;31131 - NWARC Research/Residencies
+;;31132 - NWARC Other
+LS1PS;3;
+NQBSL;4;
+NQADM;5;
+NQAD6;6;
+;24210 - 24219
+;;24210 - NQBSL Seismo Admin
+;;24212 - NQBSL Seismo Misc
+NQRES;5;
+NQRE6;6;
+;24220
+;;24220 - NQBSL Res Misc
+;24225 - 24239
+;;24229 - NQBSL Operational Grants
+NQRSV;5;
+NQRS6;6;
+;24221 - 24224
+;;24221 - NQBSL GCL Recharge
+PAAST;4;
+PAADM;5;
+PAAD6;6;
+;12980
+;;12980 - PAAST Astron Gen Ops
+PAATL;5;
+PAAT6;6;
+;12981
+;;12981 - PAAST Computing
+;12985 - 12994
+;;12985 - PAAST Temp Academic Support
+;;12988 - PAAST-Perm Fac Salaries
+PAFAC;5;
+PAFA6;6;
+;12982
+;;12982 - PAAST Facilities
+PARES;5;
+PARE6;6;
+;12983 - 12984
+;;12983 - PAAST Research Non-Grants
+;;12984 - PAAST Research
+PCENT;4;
+PCCTR;5;
+PCNNI;6;
+;31376 - 31390
+;;31376 - PCENT Nanosci Nanoengin Admin
+;;31377 - PCENT Nanosci Nanoeng Research
+;;31385 - PCENT Nanosci Nanoeng Educ Out
+;;31390 - PCENT Nanosci Nanoeng Misc Fnd
+PCPRG;5;
+PCSMI;6;
+;12968 - 12969
+;;12968 - PCENT California Teach Program
+;;12969 - PCENT Math for America
+PDPSD;4;
+PDADM;5;
+PDAD6;6;
+;12965
+;;12965 - PDPSD Phys Sc Dean Gen Ops
+;12967
+;;12967 - PDPSD Salary Provisions
+;12970 - 12979
+;;12970 - PDPSD Benefits Pool
+PDDSS;6;
+;12966
+;;12966 - PDPSD Stdt Diversity
+PGEGE;4;
+PGADM;5;
+PGAD6;6;
+;12995
+;;12995 - PGEGE Gen Ops
+;13010 - 13020
+;24720 - 24734
+PGETL;5;
+PGET6;6;
+;12996 - 12997
+;;12996 - PGEGE Computing
+;;12997 - PGEGE Sum Camp
+;13001 - 13009
+;;13001 - PGEGE Temporary Acad Salary
+PGRES;5;
+PGRE6;6;
+;12998
+;;12998 - PGEGE Research
+;12999 - 13000
+;;12999 - PGEGE Misc
+;;13000 - PGEGE Ctr for IsotopeGeochem
+PGRSV;5;
+PGRS6;6;
+;13021 - 13034
+;;13021 - PGEGE Recharge Services
+PHYSI;4;
+PHADM;5;
+PHAD6;6;
+;13050
+;;13050 - PHYSI Gen Ops
+;13057
+;;13057 - PHYSI Events & Special Prgms
+;13063
+;13076
+;13079
+;13081 - 13083
+;;13081 - PHYSI Academic Office Ops
+;;13082 - PHYSI Financial Service Ops
+;;13083 - PHYSI Support Service Ops
+;13100
+;31668
+;;31668 - PHYSI Physics Development Ops
+PHPSS;6;
+;13084
+;;13084 - PHYSI Student Support
+;31665
+;;31665 - PHYSI Sci Diversity Ofc.
+;31669
+;;31669 - PHYSI Student Service Ops
+PHFAC;5;
+PHFA6;6;
+;13052
+;;13052 - PHYSI Facilities
+PHPTL;5;
+PHPT6;6;
+;13051
+;;13051 - PHYSI Computing
+;13053 - 13055
+;;13053 - PHYSI Physics lll Lab
+;;13054 - PHYSI PIL
+;;13055 - PHYSI Acad Salary
+;31666 - 31667
+;;31666 - PHYSI Temporary Acad Support
+;;31667 - PHYSI TAS-Gateway Courses
+PHRES;5;
+PHRE6;6;
+;13056
+;;13056 - PHYSI Research
+;13058 - 13062
+;;13058 - PHYSI SS Astrophysics
+;;13059 - PHYSI SS Atomic & Molecular
+;;13060 - PHYSI SS Biophysics
+;;13061 - PHYSI SS Condensed Matter Expe
+;;13062 - PHYSI SS Condensed Matter Theo
+;13064 - 13072
+;;13064 - PHYSI SS Nuclear
+;;13065 - PHYSI SS Optics
+;;13066 - PHYSI SS Particle Experiment
+;;13067 - PHYSI SS Particle Theory
+;;13068 - PHYSI SS Plasma
+;;13069 - PHYSI SS Other Theoretical/Mat
+;;13070 - PHYSI Ctr Theoretical Physics
+;;13071 - PHYSI Ctr Cosmological Physics
+;;13072 - PHYSI Ctr Quantum Coherent Sci
+;13101 - 13114
+;;13101 - PHYSI Research
+;;13102 - PHYSI Ctr Particle Physics
+PHSHP;5;
+PHSH6;6;
+;13073 - 13075
+;;13075 - PHYSI Shops Machine Shop
+;13077 - 13078
+;;13077 - PHYSI Shops PANIC
+;;13078 - PHYSI Shops Stdt Shop
+;13080
+;;13080 - PHYSI Shops Support Services
+PMATH;4;
+PMADM;5;
+PMAD6;6;
+;13035
+;;13035 - PMATH Gen Ops
+PMMSS;6;
+;13037
+;;13037 - PMATH Stdt Serv
+PMMTL;5;
+PMMT6;6;
+;13036
+;;13036 - PMATH Computing
+;13038
+;;13038 - PMATH Calculus Lab
+;13040 - 13049
+;;13040 - PMATH In-Year Instruct Support
+;;13041 - PMATH TAS Gateway
+;;13049 - PMATH Math Diagnostic Testing
+PMRES;5;
+PMPAM;6;
+;24165 - 24179
+;;24165 - PMATH CPAM Admin
+;;24166 - PMATH CPAM Research
+PMRE6;6;
+;13039
+;;13039 - PMATH Research
+PSTAT;4;
+PSADM;5;
+PSAD6;6;
+;13085
+;;13085 - PSTAT Stat Gen Ops
+;13089
+;;13089 - PSTAT BLSS
+;13092
+;;13092 - PSTAT Special Programs
+PSSSS;6;
+;13093 - 13099
+;;13093 - PSTAT Student Support
+PSRES;5;
+PSRE6;6;
+;13090
+;;13090 - PSTAT Research
+PSSTL;5;
+PSST6;6;
+;13086 - 13088
+;;13086 - PSTAT Temp Academic Support
+;;13087 - PSTAT TAS-GATEWAY
+;;13088 - PSTAT Statistics Comp Facility
+;13091
+;;13091 - PSTAT Academic Salaries
+LS1SS;3;
+DTLAB;4;
+DTLA5;5;
+DTLA6;6;
+;32590 - 32599
+;;32590 - DTLAB General Operations
+;;32591 - DTLAB UCDATA Archive
+JVBRG;4;
+JVADM;5;
+JVAD6;6;
+;24685 - 24689
+;;24685 - JVBRG BBRG Gen Support
+;24690 - 24704
+QIIAS;4;
+QICSP;5;
+QICS6;6;
+;13342
+;;13342 - QIIAS ISSP Cog Sci TAS
+;13350 - 13355
+;;13350 - QIIAS ISSP Cog Sci Gen Ops
+QIADM;5;
+QIAD6;6;
+;13414
+;;13414 - QIIAS ISSP Gen Op
+;14357 - 14361
+;14362 - 14372
+;14373 - 14378
+QIITL;5;
+QIIT6;6;
+;13406 - 13413
+;;13406 - QIIAS ISSP Asian Studies
+;;13407 - QIIAS ISSP Dev Studies
+;;13408 - QIIAS ISSP IAS Courses
+;;13409 - QIIAS ISSP Latin Am Std
+;;13410 - QIIAS ISSP Middle East Std
+;;13411 - QIIAS ISSP Peace_Conflict Std
+;;13412 - QIIAS ISSP Political Economy
+;;13413 - QIIAS ISSP GPP Minor
+;13419
+;;13419 - QIIAS ISSP TAS
+SAAMS;4;
+SAADM;5;
+SAAD6;6;
+;13130
+;;13130 - SAAMS Af Am St Gen Ops
+SAATL;5;
+SAAT6;6;
+;13132 - 13144
+;;13132 - SAAMS Af Am St R&C
+;;13133 - SAAMS Temp Academic Support
+SARES;5;
+SARE6;6;
+;13131
+;;13131 - SAAMS Research
+SBETH;4;
+SBADM;5;
+SBAD6;6;
+;13205
+;;13205 - SBETH Ethnic Studies Gen Ops
+;13207
+;;13207 - SBETH Chicano Studies
+;13209
+;;13209 - SBETH Asian American Studies
+;13211
+;;13211 - SBETH Native American Studies
+SBETL;5;
+SBET6;6;
+;13208
+;;13208 - SBETH Reading and Composition
+;13210
+;13213 - 13229
+;;13213 - SBETH Library
+;;13214 - SBETH Temp Academic Support
+SBRES;5;
+SBRE6;6;
+;13206
+;;13206 - SBETH Ethnic Studies Research
+;13212
+SDDEM;4;
+SDADM;5;
+SDAD6;6;
+;13175
+;;13175 - SDDEM Demography Gen Ops
+;13176
+SDDTL;5;
+SDDT6;6;
+;13178 - 13189
+;;13178 - SDDEM Temp Academic Support
+SDRES;5;
+SDRE6;6;
+;13177
+;;13177 - SDDEM Research
+SECON;4;
+SEADM;5;
+SEAD6;6;
+;13190
+;;13190 - SECON Econ Gen Ops
+;13193
+;13199 - 13204
+;;13199 - SECON Economic Dept Projects
+SEETL;5;
+SEET6;6;
+;13194
+;;13194 - SECON Temp Academic Support
+;13197
+;;13197 - SECON Student Aid
+SERES;5;
+SERE6;6;
+;13191 - 13192
+;;13191 - SECON Econometrics Lab
+;;13192 - SECON Research
+;13195 - 13196
+;;13195 - SECON CLE
+;;13196 - SECON Burch Center Funds
+;13198
+;;13198 - SECON Center Research
+SGEOG;4;
+SGADM;5;
+SGAD6;6;
+;13230
+;;13230 - SGEOG Geography Gen Ops
+SGGTL;5;
+SGGT6;6;
+;13231
+;;13231 - SGEOG Computing Facility
+;13233 - 13244
+;;13233 - SGEOG Temp Academic Support
+SGRES;5;
+SGRE6;6;
+;13232
+;;13232 - SGEOG Research
+SHIST;4;
+SHADM;5;
+SHAD6;6;
+;13245
+;;13245 - SHIST History Gen Ops
+;13249
+;;13249 - SHIST Student Support
+SHHTL;5;
+SHHT6;6;
+;13247 - 13248
+;;13247 - SHIST History R&C Instruction
+;;13248 - SHIST Temp Academic Support
+;13250 - 13259
+;;13250 - SHIST Hist Soc Sci Proj (HSSP)
+SHRES;5;
+SHRE6;6;
+;13246
+;;13246 - SHIST Research
+SISOC;4;
+SIADM;5;
+SIAD6;6;
+;13305
+;;13305 - SISOC Sociology Gen Ops
+SIRES;5;
+SIRE6;6;
+;13306
+;;13306 - SISOC Research
+SISTL;5;
+SIST6;6;
+;13307 - 13319
+;;13307 - SISOC Temp Academic Support
+;;13308 - SISOC Prog on Comp Stds of Soc
+SLING;4;
+SLADM;5;
+SLAD6;6;
+;13260
+;;13260 - SLING Linguistics Gen Ops
+SLLTL;5;
+SLLT6;6;
+;13263 - 13274
+;;13263 - SLING Phonology Lab
+;;13264 - SLING Linguistics R&C Instruct
+;;13265 - SLING Temp Academic Supptort
+SLRES;5;
+SLRE6;6;
+;13261 - 13262
+;;13261 - SLING Research
+;;13262 - SLING SCOIL
+SPOLS;4;
+SPADM;5;
+SPAD6;6;
+;13275
+;;13275 - SPOLS Poli Sc Gen Ops
+;13277
+;13278
+;13285 - 13289
+SPPTL;5;
+SPPT6;6;
+;13276
+;;13276 - SPOLS Computing
+;13280 - 13284
+;;13280 - SPOLS Temp Academic Support
+SPRES;5;
+SPRE6;6;
+;13279
+;;13279 - SPOLS Research
+SRIIS;4;
+SRII5;5;
+SRII6;6;
+;20980 - 20985
+;;20980 - SRIIS Matrix Administration
+;;20981 - SRIIS Matrix Research and Prog
+;24350 - 24387
+;;24350 - SRIIS IBER Projects
+;;24365 - SRIIS Adm Central Ops
+;;24375 - SRIIS Fung Center on Risk Mgmt
+;;24376 - SRIIS XLAB Subject Funds
+;;24378 - SRIIS CEGA Research Grants
+;;24379 - SRIIS Berkeley Population Ctr
+;;24382 - SRIIS CEDA
+;;24383 - SRIIS Res Econometrics Lab
+;;24384 - SRIIS Ctr Regulatory Policy
+;;24386 - SRIIS XLAB
+;;24387 - SRIIS Res Other Research
+;24396 - 24404
+;;24396 - SRIIS CHR Research Grants
+;;24397 - SRIIS Competition Policy Ctr
+;;24398 - SRIIS CEGA Operations
+;31450 - 31469
+;;31450 - BUGMS Global Metro Admin
+SSSSD;4;
+SSADM;5;
+SSAD6;6;
+;13115
+;;13115 - SSSSD Soc Sc Dean Gen Ops
+;13118 - 13129
+;;13118 - SSSSD Salary Provisions
+;;13119 - SSSSD Ben Funding Pool
+;;13120 - SSSSD Inst Integr Soc Sciences
+SSDSS;6;
+;13117
+;;13117 - SSSSD Student Diversity Off
+SSRES;5;
+SSRE6;6;
+;13116
+;;13116 - SSSSD Research
+SWOME;4;
+SWADM;5;
+SWAD6;6;
+;13320
+;;13320 - SWOME Gen & Women's St Gen Ops
+SWRES;5;
+SWRE6;6;
+;13321
+;;13321 - SWOME Research
+SWWTL;5;
+SWWT6;6;
+;13322 - 13329
+;;13322 - SWOME Temp Academic Support
+;;13323 - SWOME R&C Funding
+SYPSY;4;
+SYADM;5;
+SYPSS;6;
+;13295 - 13304
+;;13295 - SYPSY Student Support
+SYAD6;6;
+;13290
+;;13290 - SYPSY Psych Gen Ops
+;13294
+;;13294 - SYPSY Faculty Academic Sal
+SYPTL;5;
+SYPT6;6;
+;13293
+;;13293 - SYPSY Temp Academic Support
+SYRES;5;
+SYRE6;6;
+;13291
+;;13291 - SYPSY Research
+SYRSV;5;
+SYRS6;6;
+;13292
+;;13292 - SYPSY Clinic
+SZANT;4;
+SZADM;5;
+SZAD6;6;
+;13160
+;;13160 - SZANT Anthro Gen Ops
+;13165
+;;13165 - SZANT Faculty Salaries
+SZATL;5;
+SZAT6;6;
+;13161
+;;13161 - SZANT Computing
+;13163 - 13164
+;;13163 - SZANT Folklore Program
+;;13164 - SZANT Temp Academic Support
+;13166
+;;13166 - SZANT Anthro R&C Instruction
+SZRES;5;
+SZRE6;6;
+;13162
+;;13162 - SZANT Research
+LS1UI;3;
+QBUDL;4;
+QBADM;5;
+QBAD6;6;
+;12091
+;;12091 - QBUDL Collegiums
+;13330 - 13334
+;;13330 - QBUDL General Ops
+;;13331 - QBUDL Salary Provisions
+;;13332 - QBUDL Administration
+;13336
+;;13336 - QBUDL Undergrad Div Benefits
+QCADV;4;
+QCADM;5;
+QCAD6;6;
+;12100 - 12114
+;;12100 - QCADV Gen Ops
+;;12101 - QCADV Computing Svs
+;;12102 - QCADV Peer Advising
+QHUIS;4;
+QHADM;5;
+QHAD6;6;
+;13335
+;13339
+;;13339 - QHUIS TP UGIS Gen Ops
+;31270 - 31279
+QHUTL;5;
+QHUT6;6;
+;13337 - 13338
+;;13337 - QHUIS Discovery Courses
+;;13338 - QHUIS UGIS Courses
+;13340 - 13341
+;;13341 - QHUIS TP Am Studies
+;13343 - 13349
+;;13343 - QHUIS TP Dean of UG Education
+;;13345 - QHUIS TP Freshman Seminars
+;;13346 - QHUIS TP ID Studies Field Maj
+;;13347 - AVAILABLE FOR USE
+;;13348 - QHUIS Media Studies
+;;13349 - QHUIS TP Religious Studies
+QKCWP;4;
+QKWTL;5;
+QKWT6;6;
+;13430 - 13444
+;;13431 - QKCWP CWP Gen Ops
+QLROT;4;
+QLADM;5;
+QLAD6;6;
+;13445
+;;13445 - QLROT ROTC MA Gen Oper
+QLRTL;5;
+QLRT6;6;
+;13446 - 13459
+;;13447 - QLROT ROTC Aerospace Studies
+;;13448 - QLROT ROTC Military Science
+;;13449 - QLROT ROTC Naval Science
+QMRES;4;
+QMRTL;5;
+QMRT6;6;
+;13356
+;13357 - 13384
+;;13357 - QMRES UCDC Gen Ops
+;13385 - 13399
+;;13385 - QMRES SO Schshp Gen Ops
+;13400 - 13403
+;;13400 - QMRES UG Res Gen Ops
+;;13401 - QMRES UG Res Computing
+;;13402 - QMRES UG Res URAP
+;;13403 - QMRES UG Res Haas Scholars
+SCHOL;2;
+BOALT;3;
+CLLAW;4;
+CLADM;5;
+CLBLD;6;
+;11871 - 11872
+;;11871 - CLLAW Building Services
+;;11872 - CLLAW Operations
+;11874
+;;11874 - CLLAW Telegraph
+CLBUS;6;
+;11868 - 11869
+;;11868 - CLLAW Fin Plan and Analysis
+;;11869 - CLLAW ADM Business Services
+CLCAR;6;
+;11999
+;;11999 - CLLAW Career Services
+CLCFO;6;
+;11865
+;;11865 - CLLAW One Time Provisions
+;11875
+;;11875 - CLLAW Salary Provisions
+;11880
+;;11880 - CLLAW Dean's Extramural
+;11894
+;;11894 - CLLAW Commitments
+CLCOM;6;
+;11895
+;;11895 - CLLAW Marktg and Communication
+;11905 - 11919
+CLDEV;6;
+;11890 - 11893
+;;11890 - CLLAW Alumni General Ops
+;;11891 - CLLAW Annual Giving
+;;11892 - CLLAW Alumni Events
+;;11893 - CLLAW Major Gifts
+;11896 - 11904
+;;11896 - CLLAW Corp and Fdn Engagement
+CLDIO;6;
+;11866
+;;11866 - CLLAW Dean Immediate Ofc
+CLEVN;6;
+;32396 - 32400
+;;32396 - CLLAW Spec Proj and Event Svcs
+CLFOP;6;
+;11998
+;;11998 - CLLAW JD Financial Aid Admin
+CLFSU;6;
+;11921
+;;11921 - CLLAW Fac Support Unit
+CLJDA;6;
+;11996 - 11997
+;;11996 - CLLAW JD Outreach and Recruitm
+;;11997 - CLLAW JD Admissions
+CLLIT;6;
+;11870
+;;11870 - CLLAW Computer Services
+;11873
+;;11873 - CLLAW Media Services
+;32600 - 32609
+;;32600 - CLLAW Online Education
+CLLOP;6;
+;12065 - 12066
+;;12065 - CLLAW  Library Gen Ops
+;;12066 - CLLAW Library Collection
+;12068 - 12075
+;;12068 - CLLAW Studnt Lab and Lib Comp
+;;12069 - CLLAW  Index to For Leg Prdcls
+;;12070 - CLLAW  Boalt Express
+CLPAY;6;
+;11867
+;;11867 - CLLAW Human Resources Payrll
+CLSSR;6;
+;11995
+;;11995 - CLLAW Student Services
+;12000 - 12001
+;;12000 - CLLAW Registrar Office
+CLCEE;5;
+CLCE6;6;
+;12005 - 12009
+;;12005 - CLLAW Executive Education
+CLDEG;5;
+CLJDP;6;
+;11956
+;;11956 - CLLAW JD Ladder Fac Sals
+;11975 - 11977
+;;11975 - CLLAW JD Lecturers
+;;11976 - CLLAW Visitors
+;;11977 - CLLAW JD Instr Private Fac Sal
+;11984 - 11994
+;;11984 - CLLAW JD Instr Lects in Res
+CLJSP;6;
+;12010 - 12017
+;;12015 - CLLAW JSP General Ops
+;;12016 - CLLAW JSP Ladder Fac Sals
+;;12017 - CLLAW Legal Studies Instr
+;12020 - 12034
+;;12020 - CLLAW Legal Studies Gen Ops
+CLLLM;6;
+;12002
+;;12002 - CLLAW LLM Pgrm Administration
+;12004
+;;12004 - CLLAW LLM Direct Instruction
+CLSKL;6;
+;11978 - 11983
+;;11978 - CLLAW Experiential Education
+;;11979 - CLLAW Academic Support Prg
+;;11980 - CLLAW Legal_Research_Writing
+;;11981 - CLLAW Competitions
+;;11982 - CLLAW Field Placement Prg
+;;11983 - CLLAW UCDC Law Prg
+CLSUP;6;
+;11920
+;;11920 - CLLAW Fac Funds School
+;11922
+;;11922 - CLLAW  Fac Summer Sals
+;11927 - 11954
+;;11927 - CLLAW FS Faculty Start Up
+;11955
+;;11955 - CLLAW Curriculum Planning
+CLFIN;5;
+CLAID;6;
+;12018
+;;12018 - CLLAW Fin Aid Provisions
+;12019
+;;12019 - CLLAW JSP Financial Aid
+;12035
+;;12035 - CLLAW JD Need Merit Based Awar
+;12037 - 12049
+;;12037 - CLLAW JD Loan Repmt Assist Prg
+;;12038 - CLLAW JD Prizes
+;;12039 - CLLAW JD Summer Fellowships
+;;12040 - CLLAW FA LLM Financial Aid
+;;12041 - CLLAW JD Bridge Emplynt Prg
+;;12042 - CLLAW FA Dean's & Matching
+;;12043 - CLLAW JD Scholarships
+;;12044 - CLLAW JD Other Discretionary
+CLINS;5;
+CLCLI;6;
+;11957 - 11958
+;;11957 - CLLAW Clinics General Admin
+;11964 - 11974
+;;11964 - CLLAW Intl Human Rights Law
+;;11965 - CLLAW Samlsn Law Tech Pub Pol
+;;11966 - CLLAW Death Penalty Clinic
+;;11967 - CLLAW East Bay Cmmty Law Ctr
+;;11968 - CLLAW Environment Law Clinic
+;;11969 - CLLAW Policy Advocacy Clinic
+CLRES;5;
+CLCAI;6;
+;11876 - 11879
+;;11876 - CLLAW Warren Institute
+;;11877 - CLLAW RS Criminal Justice Ctr
+;;11878 - CLLAW Miller Institute
+;;11879 - CLLAW PublicLaw and Policy Ctr
+;11881 - 11889
+;;11881 - CLLAW Ctr Hlth Econ Fam Scty
+;;11882 - CLLAW JewishLaw and Israeli St
+;;11883 - CLLAW Reproductive Justice Ctr
+;;11884 - CLLAW Mindfulness In Law
+;;11885 - CLLAW Visiting Scholars
+;;11886 - CLLAW Korea Law Ctr
+;;11887 - CLLAW- Civil Just Res Inst
+;11923 - 11924
+;;11923 - CLLAW BerkCtr for Law and Tech
+;;11924 - CLLAW Henderson Center
+;11959 - 11963
+;;11959 - CLLAW Ctr Law Energy and Envir
+;;11961 - CLLAW Berk Ctr Law Bus and Eco
+;;11963 - CLLAW Kadish Center
+CLCOL;6;
+;12067
+;;12067 - CLLAW Robbins Collection
+CLFAC;6;
+;11925 - 11926
+;;11925 - CLLAW FS Fac I&R Grants
+;;11926 - CLLAW FS Committee on Resrch
+;12036
+;;12036 - CLLAW FA Rsrch & Project Grant
+CLORU;6;
+;14620 - 14627
+;;14620 - CLLAW Human Rights Ctr Gen Ops
+;;14621 - CLLAW HRC Faculty Costs
+;;14622 - CLLAW Human Rights Instruction
+;;14623 - CLLAW Human Rights Ctr
+;;14624 - CLLAW Human Rights Development
+;;14625 - CLLAW Human Rights Outreach
+;;14626 - CLLAW Human Rights Ctr Other
+;;14627 - CLLAW  Human Rights Center
+;24054 - 24089
+;;24056 - CLLAW Inst Legal Res - Admin
+;;24057 - CLLAW Inst Legal Res- Research
+;;24062 - CLLAW Inst Legal Res - Misc
+;;24065 - CLLAW CSLS Admin
+;;24066 - CLLAW CSLS Misc
+;;24075 - CLLAW CSLS Faculty Res
+;;24076 - CLLAW CSLS Student Res
+;;24077 - CLLAW CSLS Gen Support
+;;24078 - CLLAW CSLS Other Res Proj
+;24330 - 24332
+;;24330 - CLLAW Statewide Database
+;;24331 - CLLAW Statewide DB Contractors
+;;24332 - CLLAW BC Research Projects
+CLSTU;5;
+CLJAG;6;
+;12003
+;;12003 - CLLAW Student Groups
+;12050 - 12064
+;;12050 - CLLAW California Law Review
+;;12051 - CLLAW Ecology Law Quarterly
+;;12052 - CLLAW Berk Tech Law Jrnl
+;;12053 - CLLAW La Raza Law Jrnl
+;;12054 - CLLAW BerkJrnl Emp and LabrLaw
+;;12055 - CLLAW Berk Jrnl of Intl Law
+;;12056 - CLLAW Berk Women Law Jrnl
+;;12057 - CLLAW Student Jrnl Coordinator
+;;12058 - CLLAW Jrnl AfrAmer Law and Pol
+;;12059 - CLLAW Berk Business Law Jrnl
+;;12060 - CLLAW Asian Law Journal
+;;12061 - CLLAW Berk Jrnl of Crimin Law
+;;12062 - CLLAW Jrnl MidEast Islamic Law
+;;12063 - CLLAW SLIPS Student Groups
+GSCPP;3;
+KFSHE;4;
+KFSH5;5;
+KFSH6;6;
+;10157 - 10159
+;;10157 - KFSHE Professoriate Challenges
+;;10158 - KFSHE General Operations
+;;10159 - KFSHE Univ History
+;30700 - 30715
+;;30700 - KFSHE General Accounts
+;;30701 - KFSHE Digital Age
+;;30703 - KFSHE HE Access
+;;30705 - KFSHE Clark Kerr Project
+;;30706 - KFSHE David Gardner Project
+;;30708 - KFSHE Seminars
+;;30711 - KFSHE Exec Leadership Academy
+CADEV;4;
+CADE5;5;
+CADE6;6;
+;14085
+;;14085 - CADEV DEV Development Gen Ops
+;14095 - 14099
+CBALT;4;
+CBAL5;5;
+CBAL6;6;
+;14086 - 14094
+;;14086 - CBALT International Alliances
+;;14087 - CBALT Master of Public Affairs
+;;14088 - CBALT Online Education
+;14121
+;;14121 - CBALT PR PPIA Program
+;14123
+;;14123 - CBALT PR Exec Intl Programs
+CFPPR;4;
+CFPP5;5;
+CFPP6;6;
+;14120
+;;14120 - CFPPR PR Research Activities
+;14122
+;;14122 - CFPPR PR Special Programs
+;14124
+;;14124 - CFPPR PR Wildavsky Forum
+;14129
+;;14129 - CFPPR CEPP Ctr Enviro Pub Pol
+;14132
+;;14132 - CFPPR DEAN Rh Goldman Lecture
+;24389
+;;24389 - CFPPR BPHUP
+CHDCA;4;
+CHDC5;5;
+CHDC6;6;
+;14125 - 14128
+;;14125 - CASPP SS Tuition and Fees
+;14140 - 14154
+;;14140 - CHDCA AST DN Student Services
+;;14141 - CHDCA AST DN Alumni Services
+;;14142 - CHDCA AST DN Career Services
+;;14144 - CHDCA Student Groups
+;;14145 - CHDCA Student Aid
+CJDEN;4;
+CJDE5;5;
+CJDE6;6;
+;14112 - 14119
+;;14112 - CJDEN School Discretionary
+;;14113 - CJDEN Dean Advisory Board
+;;14116 - CJDEN Salary Provisions
+;;14117 - CJDEN Fac Recruitmt Retention
+;14130 - 14131
+;;14130 - CJDEN DEAN Dean Events
+;;14131 - CJDEN DEAN Dean Activities
+;14133 - 14139
+;;14133 - CJDEN DEAN Discretionary Exps
+CKGEN;4;
+CKGE5;5;
+CKGE6;6;
+;14100 - 14111
+;;14100 - CKGEN OPS Operating Expenses
+;;14101 - CKGEN OPS Tech SupportandEquip
+;;14102 - CKGEN OPS Temporary Teaching
+;;14103 - CKGEN OPS Faculty Payroll
+;;14105 - CKGEN OPS Academic Stud Empl
+HAAS3;3;
+BAHSB;4;
+BAAAF;5;
+BACTE;6;
+;10209
+;;10209 - BAHSB Ctr for Teaching Excel
+BAFCA;6;
+;10200 - 10205
+;;10200 - BAHSB Business Svcs Assts
+;;10201 - BAHSB Fac Assts
+;10372
+;;10372 - BAHSB B&O Fac Assists
+BAGRP;6;
+;10550 - 10563
+;;10553 - BAHSB Acad Group Ch Acctng
+;;10554 - BAHSB Acad Group Ch BPP
+;;10555 - BAHSB Acad Group Ch EAP
+;;10556 - BAHSB Acad Group Ch Finance
+;;10557 - BAHSB Acad Group Ch Marketing
+;;10558 - BAHSB Acad Group Ch OITM
+;;10559 - BAHSB Acad Group Ch MORS
+;;10560 - BAHSB Acad Grp Ch Real Estate
+BAIBD;6;
+;10230 - 10240
+;;10240 - BAHSB Intl Business Dev
+BAOIS;6;
+;10534 - 10535
+;;10534 - BAHSB Acad Faculty Gen Ops
+;;10535 - BAHSB Temporary Instruction
+;10537 - 10539
+;;10537 - BAHSB Acad Student Employees
+;;10538 - BAHSB Acad Sal Savings/Buyouts
+BADNO;5;
+BADAR;6;
+;10186 - 10188
+;;10186 - BAHSB Devel Gen Ops
+;;10187 - BAHSB Devel Alumni Relations
+;;10188 - BAHSB Devel Annual Fund Unit
+;10190 - 10195
+;;10190 - BAHSB Devel Corp and Fndn Rel
+;;10191 - BAHSB Dev Info Mgmt & Stwrdshp
+;;10192 - BAHSB Devel Deans Activities
+;;10193 - BAHSB Devel Symposium
+;;10194 - BAHSB Devel Events
+;;10195 - BAHSB Major Gifts
+BAOCC;6;
+;10429 - 10436
+;;10429 - BAHSB PT & Alum Career Gen Ops
+;;10430 - BAHSB Career Recruitment Ctr
+;;10431 - BAHSB FTMBA Career Gen Ops
+;10448 - 10458
+;;10448 - BAHSB Career Gen Ops
+BASEX;6;
+;10459 - 10468
+;;10459 - BAHSB Exec Ed Gen Ops
+;;10460 - BAHSB Exec Ed Prgm Cost
+;;10461 - BAHSB Exec Ed Bldg Activity
+;;10462 - BAHSB Exec Ed Open
+;;10463 - BAHSB Exec Ed Partner
+;;10464 - BAHSB Exec Ed Custom
+;;10465 - BAHSB Exec Ed Statoil
+BAINS;5;
+BAAAI;6;
+;10650 - 10664
+;;10650 - BAHSB Student Aid FTMBA
+;;10651 - BAHSB Student Aid SelfSupp MBA
+;;10652 - BAHSB Student Aid PhD
+;;10653 - BAHSB Student Aid Undergrad
+;;10654 - BAHSB Student Aid General
+BAAAO;6;
+;10206 - 10208
+;;10206 - BAHSB Acad Planning Gen Ops
+;;10207 - BAHSB Leadership Dev Ser- LDS
+;;10208 - BAHSB Berk Innov Ldr Dev-BILD
+;10219
+;;10219 - BAHSB Instr Prog Discretion
+;10220 - 10229
+;10344 - 10351
+;;10344 - BAHSB Master's in Prof Acctg
+;10533
+;;10533 - BAHSB Acad Classroom Material
+BAIND;6;
+;10275 - 10285
+;;10275 - BAHSB Instr PhD Gen Ops
+;;10276 - BAHSB Instr PhD Stdt Sup
+BAINF;6;
+;10314 - 10316
+;;10314 - BAHSB Instr MFE Gen Ops
+BAINM;6;
+;10245 - 10252
+;;10249 - BAHSB FTMBA Gen Ops
+;;10250 - BAHSB Instr MBA SS Wkshp
+;;10251 - BAHSB Instr MBA Stdt Serv
+;10437
+;;10437 - BAHSB FTMBA Admissions
+BAINU;6;
+;10286 - 10300
+;;10286 - BAHSB Instr UG Gen Ops
+;;10292 - BAHSB Instr UG Other Actvts
+;;10293 - BAHSB Instr UG PreCollege
+;;10294 - BAHSB HAAS COE MET
+;10649
+;;10649 - BAHSB Student Acts Gen Ops
+BAONL;6;
+;10210 - 10218
+;;10210 - BAHSB Emerging Initiatives
+BAWPS;6;
+;10301 - 10313
+;;10301 - BAHSB EWMBA Gen Ops
+;;10306 - BAHSB Instr Exec MBA Gen Ops
+;10317 - 10322
+;;10318 - BAHSB Instr BCEMBA Indirect
+;;10320 - BAHSB Instr BCEMBA Direct
+;10438 - 10447
+;;10439 - BAHSB WPMBA Admn and EWMBA Mkt
+;;10440 - BAHSB Instr BCEMBA Marketing
+BARES;5;
+BAAGE;6;
+;10536
+;;10536 - BAHSB Acad Summer Ninths
+;10620 - 10648
+;;10633 - BAHSB Res Dean's Ofc Grants
+;;10634 - BAHSB Res COR Campus Grants
+;;10636 - BAHSB URAP Grants
+;;10639 - BAHSB Res Other Activities
+BABLB;6;
+;10323 - 10325
+;;10325 - BAHSB Behavioral Lab
+BASAI;5;
+BAAHR;6;
+;10374
+;;10374 - BAHSB Acad HR Gen Ops
+;10540 - 10544
+;;10540 - BAHSB Acad Recruiting Start-up
+;;10541 - BAHSB Acad Recruit Candidates
+;10545 - 10549
+;;10545 - BAHSB Acad Visiting Schols
+BAAPR;6;
+;10176
+;;10176 - BAHSB Dean Discretion
+;10196 - 10199
+;;10196 - BAHSB Haas Annual Fund Rev
+;10373
+;;10373 - BAHSB B&O Haas Gear
+;10375 - 10376
+;;10375 - BAHSB Cafe
+;;10376 - BAHSB BO Admin Repro Unit
+;10507 - 10532
+;;10521 - BAHSB Endow Chr & Disting Prof
+;10564 - 10619
+;;10569 - BAHSB SAI Lib Data Serv
+;;10582 - BAHSB Central Provision
+;;10583 - BAHSB Schoolwide Commitments
+;;10584 - BAHSB Student Fee Revenue
+;;10587 - BAHSB PROV Salary Provisions
+BAFIN;6;
+;10362
+;;10362 - BASHB Finance
+;10364
+;;10364 - BAHSB BO Accounting Gen Ops
+BAHCS;6;
+;10395
+;;10395 - BAHSB ECSM Media Svc
+;10406 - 10412
+;;10406 - BAHSB ECSM Gen Ops
+;;10407 - BAHSB ECSM Node Bank
+;;10408 - BAHSB ECSM Systems
+;;10409 - BAHSB ECSM Lab Svcs
+;;10410 - BAHSB ECSM Projects
+;;10411 - BAHSB ECSM Training
+;;10412 - BAHSB ECSM Databases
+;10413 - 10428
+;;10413 - BAHSB ECSM Bus An and App Dev
+;;10414 - BAHSB ECSM Info Svcs
+;;10415 - BAHSB ECSM Project Mgmt
+;;10416 - BAHSB ECSM Technical Support
+;;10417 - BAHSB ECSM Systms and Insfras
+BAMNT;6;
+;10189
+;;10189 - BAHSB B&O Building Fund
+;10367 - 10371
+;;10367 - BAHSB ECSM Bldg Maintenance
+;;10368 - BAHSB ECSM Bldg Improvements
+;;10369 - BAHSB ECSM Bldg Furnishings
+;;10370 - BAHSB ECSM Bldg Security
+;;10371 - BAHSB Haas Offsite Rent Leases
+;10377 - 10394
+;;10377 - BAHSB Onsite Facility Gen Ops
+;10397 - 10405
+;;10397 - BAHSB NAB Project
+BAOPS;6;
+;10175
+;;10175 - BAHSB Dean Gen Ops
+;10177
+;;10177 - BAHSB Deans Initiatives
+;10179 - 10185
+BASHR;6;
+;10363
+;;10363 - BAHSB Schoolwide Activities
+;10365 - 10366
+;;10365 - BAHSB HR Staff Gen Ops
+;;10366 - BAHSB Offce and Instr Supplies
+BASMC;6;
+;10469 - 10471
+;;10469 - BASHSB MarComm Gen Ops
+;;10470 - BAHSB M&C WWW Gen Ops
+;10487 - 10499
+;;10494 - BAHSB M&C Pubs Gen Ops
+;;10495 - BAHSB M&C Pubs Cal Bus
+;;10498 - BAHSB MarComm Pubs & Comms
+BCHCI;4;
+BCOUR;5;
+BCABC;6;
+;10328 - 10334
+;;10332 - BCHCI Haas Asia Business Ctr
+BCBEI;6;
+;10335 - 10341
+;;10335 - BCHCI Cleantech to Market C2M
+;;10336 - BCHCI Energy Institute Gen Ops
+;;10337 - BCHCI Energy Inst Research
+;16160 - 16165
+;;16160 - BCHCI BERC Energy Res Collab
+;24855 - 24869
+;;24855 - BCHCI UCEI General OPs
+BCCMR;6;
+;10500 - 10506
+;;10505 - BCHCI CMR Gen Ops
+;;10506 - BCHCI CMR Other Actvts
+BCCPE;6;
+;10326 - 10327
+;;10326 - BCHCI Ctr for Political Econ
+BCFIS;6;
+;24388
+;;24388 - BCHCI Fisher Ctr Real Estate
+;24390 - 24395
+;;24390 - BCHCI Fisher Ctr Research
+;;24391 - BCHCI Fisher Ctr Policy Adv Bd
+;;24392 - BCHCI Fisher Ctr Conferences
+;;24393 - BCHCI Fishr Ctr Academic Supp
+BCIBI;6;
+;10178
+;;10178 - BCHCI Haas@Work
+;10352 - 10361
+;;10352 - BCHCI ORU Ctr MOT Gen Ops
+;23705 - 23719
+;;23705 - BCHCI IBI Gen Ops
+;;23706 - BCHCI Misc Funds
+;;23707 - BCHCI Berk Haas Entrepship Prg
+;;23708 - BCHCI Fisher Ctr Mgt and Tech
+;;23709 - BCHCI Cntr Ind Econ Pol Theory
+;;23710 - BCHCI Cntr for Mgmt of Tech
+;;23711 - BCHCI Garwood Center
+;;23712 - BCHCI Student Support
+;;23714 - BCHCI Haas@Work Program
+;;23716 - BCHCI Tusher Center for ICM
+BCIMS;6;
+;10253 - 10255
+;;10253 - BCHCI Ctr for Resp Bus
+;;10254 - BCHCI Instr Health Mgt Prog
+;10264 - 10274
+;;10264 - BCHCI CSSL Gen Ops
+;;10265 - BCHCI CSSL Social Impact Award
+;10472 - 10486
+;;10474 - BCHCI YEAH
+;32640 - 32644
+;;32640 - BCHCI Inst Bus Soc Impct Ops
+BCINB;6;
+;10241 - 10244
+;;10241 - BCHCI Clausen Center
+BCOFR;6;
+;10342 - 10343
+;;10342 - BCHCI CFRM Gen Ops
+;;10343 - BCHCI ORUCtr CFRM Conference
+SC1OP;3;
+BOOPT;4;
+BOAAF;5;
+BOAA6;6;
+;13655 - 13687
+;;13655 - BOOPT AA General Operations
+;;13665 - BOOPT AA Temp Instruc Costs
+BOEXT;5;
+BOEXD;6;
+;13736 - 13749
+;;13737 - BOOPT ER Development
+;;13738 - BOOPT ER Professional Affairs
+;;13739 - BOOPT ER Special Events
+;;13740 - BOOPT ER Gifts/Endowments
+BOEXC;6;
+;13724 - 13735
+;;13724 - BOOPT CE General Operations
+;;13725 - BOOPT CE Berkeley Practicum
+;;13726 - BOOPT CE Morgan/Sarv Symposium
+;;13729 - BOOPT CE Glaucoma BOLD
+BOINS;5;
+BOPRG;6;
+;13750 - 13769
+;;13750 - BOOPT OP General Operations
+;;13757 - BOOPT OP Equip Replacement
+BOVIS;6;
+;13770 - 13789
+;;13770 - BOOPT VS General Operations
+;;13776 - BOOPT VS Student Support
+BOOPS;5;
+BODIM;6;
+;13695 - 13697
+;;13695 - BOOPT BO Department Reserves
+;13706 - 13723
+;;13706 - BOOPT DN General Operations
+;;13707 - BOOPT DN Professional Affairs
+;;13710 - BOOPT DN Dean's Reserves
+BOOP6;6;
+;13688 - 13694
+;;13688 - BOOPT BO Gen Operations SPO
+;13698 - 13705
+;;13699 - BOOPT BO Business & Research
+;;13701 - BOOPT BO Facilities & Safety
+;;13702 - BOOPT BO IT Services
+;;13703 - BOOPT BO Publications
+;;13704 - BOOPT BO Events
+BPOPC;4;
+BPCLN;5;
+BPCL6;6;
+;13845 - 13859
+;;13845 - BPOPC GO Clinic Admin & Supp
+;13893 - 13904
+;;13893 - BPOPC SS Patient Services
+;;13894 - BPOPC SS Computing
+;;13895 - BPOPC SS Administrative Off
+BPCLP;5;
+BPCP6;6;
+;13905
+;;13905 - BPOPC CP Optometric Residents
+BPFPP;5;
+BPFP6;6;
+;13906 - 13908
+;;13906 - BPOPC CP Telemed & eHealth Ctr
+;13929
+;;13929 - BPOPC Digital Health
+BPOCP;5;
+BPOC6;6;
+;13909 - 13911
+;;13910 - BPOPC OCP Auxiliary Clinics
+BPSHC;6;
+;13912 - 13919
+;;13912 - BPOPC SH Aux Clinics (CSUs)
+BPPCR;5;
+BPPC6;6;
+;13860 - 13863
+;;13860 - BPOPC IS Instr General Sup
+;13864 - 13875
+;;13864 - BPOPC PC Minor Hall Clinics
+;;13868 - BPOPC PC Low Vision
+;;13870 - BPOPC PC Refractiv Surgery Ctr
+;13877 - 13889
+;13890 - 13892
+;;13890 - BPOPC SS Eyewear Center
+BPTNG;5;
+BPTN6;6;
+;13920 - 13924
+;;13920 - BPOPC TC Tang Eye Center
+;;13923 - BPOPC TC Tang Administration
+;13925 - 13928
+BQRES;4;
+BQRE5;5;
+BQRE6;6;
+;13790 - 13844
+;;13822 - BQRES RS Pre Award
+;;13823 - BQRES RS Post Award Federal
+;;13824 - BQRES RS Post Award State
+;;13825 - BQRES RS Post Award Private
+;;13826 - BQRES RS Post Award Gifts
+;;13827 - BQRES RS Post Award Other
+;;13828 - BQRES RS Other
+;;13829 - BQRES DN Startup
+;;13830 - BQRES DN Trainees
+SC1PH;3;
+COREC;4;
+CORCH;5;
+COCEH;6;
+;32539
+;;32539 - COREC CA_Chldhd_Leukemia
+;32545
+;;32545 - COREC CtrEnvResChldsHlth
+COCHC;6;
+;14022 - 14024
+;;14024 - COREC JMP Joint Med Prg Res
+;30008 - 30009
+;;30008 - COREC Ctr_MCH_Helen_Wallace
+;;30009 - COREC Innovations_for_Youth
+;32538
+;;32538 - COREC Bixby Center
+COEBI;6;
+;14000 - 14002
+;;14000 - COREC InfectD_Research_PI
+;14007 - 14010
+;;14007 - COREC Epid_Research _PI
+;14043 - 14046
+;;14043 - COREC Biostats_Research_PI
+;29941
+;;29941 - COREC CTML_CI_BigData
+;32547
+;;32547 - COREC CtrGlobalPublicHlth_CGPH
+;32563
+;;32563 - COREC Wet Lab
+COEOH;6;
+;14015 - 14018
+;;14015 - COREC Environmental_Health_Res
+;;14016 - COREC Envir Research Offsite
+;30010
+;;30010 - COREC CtrOccupEnvironHlth
+;30017
+;;30017 - COREC Labor_Occupational_Hlth
+;32553
+;;32553 - COREC Hlth_Init_of_Americas
+;32561
+;;32561 - COREC SafeTREC
+COEQU;6;
+;14037 - 14038
+;;14037 - COREC CHHD Research
+;32535
+;;32535 - COREC Alcohol Resrch Grp_ARG
+;32546
+;;32546 - COREC CtrFamily&CommHlth_CFCH
+;32558
+;;32558 - COREC Prevention Res Ctr
+COHMR;6;
+;14053 - 14054
+;;14053 - COREC HealthPolicyMgmtResearch
+;14084
+;;14084 - COREC Health_Resourse_inAction
+;30005
+;;30005 - COREC Global_Health_Practice
+;30007
+;;30007 - COREC Ctr_Hlth_Org_Inov_Res
+;32537
+;;32537 - COREC BerkCtrHealthTech_BCHT
+;32540
+;;32540 - COREC CA ProgramOnAccess_CPAC
+;32544
+;;32544 - COREC CtrEnviroHlthTrckg_CEPHT
+COCRA;5;
+CORAD;6;
+;13994
+;;13994 - COREC Year_End_Clearing
+;29942
+;;29942 - COREC Research_Admin
+COCTR;5;
+COCT6;6;
+;14026
+;;14026 - COREC Center for Green Chem
+;30000 - 30004
+;;30001 - CPSPH Large Units-Various Fds
+;;30003 - CPSPH Centers - State Funds
+;;30004 - COREC RobertWoodJhnsnShlrs_RWJ
+;30006
+;;30006 - COREC CtrInfectDis&Emerg_CIDER
+;30011 - 30014
+;30015 - 30016
+;30018 - 30019
+;;30018 - CPSPH  PRO Extramural
+;32536
+;;32536 - COREC Arsenic Hlth Effects_ARP
+;32541
+;;32541 - COREC Chld'sHlth&AirPoll_CHAPS
+;32543
+;;32543 - COREC CtrEntrpshpIntHlth_CEIHD
+;32548
+;;32548 - COREC CtrIntTrnResEIVD_CITREID
+;32554
+;;32554 - COREC HIV Forum (HIVDC)
+;32557
+;;32557 - COREC Peers and Wellness_PAWS
+;32560
+;;32560 - COREC ResourceCtrOnAging_RCA
+CORES;5;
+COEHR;6;
+;14019 - 14021
+COHGC;6;
+;29944 - 29945
+CPACA;4;
+CPCAE;5;
+CPADM;6;
+;13990 - 13991
+;;13990 - CPACA Academic_Admin
+;;13991 - CPACA Temp_Academic_Support
+CPADD;5;
+CPHMS;6;
+;14025
+;14027
+;;14027 - CPACA PublicHlthNutrition-PHN
+;14029 - 14035
+;14036
+;;14036 - CPACA CHHD Inst & Operations
+;14052
+;;14052 - CPSPH HPM Research /PI
+;32555
+;;32555 - CPACA HSB
+;32565 - 32569
+;;32565 - CPACA Maternal Child Health
+CPHPM;6;
+;14047 - 14051
+;;14047 - CPACA HPM Ops
+;;14050 - CPACA HSPA
+CPHSC;6;
+;13995 - 13999
+;;13995 - CPACA Infect General Ops
+;14003 - 14006
+;;14003 - CPACA Epid Ops
+;14011 - 14014
+;;14011 - CPACA Envir General Ops
+;14039 - 14042
+;;14039 - CPACA BIOS Gen Ops
+;32542
+;;32542 - CPACA Computer Lab
+CPIND;6;
+;13992
+;;13992 - InterDisc_Admin_UnderGrad
+;14028
+;;14028 - CPACA Joint Medical Program
+;14064
+;;14064 - CPACA OnlineOnCampusMPH
+;32549
+;;32549 - CPACA PublicHlthPracticeLeader
+;32551
+;;32551 - CPACA DRPH
+;32556
+;;32556 - CPACA Inter-Disc Degree
+CPDIV;5;
+CPEPI;6;
+;13930 - 13931
+CQADM;4;
+CQBUS;5;
+CQUAD;6;
+;14055 - 14063
+;14065
+;;14065 - CQADM Budget Office
+;14067 - 14072
+;;14068 - CQADM Gen Ops Human Resc & Pay
+;;14069 - CQADM Purchasing
+;;14070 - CQADM FASU
+;;14071 - CQADM Facilities
+;;14072 - CQADM IT
+;31260
+;31261 - 31269
+;;31261 - CQADM Div Allocation and SPO
+;32559
+;;32559 - CQADM Marketing and Comms
+CQEXT;5;
+CQEX6;6;
+;14073 - 14075
+;;14073 - CQADM DEV Gen Ops
+;;14074 - CQADM DEV Alumni Activity
+;14079 - 14082
+;32552
+;;32552 - CQADM Gift Admin
+CQSSV;5;
+CQSS6;6;
+;14076 - 14078
+;;14076 - CQADM STU Gen Ops
+;;14077 - CQADM STU Financial Aid
+CQUDN;5;
+CQUD6;6;
+;14066
+;;14066 - CQADM Dean's Office
+;32550
+;;32550 - CQADM Diversity
+CQWEL;5;
+CQWE6;6;
+;14083
+;;14083 - CQADM REV Wellness Letter
+;32562
+;;32562 - CQADM Wellness Guide
+SCEDU;3;
+EAEDU;4;
+EA1AO;5;
+EA1A6;6;
+;11255 - 11257
+;;11255 - EAEDU AO Gen Ops
+;;11256 - EAEDU AO Business Services
+;;11257 - EAEDU AO Student Services
+;11259
+;;11259 - EAEDU AO Equip/Facilities
+;11275 - 11276
+;;11275 - EAEDU AO Staff
+;;11276 - EAEDU AO Genl Supt
+;11278 - 11284
+;;11278 - EAEDU AO Salary Provisions
+;11286 - 11290
+;;11286 - EAEDU AO C&D: MST
+;;11287 - EAEDU AO C&D: HD
+;;11288 - EAEDU AO LLSC
+;;11289 - EAEDU AO POME
+;;11290 - EAEDU AO LangLit/SocCulturStud
+;11325 - 11328
+;;11325 - EAEDU AO AS: CD
+;;11326 - EAEDU AO AS: ELLC
+;;11327 - EAEDU AO AS:POME
+;;11328 - EAEDU AO AS:SCS
+;11381
+;;11381 - EAEDU AO EMACS
+EA1AP;5;
+EA1P6;6;
+;11270 - 11271
+;;11270 - EAEDU HR Senate
+;;11271 - EAEDU HR Nonsenate Instruct
+;11272
+;11285
+;;11285 - EAEDU AD Gen Ops
+;11291 - 11309
+;11310
+;11311 - 11312
+;;11311 - EAEDU UI Course Offerings
+;;11312 - EAEDU UI Awards
+;11360 - 11362
+;;11360 - EAEDU PE Gen Ops
+;;11361 - EAEDU PE  DTE
+;;11362 - EAEDU PE  MACSME
+;11364
+;;11364 - EAEDU PE  MUSE
+;11365 - 11366
+;11367
+;;11367 - EAEDU PE  Prin Inst
+;11368
+;11369 - 11379
+;;11369 - EAEDU Educational Leadership
+;;11370 - EAEDU PE School Psychology
+EA1DO;5;
+EA1D6;6;
+;11240 - 11244
+;;11240 - EAEDU DO Dean Gen Ops
+;;11241 - EAEDU DO Dean Initiatives
+;;11242 - EAEDU DO Endowed Chairs
+;;11243 - EAEDU DO Gifts
+;;11244 - EAEDU DO Faculty RRS
+;11245 - 11246
+;11247 - 11254
+;;11247 - EAEDU DO Clearing Account
+;11258
+;;11258 - EAEDU DO School Relations
+;11273 - 11274
+;11277
+;11313 - 11324
+;11330
+;11336 - 11344
+;11350
+;11363
+;11380
+;11385
+;11386
+;11387
+;;11387 - EAEDU DO Financial Awards
+EA1DR;5;
+EA1R6;6;
+;11329
+;;11329 - EAEDU DR Faculty Init
+;11331 - 11335
+;;11331 - EAEDU DR Extramural
+;11351
+;;11351 - EAEDU FS  BEAR
+;11353
+;11382 - 11384
+EA1FS;5;
+EA1F6;6;
+;11345 - 11349
+;;11345 - EAEDU FS  ECO
+;;11346 - EAEDU FS  BAWP
+;;11347 - EAEDU FS  CWP
+;;11348 - EAEDU FS  NWP
+;;11349 - EAEDU FS  ATDP
+;11352
+;;11352 - EAEDU FS  CASN
+;11354
+;;11354 - EAEDU FS  UCLinks
+;11355
+;11356 - 11359
+;;11356 - EAEDU FS CRLP
+SCHSW;3;
+CSDEP;4;
+CSOPS;5;
+CSOP6;6;
+;14156
+;;14156 - CSDEP Development
+;14166 - 14175
+;;14166 - CSDEP Department Gen Ops
+;;14167 - CSDEP Student Academic Affairs
+;;14168 - CSDEP Departmental Research
+;;14169 - CSDEP Computing/Lab
+;;14170 - CSDEP Temporary Instruction
+;;14171 - CSDEP Student Support
+;;14172 - CSDEP Field Instruction
+;;14173 - CSDEP Communications
+CSDNS;5;
+CSDN6;6;
+;14155
+;;14155 - CSDEP Dean Discretion
+;14157 - 14165
+;;14157 - CSDEP Dean Reserves
+;;14160 - CSDEP Salary Provisions
+CURCH;4;
+CUEDC;5;
+CUED6;6;
+;14176 - 14184
+;;14176 - CURCH CalSWEC Gen Ops
+;;14177 - CURCH CalSWEC IV-E Subs
+;;14180 - CURCH CalSWEC Mental Health
+CURES;5;
+CURE6;6;
+;14185 - 14199
+;;14185 - CURCH CSSR Gen Ops
+;;14186 - CURCH CSSR Aging Center
+;;14187 - CURCH CSSR Children's Archive
+;;14188 - CURCH Dissertation Awards
+;;14190 - CURCH CSSR NonProfitManagement
+;;14192 - CURCH Berkeley China Research
+;;14195 - CURCH CSSR Mental Health Cntr
+SCJOU;3;
+DJOUR;4;
+DJOU5;5;
+DJOU6;6;
+;11776 - 11850
+;;11776 - DJOUR Development Activities
+;;11777 - DJOUR Dean Discretionary
+;;11778 - DJOUR Financial Aid
+;;11779 - DJOUR Technology Cost Center
+;;11780 - DJOUR General Operations SPO
+;;11784 - DJOUR Instruction
+;;11850 - DJOUR Student Services
+;11859 - 11860
+DKCTR;4;
+DKCT5;5;
+DKCT6;6;
+;11861 - 11864
+;;11861 - DKCTR Digital Media Ctr Gen Op
+;;11862 - DKCTR KDMC Training & Workshop
+DLFAC;4;
+DLFA5;5;
+DLFA6;6;
+;11775
+;;11775 - DLFAC Journalism Faculty Grant
+;11851 - 11858
+;;11851 - DLFAC IRP Invstigative Rprting
+SCSIM;3;
+MMIMS;4;
+MMODP;5;
+MMICS;6;
+;14241 - 14248
+;;14241 - MMIMS Online Cybersecurity Deg
+MMODA;6;
+;14249
+;;14249 - MMIMS Online Data Sciences
+MMOPS;5;
+MMDEA;6;
+;14205 - 14206
+;;14205 - MMIMS Dean's Immediate Office
+;;14206 - MMIMS Dean's Discretionary
+;14209 - 14210
+;;14210 - MMIMS Reserves
+MMEXT;6;
+;14250 - 14252
+;;14250 - MMIMS External Relations Ops
+;;14252 - MMIMS Ldrshp Trng Prog_Exec Ed
+MMGOT;6;
+;14200 - 14204
+;;14200 - MMIMS General Ops
+;14207
+;;14207 - MMIMS Salary Provisions
+;14211 - 14220
+;;14220 - MMIMS Temp Academic Support
+;14238
+;;14238 - MMIMS Computing Ops
+;14253
+;;14253 - MMIMS Ext Affiliates Programs
+;14265 - 14274
+MMSSV;6;
+;14275 - 14284
+;;14280 - MMIMS StudentServicesOps&Adm
+;;14281 - MMIMS Student Fellowships
+MIRES;4;
+MICTR;5;
+MILTC;6;
+;14239 - 14240
+;;14239 - MIRES CLTC Administration
+;;14240 - MIRES CLTC Research
+MIPNC;5;
+MIPN6;6;
+;14379 - 14398
+;;14379 - MIRES PNC PC Gen Ops
+;;14380 - MIRES PNC PC Faculty Costs
+;;14381 - MIRES PNC PC Instruction
+;;14382 - MIRES PNC PC Research
+;;14383 - MIRES PNC PC Development
+;;14384 - MIRES PNC PC Library
+;;14385 - MIRES PNC PC Outreach
+;;14386 - MIRES PNC PC Other
+;;14387 - MIRES PNC PC Other
+;;14389 - MIRES PNC EC Gen Ops
+;;14390 - MIRES PNC EC Faculty Costs
+;;14391 - MIRES PNC EC Instruction
+;;14393 - MIRES PNC EC Development
+;;14394 - MIRES PNC EC Library
+;;14395 - MIRES PNC EC Other
+;;14396 - MIRES PNC EC Other
+MISRS;5;
+MISR6;6;
+;14208
+;;14208 - MIRES Research
+;14221 - 14237
+;;14235 - MIRES Fac Unrestricted Gifts
+;;14236 - MIRES Res Sup
+;;14237 - MIRES COR
+OACAD;2;
+ACADS;3;
+KGACS;4;
+KGAC5;5;
+KGAC6;6;
+;10160 - 10169
+;;10160 - KGACS Acad Senate Ops
+;;10163 - KGACS COR Research
+;;10164 - KGACS Acad Sen Compensation
+;;10166 - KGACS Salary Provisions
+EVCP3;3;
+DSDDO;4;
+DSOPS;5;
+DSOP6;6;
+;30766
+;;30766 - DSDDO Data Sci Admin and Ops
+;30767
+;;30767 - DSDDO TAS
+KAEVC;4;
+KAEV5;5;
+KAEV6;6;
+;10135 - 10139
+;;10135 - KAEVC Immed Off GenOps
+;10141 - 10142
+;;10141 - KAEVC Salary Provisions
+;10143 - 10144
+;10153 - 10156
+;30765
+;30768 - 30769
+;31105 - 31109
+;31320
+;31322 - 31329
+OT1VP;3;
+EOVPI;4;
+EOVP5;5;
+EOVP6;6;
+;10140
+;;10140 - EOVPI Regents Jr Fac Flwshp
+;15250 - 15264
+;;15250 - EOVPI Faculty Immed Office
+;;15251 - EOVPI Dean Searches
+;;15252 - EOVPI Rgts Profshps & Lectshps
+;;15253 - EOVPI Faculty Awards
+;;15254 - EOVPI Salary Provisions
+;15280 - 15294
+;;15280 - EOVPI Acad Complnc & Disablty
+;31321
+;;31321 - KAEVC HHMI
+EPAPO;4;
+EPAP5;5;
+EPAP6;6;
+;15265 - 15279
+;;15265 - EPAPO Acad Personnel Gen Ops
+;;15266 - EPAPO Unit 18 Prof Dev Fund
+ERFEO;4;
+ERFE5;5;
+ERFE6;6;
+;15295 - 15305
+;;15295 - ERFEO Fac Equity Off Gen Ops
+;;15296 - ERFEO Jr Faculty Mentor Prog
+;;15297 - ERFEO Career Dvpmt Grants
+ERRET;5;
+ERRE6;6;
+;15325 - 15339
+;;15325 - ERFEO Retirement Ctr Gen Ops
+;;15326 - ERFEO Programs and Activities
+;;15329 - ERFEO Emeriti Association
+;;15330 - ERFEO Retiree's Association
+SAFP3;3;
+BKSAF;4;
+BKAPR;5;
+BKAP6;6;
+;30742
+;;30742 - BKSAF Program Reviews
+BKFAC;5;
+BKFA6;6;
+;30743
+;;30743 - BKSAF Facilities-Related Proj
+BKSAP;5;
+BKSP6;6;
+;30744
+;;30744 - BKSAF Strategic Academic Plan
+BKSAO;5;
+BKSA6;6;
+;30745 - 30749
+;;30745 - BKSAF SAFP Salary Provisions
+;;30746 - BKSAF SAFP Immediate Office
+BMCCB;4;
+BMCC5;5;
+BMCC6;6;
+;31153
+;;31153 - BMCCB Computational Bio Center
+BTCNM;4;
+BTCN5;5;
+BTCN6;6;
+;31470 - 31489
+;;31470 - BTCNM New Media Administration
+;;31471 - BTCNM New Media Research
+;;31472 - BTCNM New Media Academics
+;;31473 - BTCNM New Media Programming
+KIVEO;4;
+KIVE5;5;
+KIVE6;6;
+;14298
+;;14298 - KIVEO Global Engagement Office
+;32325 - 32328
+SSALL;3;
+EWSUM;4;
+EW1IP;5;
+EWSAP;6;
+;14754 - 14760
+;15580 - 15589
+;15591 - 15594
+;15595
+;;15595 - EWSUM Study Abroad Program
+;15596 - 15599
+;15650 - 15658
+EWDIR;6;
+;15357
+;;15357 - EWSUM Study Abroad Admin
+;15659
+;;15659 - EWSUM Study Abroad Intl Affil
+EWADV;6;
+;15590
+;;15590 - EWSUM Study Abroad Advising
+EWADM;5;
+EWAD6;6;
+;15356
+;;15356 - EWSUM Ad Dean's Admin
+;15358 - 15364
+;;15358 - EWSUM Ad Business Services
+;;15359 - EWSUM Ad Marketing
+;;15360 - EWSUM Fundraising
+;;15361 - EWSUM Ad Computing Services
+;;15364 - EWSUM Campus Support
+;15365 - 15389
+;15390 - 15400
+;;15390 - EWSUM Summer Waivers
+;31305 - 31309
+EWINS;5;
+EWIN6;6;
+;15401 - 15409
+;;15401 - EWSUM Landscape Architecture
+;15410 - 15421
+;;15410 - EWSUM Instr Afr American Std
+;;15411 - EWSUM Instr Anthropology
+;;15412 - EWSUM Instr Art History
+;;15413 - EWSUM Instr Astronomy
+;;15414 - EWSUM Instr Business Amin
+;;15415 - EWSUM Instr Chemistry
+;;15416 - EWSUM Instr City & Regnl Plng
+;;15417 - EWSUM Instr Coll Writing Prog
+;;15418 - EWSUM Instr Comp Lit
+;;15419 - EWSUM Instr E Asian Lang
+;;15420 - EWSUM Instr Economics
+;;15421 - EWSUM Instr Education
+;15422
+;;15422 - EWSUM Instr Engineering
+;15423 - 15519
+;;15423 - EWSUM Instr English
+;;15424 - EWSUM Instr CED Architecture
+;;15426 - EWSUM Instr French
+;;15427 - EWSUM Instr Geography
+;;15428 - EWSUM Instr Earth & Planet Sci
+;;15429 - EWSUM Instr Hlth & Med Sci
+;;15430 - EWSUM Instr History
+;;15432 - EWSUM Instr School of Infor
+;;15433 - EWSUM Instr Integrative Biol
+;;15434 - EWSUM Instr Int'l & Area Studi
+;;15435 - EWSUM Instr Legal Studies
+;;15436 - EWSUM Instr Linguistics
+;;15437 - EWSUM Instr Mathematics
+;;15438 - EWSUM Instr Music
+;;15439 - EWSUM Instr Near Eastern Std
+;;15440 - EWSUM Instr Nutritional Sci
+;;15441 - EWSUM Instr Optometry
+;;15442 - EWSUM Instr Philosophy
+;;15443 - EWSUM Instr Physics
+;;15444 - EWSUM Instr Political Science
+;;15445 - EWSUM Instr Psychology
+;;15446 - EWSUM Instr Sociology
+;;15447 - EWSUM Instr Statistics
+;;15449 - EWSUM Instr Theater Arts
+;;15450 - EWSUM Women's Studies
+;;15452 - EWSUM  Art Practice
+;;15453 - EWSUM Social Welfare
+;;15454 - EWSUM Physical Education
+;;15457 - EWSUM Instr Env Sci, Pol & Mgt
+;;15458 - EWSUM Instr Journalism
+;;15460 - EWSUM Instr Public Policy
+;;15519 - EWSUM Summer Instr Master Acct
+;15520 - 15534
+;;15521 - EWSUM Bioengineering
+;;15522 - EWSUM Civil & Env Eng
+;;15523 - EWSUM Elec Eng
+;;15524 - EWSUM Comp Sci
+;;15526 - EWSUM Ind Eng & Op Res
+;;15527 - EWSUM Mat Sci & Eng
+;;15528 - EWSUM Mechanical Eng
+;;15529 - EWSUM Nuclear Eng
+;;15530 - EWSUM Ocean Eng
+;;15531 - EWSUM Chem_Biomolecular Eng
+;15535 - 15549
+;;15535 - EWSUM I CASMA Classics
+;;15536 - EWSUM I CASMA SSEAS Studies
+;;15539 - EWSUM Energy Resource Group
+;15550 - 15564
+;;15550 - EWSUM I Eth Asian American
+;;15551 - EWSUM I Eth Chicano Studies
+;;15552 - EWSUM I Eth Ethnic Studies
+;;15553 - EWSUM I Eth Native Amer Std
+;15565 - 15579
+;;15565 - EWSUM I GSPA German
+;;15566 - EWSUM I GSPA Spanish & Port
+;15600 - 15614
+;;15600 - EWSUM I ISSC Celtic Studies
+;;15601 - EWSUM I ISSC Italian Studies
+;;15602 - EWSUM I ISSC Scandinavian
+;;15603 - EWSUM I ISSC Slavic Languages
+;15615 - 15629
+;;15615 - EWSUM I MCB Biochem & Mol Biol
+;;15616 - EWSUM I MCB Cell & Dvpmtl Biol
+;;15617 - EWSUM I MCB Genetics
+;;15619 - EWSUM I MCB Neurobiology
+;;15621 - EWSUM Plant and Microbial Biol
+;15630 - 15644
+;;15630 - EWSUM I PH Dietetic
+;;15631 - EWSUM I PH School of Pub Hlth
+;15645 - 15649
+;;15645 - EWSUM I R&F Rhetoric
+;;15646 - EWSUM I R&F Film Studies
+;15660 - 15674
+;;15661 - EWSUM UGIS Admin
+UYOLI;4;
+UYOL5;5;
+UYOL6;6;
+;31490 - 31499
+;;31490 - UYOLI  OLLI General Operations
+UCLIB;3;
+KPADM;4;
+KPLIA;5;
+KPBUD;6;
+;15780
+;;15780 - KPADM General Operations
+;15784
+;;15784 - KPADM LAUC B
+;15786 - 15787
+;;15786 - KPADM Budget Reserves
+;;15787 - KPADM Salary Provisions
+KPDVA;6;
+;15819 - 15821
+;;15820 - KPADM Development
+;;15821 - KPADM Campaign Funds
+KPLIO;6;
+;15781 - 15783
+;;15781 - KPADM Library Human Resources
+;;15783 - KPADM Librarians Office
+;15788 - 15794
+;;15788 - KPADM Library Communications
+;15915 - 15929
+;;15915 - KPADM East Asian Library Admin
+KQDCS;4;
+KQTEC;5;
+KQLSO;6;
+;15765 - 15779
+;;15765 - KQDCS Systems
+;;15766 - KQDCS Cerf
+;;15767 - KQDCS Systems Administration
+;15886
+;;15886 - KQDCS Cataloging
+;15955
+;;15955 - KQDCS Digital Image Lab
+KQNRS;5;
+KQNRL;6;
+;15750 - 15764
+;;15750 - KQDCS NRLF Operations
+;;15751 - KQDCS NRLF Revenue
+KQILS;5;
+KQILO;6;
+;15845 - 15862
+;;15845 - KQDCS Borrowing Services
+;;15846 - KQDCS Lending Services
+;;15847 - KQDCS BAKER Services
+;;15848 - KQDCS ILS Administration
+KRCFO;4;
+KRCAS;5;
+KRBUS;6;
+;15785
+;;15785 - KRCFO Public Copier Rebates
+;15795 - 15809
+;;15795 - KRCFO Business Servcs Ops
+;;15796 - KRCFO Central Supplies
+KRFAC;6;
+;15811 - 15818
+;;15811 - KRCFO Facilities
+;;15812 - KRCFO Security
+;15887
+;;15887 - KRCFO Transportation_Mail Svcs
+;15888 - 15899
+KRLDO;6;
+;15810
+;;15810 - KRCFO Library Design&Exhibits
+KSBAN;4;
+KSBAA;5;
+KSCTP;6;
+;15909
+;;15909 - KSBAN Ctr Tebtunis Papyri
+;31040 - 31049
+;;31040 - KSBAN General Ops
+;;31041 - KSBAN Research
+KSBLO;6;
+;15900
+;;15900 - KSBAN Bancroft Admin
+;15903 - 15907
+;;15903 - KSBAN Bancroft Public Svcs
+;;15904 - KSBAN Bancroft Tech Serv
+;;15905 - KSBAN Mark Twain
+;;15907 - KSBAN University Archives
+KSROH;6;
+;15901
+;;15901 - KSBAN Reg Oral Hist
+;15908
+;;15908 - KSBAN Social Movement
+;15910 - 15914
+;;15910 - KSBAN Biotechnology
+;;15911 - KSBAN University/History
+;;15912 - KSBAN Community/Arts/Lit
+;;15913 - KSBAN Politics/Government
+;;15914 - KSBAN Food and Wine in Cal
+KTEDU;4;
+KTAHM;5;
+KTADM;6;
+;15837 - 15844
+;;15837 - KTEDU Arts and Humanities Adm
+;;15838 - KTEDU Arts and Humanities Ops
+;15945
+;;15945 - KTEDU Anthropology
+;15947
+;;15947 - KTEDU Environmental Design
+;15953 - 15954
+;;15953 - KTEDU Music Library
+;;15954 - KTEDU Art History/Classics
+KTDMA;5;
+KTDMC;6;
+;15826 - 15827
+;;15826 - KTEDU DM Library Cards
+;;15827 - KTEDU DM Library Privileges
+;15863 - 15864
+;;15863 - KTEDU Access Services Admin
+;;15864 - KTEDU Access Services Ops
+;15865 - 15869
+;;15865 - KTEDU Doe Circulation
+;;15866 - KTEDU DM Main Stacks
+;;15867 - KTEDU DM Reserves
+;;15868 - KTEDU DM Moffitt Circulation
+;15870
+;;15870 - KTEDU DM News/Microforms
+;15871 - 15884
+KTDMO;6;
+;15822 - 15825
+;;15822 - KTEDU EDU Administration
+;;15823 - KTEDU EDU Operations
+;;15824 - KTEDU DM Doe Moffitt Admin
+;;15825 - KTEDU DM Visiting Scholars
+;15931
+;;15931 - KTEDU DM Graphics Office
+KTDRC;6;
+;15828 - 15836
+;;15828 - KTEDU DM Morrison
+;;15829 - KTEDU DM South/S.East Asia
+;;15830 - KTEDU Internatl/Area Studies
+;;15831 - KTEDU DM Graduate Services
+;;15832 - KTEDU Research/Collections Adm
+;;15833 - KTEDU DM Gov't Information
+;;15834 - KTEDU DM Reference Services
+;;15835 - KTEDU DM Humanities/Soc Sci
+;;15836 - KTEDU DM Data Lab
+KTIUS;6;
+;15930
+;;15930 - KTEDU DM Instruct Admin
+;15932 - 15942
+;;15932 - KTEDU DM Media Resources
+;;15933 - KTEDU DM Cal Heritage
+;;15934 - KTEDU Instruction Admin
+;;15935 - KTEDU Instruction Svcs Ops
+KTSCE;5;
+KTSCA;6;
+;15971 - 15977
+;;15971 - KTEDU Chemistry Library
+;;15972 - KTEDU Earth Sciences/Maps
+;;15973 - KTEDU Engineering
+;;15974 - KTEDU Math_Statistics
+;;15975 - KTEDU Engineer_ Phys Sci Admin
+;;15976 - KTEDU Physics_Astronomy
+;;15977 - KTEDU Engineer_Phys Sci Ops
+KTSCI;5;
+KTPUB;6;
+;15991 - 15993
+;;15991 - KTEDU Public Health Ops_YR 1
+;;15992 - KTEDU Public Health YR 2
+;;15993 - KTEDU Public Health YR 3
+KTSCO;6;
+;15970
+;;15970 - KTEDU Biosciences Library
+;15990
+;;15990 - KTEDU Optometry
+;15994 - 15999
+;;15994 - KTEDU Life_Health Sciences Adm
+;;15995 - KTEDU Life_Health Sciences Ops
+KTSOC;5;
+KTBUS;6;
+;15948
+;;15948 - KTEDU Business Library
+KTEDS;6;
+;15946
+;;15946 - KTEDU Education/Psychology
+;15949
+;;15949 - KTEDU Social Welfare
+KTSSA;6;
+;15943 - 15944
+;;15943 - KTEDU Social Sciences Admin
+;;15944 - KTEDU Social Sciences Ops
+KTUSA;5;
+KTUSO;6;
+;15978 - 15989
+;;15978 - KTEDU User Svcs Admin
+KUDCS;4;
+KUCOL;5;
+KUCLM;6;
+;16030 - 16084
+;;16030 - KUDCS Bancroft Monographs
+;16085 - 16159
+;;16085 - KUDCS Gen Library Monographs
+KUCLS;6;
+;16590 - 17029
+;;16590 - KUDCS Library Serials
+;;16591 - KUDCS Publ Contracts Serials
+;;16985 - KUDCS CDL Shared Acquisitions
+KUCSA;5;
+KUCSO;6;
+;15885
+;;15885 - KUDCS Acquisitions
+;15950
+;;15950 - KUDCS Collections Services Ops
+;15951
+KUPRE;6;
+;15952
+;;15952 - KUDCS Preservation
+;15956
+;;15956 - KUDCS Microfilming
+KULBL;5;
+KULBO;6;
+;15957 - 15969
+;;15957 - KUDCS UCB-LBL Contract
+UNEX3;3;
+EXADM;4;
+EXCCG;5;
+EXCC6;6;
+;29916 - 29921
+;;29916 - EXADM FEDERAL C&G
+;;29917 - EXADM STATE C&G
+;;29918 - EXADM LOCAL GOVT C&G
+;;29919 - EXADM OTHER SOURCES
+;;29920 - EXADM Private Gifts
+EXCMG;5;
+EXCAT;6;
+;29864 - 29867
+;;29864 - EXADM MKTG SUMMER CAT EVEN
+;;29865 - EXADM MKTG SUMMER CAT ODD
+;;29866 - EXADM MKTG FALL CAT
+;;29867 - EXADM MKTG SPRING CAT
+EXIMC;6;
+;29862 - 29863
+;;29862 - EXADM CMS PUBLICITY
+;;29863 - EXADM CMS INST ADVTG
+;29868
+EXMKT;6;
+;29861
+;;29861 - EXADM CMS GEN OPS
+EXDOG;5;
+EXDO6;6;
+;29857 - 29860
+;;29857 - EXADM DOF GEN OPS
+;;29858 - EXADM DOF SPECIAL PROJ
+;;29859 - EXADM UNEX HOLDING ACCOUNT
+;;29860 - EXADM DOF HUMAN RESOURCES
+EXFSG;5;
+EXFS6;6;
+;29876 - 29878
+;29879
+;;29879 - EXADM FACL FUP
+;29880
+;29881 - 29883
+;;29881 - EXADM FACIL Belmont Ctr
+;;29882 - EXADM FACL SFDTC CTR
+;;29883 - EXADM FACL Hillegas Ctr
+;29884 - 29887
+;29888 - 29891
+;;29888 - EXADM SF LAGUNA MOVE Proj
+;;29889 - EXADM SF Moma Ctr
+;;29890 - EXADM GBB GEN OPS
+;29896
+;;29896 - EXADM CTR GEN OPS
+;29897
+;29898 - 29900
+;;29898 - EXADM Belmont Ctr Gen Ops
+;;29899 - EXADM SF Moma Ctr Gen Ops
+;29904 - 29905
+;;29904 - EXADM SCHEDULING
+EXFST;5;
+EXFT6;6;
+;29851 - 29855
+;;29851 - EXADM REPRO GEN OPS
+;;29853 - EXADM FNSV BUS OFFC GEN OPS
+;;29854 - EXADM FNSV CASHR OFFC GEN OPS
+;;29855 - EXADM Offc of DIR FINANCE ADMI
+;29869
+;29870 - 29871
+;;29870 - EXADM MAIL GEN OPS
+;;29871 - EXADM NAVB
+;29872 - 29875
+;;29873 - EXADM CLRG CASH CLEARING
+EXISG;5;
+EXIS6;6;
+;29842 - 29850
+;;29847 - EXADM C T F GEN OPS
+;;29848 - EXADM DATA MIGRATION
+;;29850 - EXADM MIS GEN OPS
+EXOTH;5;
+EXOT6;6;
+;29807
+;;29807 - EXADM XYRND REV/EXP ACCR
+;29908 - 29911
+;29912 - 29915
+;;29912 - EXADM MISC Revenue & Exp
+;;29913 - EXADM MISC BAD DEBTS
+EXSAS;5;
+EXSA6;6;
+;29901 - 29903
+;;29901 - EXADM RECORDS
+;;29902 - EXADM DIRECTORS OFFICE
+;;29903 - EXADM REGISTRATION
+HYACD;4;
+HYAIS;5;
+HYENP;6;
+;29806
+;;29806 - HYACD CorpTrngDom&IntlCtrctDpt
+;29808
+;;29808 - HYACD SMBio Deptl
+;29810
+;;29810 - HYACD A&D Deptl
+;29812
+;;29812 - HYACD BHS Dept
+;29815
+;;29815 - HYACD Eng Tech & Env Mgmt Dept
+;29818
+;;29818 - HYACD Education Deptl
+;29821
+;;29821 - HYACD B&M Deptl
+;29824 - 29825
+;29826
+;;29826 - HYACD Intl Diploma Dept
+;29829 - 29832
+;29834
+;;29834 - HYACD FALL FRESHMAN DEPTL
+;29837
+;;29837 - HYACD Travel Study Deptl
+;29840
+;;29840 - HYACD HUMANITIES DEPTL
+;29892 - 29895
+;;29893 - HYACD Intl Student Svcs Dept
+;29922 - 29924
+;;29922 - HYACD XCMIL IS COLLEGE GEN OP
+;;29924 - HYACD SELF SUPPORT DEGREE DEPT
+;29926
+;;29926 - HYACD UNX_UCB_Deptl
+;29931 - 29940
+;;29931 - HYACD Haas Global Access IND
+HYCTP;5;
+HYCOR;6;
+;29801 - 29804
+;29805
+;;29805 - HYACD CorpTrngDom&IntlCtrctPg
+HYINP;5;
+HYIDP;6;
+;29827
+;;29827 - HYACD Intl Diploma Programs
+HYIPP;6;
+;29839
+;;29839 - HYACD Intl Undergrad & Prep
+;29856
+;;29856 - HYACD Intl Partnership Program
+HYISS;6;
+;29828
+;;29828 - HYACD Intl Student Srvcs_Fees
+HYNPP;5;
+HYFPF;6;
+;29835 - 29836
+;;29835 - HYACD FALL FRESHMAN PROGRAM
+HYPUP;5;
+HYAND;6;
+;29811
+;;29811 - HYACD A&D Prgms
+HYBHG;6;
+;29833
+;;29833 - HYACD Haas GlobalAccess Prg
+HYBHS;6;
+;29813 - 29814
+;;29813 - HYACD BHS Programs
+HYBSM;6;
+;29822 - 29823
+;;29822 - HYACD B&M Programs
+HYEDU;6;
+;29819 - 29820
+;;29819 - HYACD Ed Programs
+HYETE;6;
+;29816 - 29817
+;;29816 - HYACD Eng Tech & Env Mgmt Prog
+HYHUM;6;
+;29841
+;;29841 - HYACD Humanities Programs
+HYSMB;6;
+;29809
+;;29809 - HYACD SMBio Prgms
+HYTSP;6;
+;29838
+;;29838 - HYACD Travel Study Prgms
+HYSSP;5;
+HYSS6;6;
+;29925
+;;29925 - HYACD SELF SUPPORT DEGREE PGM
+HYUBX;5;
+HYCEP;6;
+;29906 - 29907
+;;29907 - HYACD CONCURRENT Programs
+HYXCP;6;
+;29927 - 29930
+;;29927 - HYACD UNC_UCB_Programs
+VPAPF;3;
+BRCOE;4;
+BRADM;5;
+BRAD6;6;
+;32525 - 32534
+;;32525 - BRCOE OLE OnlineEdInitiatveOps
+;32615 - 32619
+;;32615 - BRCOE Online Ed Admin
+BROEP;5;
+BROE6;6;
+;32620 - 32639
+;;32620 - BRCOE Online Ed Programs
+ENAPF;4;
+ENAPO;5;
+ENAP6;6;
+;30720 - 30741
+;;30720 - ENAPF Acad Plan and UG Ed Init
+;;30722 - ENAPF UG Edu Salary Provisions
+;;30740 - ENAPF UG Edu Immed Office
+;31365 - 31370
+ENFAP;5;
+ENFA6;6;
+;21425 - 21439
+;;21425 - ENAPF Athletic Eligibility
+KCBCP;4;
+KCBC5;5;
+KCBC6;6;
+;32570 - 32579
+;;32570 - KCBCP Berkeley Connect
+KVCAD;4;
+KVCA5;5;
+KVCA6;6;
+;32645 - 32650
+;;32645 - KVCAD Arts and Design Imdt Ofc
+QJCTE;4;
+QJCT5;5;
+QJCT6;6;
+;13415 - 13416
+;30307 - 30308
+;;30307 - QJCTE IIP AcadTchingAwardPrgms
+;30310 - 30314
+;;30310 - QJCTE IIP Faculty Dev Programs
+;;30311 - QJCTE IIP CurricImprvGrntPrgms
+;;30314 - QJCTE IIP General Admin
+QRACH;4;
+QRAC5;5;
+QRAC6;6;
+;13417 - 13418
+;;13417 - QRACH Amer Cultures Gen Oper
+;13420 - 13429
+UOSLC;4;
+UOACA;5;
+UOAC6;6;
+;20665 - 20736
+;;20666 - UOSLC SLC Math Adm
+;;20675 - UOSLC SLC Interdisciplinary
+;;20684 - UOSLC SLC Science
+;;20696 - UOSLC SLC Social Science
+;;20720 - UOSLC SLC Study Strategies
+;;20729 - UOSLC SLC Writing
+UOGAD;5;
+UOGA6;6;
+;20605 - 20610
+;;20607 - UOSLC SLC Office Adm
+;;20608 - UOSLC SLC General
+;20620 - 20664
+;;20651 - UOSLC SLC Front Desk
+UOSUM;5;
+UOSU6;6;
+;20611 - 20619
+;;20611 - UOSLC SLC Summer Sessions
+;;20612 - UOSLC SLC Summer Bridge
+;;20614 - UOSLC SLC SPEAR
+URMED;4;
+URRIN;5;
+URRI6;6;
+;26228
+;;26228 - URMED RCT Salary Plan
+;26231 - 26233
+URRIT;6;
+;26229 - 26230
+;;26229 - URMED RIT Future
+;;26230 - URMED RDM Research Data Mgmt
+;26234
+;;26234 - URMED Berkeley Research Comput
+;26335
+;;26335 - URMED Digital Humanities
+;26390
+;;26390 - URMED RIT Budget Mgmt
+URMUS;6;
+;26225 - 26226
+;;26225 - URMED Collection Space
+;;26226 - URMED Museum Informatics
+URKAL;5;
+URKA6;6;
+;20910 - 20931
+;;20910 - URMED KALX Income
+;;20924 - URMED KALX Ops General
+URSET;5;
+URSAD;6;
+;20932 - 20937
+;;20932 - URMED Administration
+;;20934 - URMED ETS Projects
+;20959 - 20964
+;;20959 - URMED ETS Support
+;;20961 - URMED ETS Income
+URSCP;6;
+;20938 - 20942
+;;20938 - URMED ETS Technical Systems
+;26453
+;;26453 - URMED ETS Student Labs
+URSOP;6;
+;20943 - 20958
+;;20943 - URMED ETS Production Services
+;;20958 - URMED ETS Spaces and Ops
+;26733 - 26734
+;;26733 - URMED ETS Bus Events _Prod Sv
+URSVS;6;
+;26731
+;;26731 - URMED ETS Training and Support
+URWEB;6;
+;26730
+;;26730 - URMED ETS Learning Systems Dev
+;26732
+;;26732 - URMED ETS Teach and Learn Sv
+UWASC;4;
+UWSAA;5;
+UWSA6;6;
+;20414 - 20415
+;;20414 - UWASC ASC Events
+;;20415 - UWASC ASC Programs
+UWSAG;5;
+UWSG6;6;
+;20410 - 20412
+;20416 - 20425
+;;20416 - UWASC Ath Adm General
+UWTPG;5;
+UWTP6;6;
+;20403 - 20409
+;20413
+;;20413 - UWASC Ath Adm Reserves
+;20426 - 20449
+VR1GD;3;
+OLGDD;4;
+OLDNS;5;
+OLDN6;6;
+;25965 - 25966
+;;25965 - OLGDD IO Deans Off Gen Ops SPO
+;25968 - 25971
+;25973 - 25989
+;;25974 - OLGDD Academic Services
+;25991 - 26004
+;26005 - 26019
+;26020 - 26034
+;;26021 - OLGDD Aptmts Part Fee Remis
+;;26022 - OLGDD Aptmts Full Fee Remiss
+;;26023 - OLGDD Aptmts NRT Remiss
+;;26024 - OLGDD Aptmts GSHIP
+;;26025 - OLGDD Aptmts Other
+;26035 - 26049
+;26051
+;26060 - 26064
+;26091 - 26104
+;26106 - 26129
+;26131 - 26144
+;26145 - 26159
+OLEXR;5;
+OLEX6;6;
+;25967
+;;25967 - OLGDD IO Development
+;25972
+;;25972 - OLGDD IO Lectures
+;26105
+;;26105 - OLGDD Communications_Events
+OLGSI;5;
+OLGS6;6;
+;26090
+;;26090 - OLGDD GSI Train Gen Ops
+OLGSV;5;
+OLGV6;6;
+;25990
+;;25990 - OLGDD Bus/Finance Office
+;26050
+;;26050 - OLGDD Student Services Gen Ops
+;26130
+;;26130 - OLGDD IS Gen Ops - Systems
+OQFEL;4;
+OQDIR;5;
+OQDI6;6;
+;26052 - 26053
+;;26052 - OQFEL Flwshp Block Grant Adm
+;;26053 - OQFEL Flwshp Fellowships
+;26055 - 26056
+;;26055 - OQFEL USAP Fellowships
+;;26056 - OQFEL Special OP Fellowships
+;26058
+;;26058 - OQFEL Chancellor's Fellowships
+OQFND;5;
+OQFN6;6;
+;26054
+;;26054 - OQFEL Flwshp Dept Restricted
+;26057
+;;26057 - OQFEL Flwshp Grant Awards
+;26059
+;;26059 - OQFEL GradFellowshpMatchngPrgm
+VCRES;2;
+VCRAC;3;
+ANIPS;4;
+ANIP5;5;
+ANIP6;6;
+;31020 - 31029
+;;31020 - ANIPS General Ops
+;;31021 - ANIPS Research
+ATSSC;4;
+ATSS5;5;
+ATSS6;6;
+;31080 - 31089
+;;31080 - ATSSC General Ops
+BDATA;4;
+BDAT5;5;
+BDAT6;6;
+;32610 - 32614
+;;32610 - BDATA Data Science Institute
+BYHBR;4;
+BYHB5;5;
+BYHB6;6;
+;32323 - 32324
+;;32323 - BYHBR CHBRP Gen Ops
+CGEGA;4;
+CGEG5;5;
+CGEG6;6;
+;32314 - 32322
+;;32314 - CGEGA CEGA Research
+;;32315 - CGEGA CEGA Operations
+CITRS;4;
+CITR5;5;
+CITR6;6;
+;31160 - 31174
+;;31160 - CITRS Operating Funds
+;;31161 - CITRS Gift/Donor Funds
+;;31163 - CITRS Research RA Managed
+;;31174 - CITRS Comp Sci & Engineering
+DUSEL;4;
+DUSE5;5;
+DUSE6;6;
+;32280 - 32289
+;;32280 - DUSEL Operations
+;;32282 - DUSEL FAC: Facilities
+;;32283 - DUSEL PRJ: Project Wide
+;;32284 - DUSEL SCI: Science
+;;32289 - DUSEL Research
+EMECI;4;
+EMBEC;5;
+EMBE6;6;
+;31243
+;;31243 - EMECI BECI General Ops
+;32360 - 32365
+;;32360 - EMECI BECI Research
+EMCIE;5;
+EMCI6;6;
+;31860 - 31869
+;;31860 - EMECI CIEE Research
+;;31863 - EMECI CIEE Technical
+;;31865 - EMECI CIEE General Ops
+EMCAS;5;
+EMCA6;6;
+;31010 - 31013
+;;31010 - EMECI CAS General Ops
+EUNEU;4;
+EUNEC;5;
+EUICS;6;
+;24300 - 24314
+;;24300 - EUNEU ICS General Ops
+;;24301 - EUNEU ICS Research
+EUNEI;6;
+;26691
+;;26691 - EUNEU Ctr Neural Eng and Proth
+;26692
+;;26692 - EUNEU Brain Imaging Center
+;26694 - 26696
+;;26694 - EUNEU SP Student Programs HWNI
+;;26696 - EUNEU RN Redwood Ct Theor Neur
+;31620 - 31629
+EUNIO;5;
+EUNI6;6;
+;26690
+;;26690 - EUNEU Hist Op b4 FY11-12
+;26693
+;;26693 - EUNEU General Ops
+;26697 - 26698
+;;26697 - EUNEU Research
+;26699
+;;26699 - EUNEU PA Professional Activity
+EZBIE;4;
+EZBI5;5;
+EXBI6;6;
+;31411 - 31429
+;;31411 - EZBIE Inst Envimnt Admin
+;;31412 - EZBIE Inst Envimnt Research
+IEIRP;4;
+IEIR5;5;
+IEIR6;6;
+;32290 - 32304
+;;32291 - IEIRP Independent Researchers
+IQBBB;4;
+IQBB5;5;
+IQBB6;6;
+;31090 - 31099
+;;31090 - IQBBB FGL General Ops
+;;31091 - IQBBB FGL Research
+;31140 - 31152
+;;31140 - IQBBB Operations
+;;31145 - IQBBB Hollis
+;;31150 - IQBBB Research
+;;31152 - IQBBB Synthetic Biology Center
+;31154 - 31159
+;31815 - 31834
+;;31815 - IQBBB QB3 Biomoleculr Nano Ctr
+;;31816 - IQBBB QB3 Mass Spectrometry
+;;31817 - IQBBB QB3 Genomic Sequencing
+;;31818 - IQBBB QB3 Nuclear Mag Res Spec
+;;31819 - IQBBB QB3 Proteomic Mass Spec
+;;31820 - IQBBB QB3 Storeroom
+;;31821 - IQBBB QB3 MacroLab
+;;31822 - IQBBB CIRM/QB3 STEM CELL
+;;31823 - IQBBB QB3 Comp Genom Res Lab
+;;31824 - IQBBB QB3 Functional Genomics
+JAISI;4;
+JAGEN;5;
+JAGE6;6;
+;24510 - 24512
+;;24510 - JAISI Admin
+;24582
+;;24582 - JAISI Research
+;24597 - 24598
+;;24597 - JAISI Faculty Funds
+;24619 - 24624
+JAISC;5;
+JAIS6;6;
+;24513 - 24529
+;;24513 - JAISC ISSC Admin
+;;24514 - JAISI Ct for Latino Pol Res
+;;24515 - JAISC Ct for Working Famil
+;24583 - 24594
+;24595
+;;24595 - JAISI Ctr for Ethnographic Res
+;24617 - 24618
+;;24617 - JAISI Graduate Training Progr
+;;24618 - JAISC Misc
+JASRC;5;
+JASR6;6;
+;24580 - 24581
+;;24580 - JAISI UC Data Admin
+;;24581 - JAISI UC Data Archive
+;24596
+;;24596 - JAISI Ctr for Study of Soc Ins
+;24599
+;;24599 - JAISI Berkeley Ctr for Soc Med
+;24610 - 24615
+;;24611 - JAISI Rchg UC Data
+;24616
+JBSSL;4;
+JBRCH;5;
+JBRC6;6;
+;24545 - 24579
+;;24547 - JBSSL Rechg Machine Shop
+;;24553 - JBSSL Rechg Garage
+;;24557 - JBSSL Rechg Recharge
+JBSS5;5;
+JBSS6;6;
+;24530 - 24544
+;;24530 - JBSSL SSL Admin
+;;24532 - JBSSL SSL Contracts & Grants
+;;24533 - JBSSL SSL Misc
+JDURD;4;
+JDUR5;5;
+JDUR6;6;
+;24640 - 24649
+;;24640 - JDURD IURD General
+JDOPS;5;
+JDOP6;6;
+;24650 - 24659
+;;24650 - JDURD PR Conference/Seminar
+;24670 - 24679
+;;24670 - JDURD PR Research Projects
+JDRES;5;
+JDRE6;6;
+;24660 - 24669
+;;24660 - JDURD PR Student Projects
+;24680 - 24684
+;;24680 - JDURD Community Projects
+;24705 - 24719
+JETRA;4;
+JETR5;5;
+JETR6;6;
+;24885 - 24889
+;;24885 - JETRA UC Trans Ctr GenAdmin
+;;24886 - JETRA UC Trans Ctr Publication
+;;24887 - JETRA UC Trans Ctr Student Act
+;;24888 - JETRA UC Trans Ctr Travel
+;;24889 - JETRA UC Trans Ctr Mtgs & Conf
+JOMIL;4;
+JOMI5;5;
+JOMI6;6;
+;24810 - 24824
+;;24810 - JOMIL MIBR Admin
+;;24811 - JOMIL MIBR Fellow Program
+;;24812 - JOMIL MIBR Miller Prof  Progr
+;;24813 - JOMIL MIBR Visiting Prof Progr
+JYHST;4;
+JYHS5;5;
+JYHS6;6;
+;24795 - 24809
+;;24795 - JYHST HST Admin
+;;24797 - JYHST HST Misc
+;;24798 - JYHST Sci & Tech Society Ctr
+;31060 - 31069
+;;31060 - JYHST General Ops
+;;31061 - JYHST Research
+;31070
+KJCRG;4;
+KJCR5;5;
+KJCR6;6;
+;31100 - 31104
+;;31100 - KJCRG Ctr Race & Gender GenOps
+LAASC;4;
+LAAS5;5;
+LAAS6;6;
+;14399 - 14408
+;;14399 - LAASC ASC EC Gen Ops
+;;14405 - LAASC ASC ASC EC Other
+LBEAS;4;
+LBES5;5;
+LBES6;6;
+;14420 - 14432
+;;14421 - LBEAS IEAS Conference/Colloq
+;;14424 - LBEAS IEAS Other
+LBEAA;5;
+LBEA6;6;
+;14505 - 14509
+LBEAB;5;
+LBEB6;6;
+;31515
+;31517 - 31519
+LBEAC;5;
+LBEC6;6;
+;14458
+;;14458 - LBEAS Chinese Language Center
+;14462
+;;14462 - LBEAS Group Asian Studies
+;14469 - 14478
+;;14469 - LBEAS Ctr Chinese Studies
+;;14477 - LBEAS Ctr Silk Road Studies
+;14479 - 14482
+;;14479 - LBEAS IEAS CL Gen Ops
+;14483 - 14492
+;;14483 - LBEAS Ctr Japanese Studies
+;14493
+;;14493 - LBEAS Ctr Korean Studies
+;14504
+;;14504 - LBEAS IEAS IUB Gen/Ops
+;14722
+;;14722 - LBEAS Ctr SE Asian Studies
+;31516
+;;31516 - LBEAS Ctr Buddhist Studies
+LBEAE;5;
+LBEE6;6;
+;14459 - 14461
+LBEAG;5;
+LBEG6;6;
+;14463 - 14468
+LBEAK;5;
+LBEK6;6;
+;14494 - 14503
+;;14494 - LBEAS IEAS KS Faculty Costs
+;;14496 - LBEAS 'KS Colloq/Conference
+;;14497 - LBEAS KS Visiting Scholars
+;;14498 - LBEAS IEAS KS Library
+;;14501 - LBEAS KS Student Supp/Activ
+LBEAO;5;
+LBEO6;6;
+;14419
+;;14419 - LBEAS IEAS Gen Ops
+;14433
+;;14433 - LBEAS IEAS PB Ops/General
+;14436
+;;14436 - LBEAS IEAS ASIAN SU Gen Ops
+LBEAP;5;
+LBEP6;6;
+;14434 - 14435
+LBEAX;5;
+LBEX6;6;
+;14437 - 14457
+;;14441 - LBEAS IEAS SS China
+LCIES;4;
+LCEUC;5;
+LCEC6;6;
+;14538 - 14555
+;;14538 - LCIES EURO FC Gen Ops
+;;14540 - LCIES EURO FC Instruction
+LCEUG;5;
+LCEG6;6;
+;14510 - 14516
+;;14510 - LCIES EURO GS Gen Ops
+LCEUP;5;
+LCEP6;6;
+;14556 - 14564
+;;14556 - LCIES EURO PS Gen Ops
+LCEUS;5;
+LCES6;6;
+;14565 - 14573
+;;14565 - LCIES EURO SP Gen OSP
+LCEUW;5;
+LCEW6;6;
+;14517 - 14519
+;;14517 - LCIES EURO WE Gen Ops
+LCEUZ;5;
+LCEZ6;6;
+;14520 - 14528
+;;14520 - LCIES EURO FS Gen Ops
+LDINT;4;
+LDCAN;5;
+LDCA6;6;
+;14409 - 14418
+;;14409 - LDINT CAN EC Gen Ops
+;;14412 - LDINT CAN EC Res
+LDCPD;5;
+LDCP6;6;
+;14324 - 14325
+;;14324 - LDINT Ctr Politics of Dev Ops
+;;14325 - LDINT Ctr Politics of Dev Res
+LDEGP;5;
+LDEG6;6;
+;24735 - 24767
+;;24740 - LDINT EGPP Program Expenses
+JXEGP;6;
+;70012 - 70013
+LDIOT;5;
+LDIO6;6;
+;14668 - 14676
+;;14668 - LDINT INT'L OR Gen Ops
+;;14671 - LDINT INT'L OR Research
+;;14674 - LDINT INT'L OR RPGP
+;;14675 - LDINT INTL OR EURO
+;;14676 - LDINT INT'L OR Foreign Policy
+LDPUB;5;
+LDPU6;6;
+;14295 - 14297
+;;14297 - LDINT ADM PUBLICATIONS
+;14307 - 14310
+LDROM;5;
+LDRO6;6;
+;14791 - 14799
+;;14791 - LDINT ROMANCE Gen Ops
+LDSEM;5;
+LDSE6;6;
+;14322
+;;14322 - LDINT SEMIOTIC JOURNAL
+LELAS;4;
+LELA5;5;
+LELA6;6;
+;14677 - 14686
+;;14677 - LELAS LATIN OR Gen Ops
+LFMES;4;
+LFME5;5;
+LFME6;6;
+;14687 - 14696
+;;14687 - LFMES Gen Ops
+;;14690 - LFMES Research
+LGSEE;4;
+LGSE5;5;
+LGSE6;6;
+;14697 - 14708
+;;14697 - LGSEE SLAV Gen Ops
+;;14698 - LGSEE SLAV Associates Prg
+;;14703 - LGSEE SLAV Research
+LHSAS;4;
+LHSA5;5;
+LHSA6;6;
+;14709 - 14721
+;;14709 - LHSAS SO ASIAN Gen Ops
+;;14712 - LHSAS SO ASIAN Res
+;;14718 - LHSAS SO ASIAN PUB Gen Ops
+LJSEA;4;
+LJSE5;5;
+LJSE6;6;
+;14723 - 14753
+LUEUR;4;
+LUEU5;5;
+LUEU6;6;
+;14529 - 14537
+;;14529 - LUEUR EURO FB Gen Ops
+NGITS;4;
+NGRES;5;
+NGRE6;6;
+;23905 - 23909
+;23910 - 23933
+;;23910 - NGITS Ops Mgmt/Admin
+;;23926 - NGITS Res Projects Other
+;;23927 - NGITS Res Projects Safety
+;;23928 - NGITS Res Projects PRC
+;;23929 - NGITS Res Projects PATH
+;;23930 - NGITS Res Projects NEXTOR
+;;23931 - NGITS Res Projects CCIT
+;;23932 - NGITS Res Projects TSRC
+;;23933 - NGITS RES PROJECTS TSC
+NGTTR;5;
+NGTT6;6;
+;23935 - 23954
+;;23935 - NGITS Tec Course Costs
+NHEDR;4;
+NHED5;5;
+NHED6;6;
+;23955 - 23970
+;;23955 - NHEDR General Operations
+;24001 - 24002
+NHCBE;5;
+NHCB6;6;
+;24003 - 24053
+;;24003 - NHEDR Research Programs
+;;24006 - NHEDR GI Publications
+;;24008 - NHEDR Conferences
+NPRAL;4;
+NPRA5;5;
+NPRA6;6;
+;24180 - 24195
+;;24180 - NPRAL RAL GEN OPS
+;;24182 - NPRAL RAL Science
+NPRES;5;
+NPRE6;6;
+;24196 - 24209
+;;24197 - NPRAL Res Merged Array
+;;24198 - NPRAL Res 1hT
+NRTAC;4;
+NRTA5;5;
+NRTA6;6;
+;24240 - 24254
+;;24240 - NRTAC TAC Gen Ops
+;;24241 - NRTAC TAC Science
+NSARF;4;
+NSAR5;5;
+NSAR6;6;
+;24255 - 24269
+;;24255 - NSARF ARF Admin
+;;24256 - NSARF ARF Research
+;;24258 - NSARF ARF Outreach
+;24270 - 24284
+NSPUB;5;
+NSPU6;6;
+;24285 - 24299
+;;24285 - NSARF Pubs Newsletter
+;;24286 - NSARF Pubs Misc Publications
+NUIGS;4;
+NUADM;5;
+NUAD6;6;
+;24315 - 24329
+;;24315 - NUIGS General Operations
+;;24316 - NUIGS Matsui Cntr for Politics
+;;24319 - NUIGS Library
+;;24320 - NUIGS Publication Sales
+;;24321 - NUIGS BPPP
+;;24322 - NUIGS Fellowships
+;;24323 - NUIGS Endowment Activity
+;;24324 - NUIGS Seminars/Conferences
+;;24325 - NUIGS Sponsored Research
+NUBRE;5;
+NUBR6;6;
+;14574 - 14593
+;14594 - 14619
+;;14597 - NUIGS INTL BR Research
+;;14613 - NUIGS INTL EC Research
+;14628 - 14667
+NUSAC;5;
+NUSA6;6;
+;24333 - 24334
+;;24333 - NUIGS UC/Sacramento Program
+NVPSR;4;
+NVPS5;5;
+NVPS6;6;
+;24335 - 24349
+;;24335 - NVPSR IPSR Admin
+;;24336 - NVPSR IPSR Research
+NYIHD;4;
+NYCYP;5;
+NYCY6;6;
+;31030 - 31039
+;;31030 - NYIHD CCYP General Ops
+;;31031 - NYIHD CCYP Research
+NYGGS;5;
+NYGG6;6;
+;24405
+;;24405 - NYIHD Greater Good Science Ctr
+NYADM;5;
+NYAD6;6;
+;24406 - 24435
+;;24420 - NYIHD Immediate Office Gen Ops
+;24436 - 24437
+;24438
+;;24438 - NYIHD Immediate Off Research
+NZIIR;4;
+NZIRL;5;
+NZIR6;6;
+;24439 - 24440
+;;24439 - NZIIR IRLE General Ops
+;;24440 - NZIIR IRLE Faculty Grants
+;24457
+;;24457 - NZIIR IRLE Research
+NZCLR;5;
+NZCL6;6;
+;24454
+;;24454 - NZIIR CLRE General Ops
+;24458
+;;24458 - NZIIR CLRE Research
+NZRES;5;
+NZRE6;6;
+;24441 - 24449
+;;24447 - NZIIR CWED Ctr Wage Empl Dynam
+;24450 - 24453
+;;24450 - NZIIR CPER General Ops
+;24455 - 24456
+;24459 - 24470
+;;24461 - NZIIR Ctr Study Child Care Emp
+OMINT;4;
+OMBDE;5;
+OMBD6;6;
+;31600 - 31619
+;;31600 - OMINT Blum Center Operations
+;;31603 - OMINT Blum Center Events
+;;31605 - OMINT Blum Center Education
+;;31608 - OMINT Blum Ctr Big Ideas
+;;31610 - OMINT Blum Center Initiatives
+;;31611 - OMINT Blum Ctr Executive Edu
+OOEBI;4;
+OOADM;5;
+OOAD6;6;
+;32220 - 32229
+;;32220 - OOEBI Operations
+;;32221 - OOEBI UIUC Admin Op
+OOOUT;5;
+OOOU6;6;
+;32250 - 32259
+;;32250 - OOEBI Education Outreach
+;;32251 - OOEBI UIUC Outreach
+OORES;5;
+OORE6;6;
+;32230 - 32249
+;;32230 - OOEBI Energy Biosciences Insti
+;;32231 - OOEBI Biofuel Feedstocks
+;;32232 - OOEBI Depolymerization
+;;32233 - OOEBI Biofuel Production
+;;32234 - OOEBI MEOR
+;;32235 - OOEBI Gulf Bioremediation
+;;32236 - OOEBI Fossil Fuel Bioproc
+;;32237 - OOEBI Socioeconomic
+;;32238 - OOEBI Support Centers
+;;32246 - OOEBI-FacultyFundsnon-BP
+;;32247 - OOEBI Faculty Startup & Retent
+;;32248 - OOEBI Support Centers (UIUC)
+;;32249 - OOEBI General Research
+OPSKY;4;
+OPSK5;5;
+OPSK6;6;
+;32416 - 32425
+;;32416 - OPSKY SkyDeck Operations
+ORDNN;4;
+ORDN5;5;
+ORDN6;6;
+;24875 - 24884
+;;24875 - ORDNN LBL Donner Misc
+OVKAV;4;
+OVKA5;5;
+OVKA6;6;
+;31180 - 31184
+;;31180 - OAVCR - KAVLI Institute
+OYSCC;4;
+OYSC5;5;
+OYSC6;6;
+;31590 - 31599
+;;31595 - OYSCC  Stem Cell Research
+SMTOC;4;
+SMTO5;5;
+SMTO6;6;
+;31245 - 31251
+;;31245 - SMTOC Operations
+;;31246 - SMTOC Programs
+;;31247 - SMTOC Other Science
+;;31248 - SMTOC Outreach
+;;31249 - SMTOC Dir. Opp. Funds
+;;31250 - SMTOC Incoming
+;;31251 - SMTOC TBD
+STBSI;4;
+STBS5;5;
+STBS6;6;
+;31014 - 31019
+;;31014 - STBSI Admin
+;;31015 - STBSI Research
+VCRAU;3;
+FHEHS;4;
+FHORS;5;
+FHOR6;6;
+;21615 - 21616
+;;21615 - FHEHS HM RadiationUse Auth
+;;21616 - FHEHS HM Rad Saf Const Support
+;26660 - 26674
+;26675 - 26689
+FHSAD;5;
+FHSA6;6;
+;21530 - 21544
+;;21530 - FHEHS AD Business Srvcs & Ops
+;;21531 - FHEHS AD SystmsWebApplics&Tech
+;;21532 - FHEHS AD FinanceIncome&BudSvcs
+;;21533 - FHEHS AD Human Resources Admin
+;;21534 - FHEHS AD EHS Management
+;;21536 - FHEHS AD Comm & Outreach
+FHSAW;5;
+FHSW6;6;
+;21545 - 21569
+;;21546 - FHEHS EP Environmental Prgms
+FHSFD;5;
+FHSF6;6;
+;21570 - 21604
+;;21591 - FHEHS FP Fire & Life Safety
+;;21592 - FHEHS FP Construction Support
+FHSHS;5;
+FHSH6;6;
+;12375 - 12389
+;;12375 - FHEHS Div Cntrl Gen Ops
+;21630 - 21663
+;;21631 - FHEHS HS Biohazard Safety
+;;21635 - FHEHS HS Gen Health & Safety
+;;21640 - FHEHS HS Research Unit Support
+;;21643 - FHEHS HS OLAC Support
+;;21647 - FHEHS HS Laser/NIR Safety
+FHSHW;5;
+FHSX6;6;
+;21605 - 21614
+;;21605 - FHEHS HM Hazardous Waste
+;;21612 - FHEHS HM Special Projects
+;;21613 - FHEHS HM Haz Matl Shipping
+;21617 - 21629
+FHSRM;5;
+FHSR6;6;
+;21675 - 21684
+;;21675 - FHEHS UCOP Be Smart Prog Admin
+;;21676 - FHEHS UCOP WC Surpl Rbate Adm
+;;21680 - FHEHS UCOP Auto Liab Admin
+OAVCR;4;
+OARES;5;
+OARE6;6;
+;31770
+;;31770 - OAVCR Research Support Gen Ops
+OAVCC;5;
+OAVC6;6;
+;14300 - 14306
+;;14301 - OAVCR Root Org
+;31220 - 31239
+;;31220 - OAVCR Salary Provisions
+;;31221 - OAVCR Commitments
+;;31222 - OAVCR Restricted Funds
+;;31223 - OAVCR Fellowships
+;;31224 - OAVCR Central Cost Sharing
+;;31225 - OAVCR CU STIP & Gift Fee
+;;31227 - OAVCR CU Employee Recognition
+;;31228 - OAVCR Center Allocations
+;;31230 - OAVCR Benefit Provisions
+OAVCO;5;
+OAVO6;6;
+;14299
+;;14299 - OAVCR ADM DEVELOPMENT
+;14317 - 14321
+;;14317 - OAVCR ADM IS Gen Ops
+;14334
+;14337 - 14356
+;14761 - 14768
+;;14761 - OAVCR OFF RES Gen Ops
+;14773
+;14776 - 14786
+;23640 - 23648
+;23649 - 23656
+;23657 - 23659
+;23660 - 23661
+;23662 - 23674
+;23675 - 23677
+;23678 - 23689
+;23690 - 23692
+;23693 - 23699
+;23700
+;23720 - 23734
+;24870 - 24874
+;24890 - 24899
+;25515 - 25520
+;31050 - 31059
+;31071 - 31079
+;31185 - 31219
+;;31200 - OAVCR Research Immediate Off
+;;31201 - OAVCR Research Unit Support
+;;31202 - OAVCR Campuswide Efforts
+;31240
+;31255 - 31259
+OAVCS;5;
+OAVS6;6;
+;26474
+;;26474 - OAVCR VSPA Administration
+;31241 - 31242
+;;31242 - OAVCR Grand Challenges Initiat
+;31244
+;;31244 - OAVCR BRDO
+;31252 - 31254
+;;31252 - OAVCR Sackler Ctr
+;31296
+;;31296 - OSRAC BioMan to Market
+JROLA;4;
+JRANI;5;
+JRAN6;6;
+;26615 - 26629
+;;26620 - JROLA Husbandry Supplies/PPE
+;;26627 - JROLA Outside Lab Animal Work
+;;26628 - JROLA Facility Supplies
+JRGEN;5;
+JRGE6;6;
+;26575 - 26599
+;;26575 - JROLA Ops Admin
+;26600 - 26614
+LLSIS;4;
+LLSGO;5;
+LLSG6;6;
+;14769 - 14772
+;14774 - 14775
+;14787 - 14790
+;;14787 - LLSIS SISS General Operations
+OSRAC;4;
+OSACU;5;
+OSAC6;6;
+;26630 - 26644
+;;26630 - OSRAC ACUC Administration
+OSCHS;5;
+OSCH6;6;
+;26645 - 26659
+;;26645 - OSRAC OPHS Administration
+OSRA5;5;
+OSRA6;6;
+;31280 - 31295
+;;31280 - OSRAC Administration
+;;31282 - OSRAC Elec Netwk_Sys Admin
+;31297 - 31304
+OSSPO;5;
+OSSP6;6;
+;26470 - 26473
+;;26471 - OSRAC SPO Research Admin
+;26475 - 26514
+OTUIL;4;
+OTIAO;5;
+OTIA6;6;
+;31391 - 31400
+;;31391 - OTUIL Industry Alliances Admin
+OTOTL;5;
+OTOT6;6;
+;26515 - 26574
+;;26530 - OTUIL General Operations
+;;26531 - OTUIL Patent Income/Expenses
+OTUI5;5;
+OTUI6;6;
+;31310 - 31319
+;;31310 - OTUIL IPIRA Admin.
+RRESS;4;
+RRES5;5;
+RRES6;6;
+;31771 - 31773
+;;31771 - RRESS Li Ka Shing
+;;31772 - RRESS Stanley
+;;31773 - RRESS Central Services
+;31774 - 31789
+;;31774 - RRESS Helios
+;;31775 - RRESS Material Receiving
+VCRMS;3;
+ECHES;4;
+ECHE5;5;
+ECHE6;6;
+;25215 - 25219
+;;25215 - ECHES LHES Administration
+;;25216 - ECHES LHES Research
+NLBRS;4;
+NLBR5;5;
+NLBR6;6;
+;24120 - 24134
+;;24120 - NLBRS FSBR Admin
+OBNUM;4;
+OBNU5;5;
+OBNU6;6;
+;24900 - 24905
+;;24900 - OBNUM General
+;;24904 - OBNUM Other Projects
+OCMEE;4;
+OCMAD;5;
+OCMA6;6;
+;24906 - 24914
+;;24906 - OCMEE EME Admin
+;;24908 - OCMEE EME Research
+OC1CU;5;
+OC1C6;6;
+;24915 - 24944
+;;24915 - OCMEE Cur Insect Collection
+;24945 - 24959
+ODMJH;4;
+OD1AD;5;
+OD1A6;6;
+;25020 - 25036
+;;25021 - ODMJH UH/JH Business Ops
+OD1CM;5;
+OD1C6;6;
+;25037 - 25051
+;;25037 - ODMJH Coll Other
+OD1JA;5;
+OD1J6;6;
+;24990 - 25019
+;;24990 - ODMJH JH Research
+OD1UH;5;
+OD1U6;6;
+;24960 - 24989
+;;24960 - ODMJH UH Research
+OEMPA;4;
+OE1AD;5;
+OE1A6;6;
+;25052 - 25094
+;;25065 - OEMPA Misc
+;;25080 - OEMPA Adm Business office
+OE1CM;5;
+OEMC6;6;
+;25095 - 25114
+;;25095 - OEMPA Col Data Mgmt Sys Ad
+;;25096 - OEMPA Col Curation
+;;25097 - OEMPA Col Exhibits
+;;25100 - OEMPA Col Collections
+OE1MF;5;
+OE1F6;6;
+;25115 - 25129
+;;25116 - OEMPA Fac Molec Phylogeny Lab
+;;25117 - OEMPA Fac Prep Labs
+;25131 - 25144
+OE1MU;5;
+OE1M6;6;
+;25130
+;;25130 - OEMPA Rel Education
+OE1RE;5;
+OE1R6;6;
+;25145 - 25159
+;;25145 - OEMPA Res Projects
+OFMVZ;4;
+OFCMG;5;
+OFCM6;6;
+;25160 - 25174
+;;25160 - OFMVZ Vert Zoology Misc
+;25190 - 25199
+;;25195 - OFMVZ Col Exhibits
+OFEGL;5;
+OFEG6;6;
+;25225 - 25239
+;;25226 - OFMVZ EGL Training
+OFHRS;5;
+OFHR6;6;
+;25200 - 25209
+;;25201 - OFMVZ HR Hastings Operations
+;;25203 - OFMVZ HR Research Extramural
+;25210 - 25214
+OFRES;5;
+OFRE6;6;
+;25175 - 25189
+;;25176 - OFMVZ Admn
+;;25177 - OFMVZ Adm Human Resources
+;;25178 - OFMVZ Adm Fellowships
+;25220 - 25224
+;;25220 - OFMVZ Research
+OGHMA;4;
+OGADM;5;
+OGAD6;6;
+;25240 - 25289
+;;25255 - OGHMA Adm General Admin
+OGPOR;5;
+OGPO6;6;
+;25295 - 25299
+;;25299 - OGHMA Pub Public Programs
+OGRES;5;
+OGRE6;6;
+;25290 - 25294
+;;25291 - OGHMA Res Projects Ethnology
+;;25292 - OGHMA Res Grants
+OIBOT;4;
+OIBO5;5;
+OIBO6;6;
+;25529 - 25599
+;;25529 - OIBOT Administration
+;;25530 - OIBOT Facilities
+;;25536 - OIBOT Development
+;;25545 - OIBOT Visitor Services
+;;25560 - OIBOT Horticulture
+;;25570 - OIBOT Education and Outreach
+;;25572 - OIBOT Curation
+OJDRS;4;
+OJANG;5;
+OJAN6;6;
+;25700 - 25729
+;;25710 - OJDRS Angelo Operations
+;;25711 - OJDRS Angelo Research
+;;25712 - OJDRS Angelo Edu/Outreach
+OJSAG;5;
+OJSA6;6;
+;25730 - 25739
+;;25731 - OJDRS Sagehen Operations
+;;25733 - OJDRS Sagehen Edu/ Outreach
+OJSNO;5;
+OJSN6;6;
+;25740 - 25744
+;;25740 - OJDRS Snow Lab Operations
+OKLHS;4;
+OKADM;5;
+OKBRM;6;
+;25751 - 25759
+;;25759 - OKLHS Adm Misc
+;25761 - 25762
+;;25761 - OKLHS Adm Business Office
+;;25762 - OKLHS Adm Human Resources
+OKDIR;6;
+;25760
+;;25760 - OKLHS Adm Director
+;25899
+;;25899 - OKLHS Sts Family Health
+OKITS;6;
+;25763
+;;25763 - OKLHS Adm Technical Services
+OKRDC;6;
+;25764 - 25774
+;;25766 - OKLHS Res Dev Management
+;;25767 - OKLHS AdmResource Development
+;;25768 - OKLHS Adm Annual Fund
+;;25770 - OKLHS Grants and Contracts
+;;25771 - OKLHS Memberships
+;25930 - 25934
+;;25930 - OKLHS Communications
+OKCUR;5;
+OKFOS;6;
+;25786 - 25788
+;;25786 - OKLHS FOSS General
+;;25787 - OKLHS CML Sales
+;;25788 - OKLHS FOSS General
+OKLDG;6;
+;25775 - 25785
+;;25775 - OKLHS Grants & Other
+;;25776 - OKLHS GEMS General
+;;25777 - OKLHS GEMS Network
+;;25781 - OKLHS GEMS Teacher Research
+OKPLN;6;
+;25816 - 25825
+;;25816 - OKLHS HOU General
+;;25821 - OKLHS GSS General
+;;25824 - OKLHS POPS Sales
+OKSEP;6;
+;25796 - 25799
+;;25796 - OKLHS SEPUP Sales
+;;25797 - OKLHS SEPUP General
+;;25798 - OKLHS Issue Oriented Life Sci
+OKOTR;5;
+OKDIB;6;
+;25806 - 25808
+;;25806 - OKLHS Science View General
+OKDIS;6;
+;25942 - 25949
+;;25946 - OKLHS Disc Sales
+OKPFS;6;
+;25906 - 25929
+;;25906 - OKLHS Pub Food Services
+OKRGO;6;
+;25789 - 25790
+;;25789 - OKLHS Research Eval & Assessmt
+OKPUB;5;
+OKPSC;6;
+;25879 - 25890
+;25892 - 25898
+;;25893 - OKLHS PSC Programs
+;25900 - 25905
+;;25905 - OKLHS PSC Admissions
+;25935 - 25941
+;;25941 - OKLHS Exhibits
+OKSCH;5;
+OKCAS;6;
+;25827 - 25830
+;;25827 - OKLHS CSAS (Aft Sch Prg)
+OKCME;6;
+;25791 - 25795
+;;25791 - OKLHS Math Equity Proj -EQUALS
+;;25792 - OKLHS EQUALS  General
+;25878
+;;25878 - OKLHS BAMP
+;25891
+OKEBY;6;
+;25809 - 25815
+;;25809 - OKLHS ebays
+OKLST;6;
+;25870 - 25877
+;;25871 - OKLHS BASP
+;;25873 - OKLHS CUSTOM
+;;25876 - OKLHS MARE
+OXBOR;4;
+OXBO5;5;
+OXBO6;6;
+;32260 - 32279
+;;32260 - OXBOR Operations
+;;32261 - OXBOR Research
+;;32262 - OXBOR Capital Projects
+OZGUM;4;
+OZGU5;5;
+OZGU6;6;
+;32200 - 32219
+;;32200 - OZGUM Gump Operations
+;;32201 - OZGUM Gump Capital Impr
+;;32202 - OZGUM Gump Research
+;;32203 - OZGUM Pass Through Activities
+;;32204 - OZGUM Prior Year Activities
+CAMSU;2;
+ATHLE;3;
+FNATH;4;
+FNADM;5;
+FNADN;6;
+;21500
+;22105 - 22107
+;;22105 - FNATH ADM Administration SPO
+;;22106 - FNATH ADM Athletic Director
+;;22107 - FNATH Business and Finance
+;22109 - 22111
+;22114 - 22115
+;;22114 - FNATH ADM Information Systems
+;22117 - 22119
+;;22117 - FNATH ADM SWA/Olympic Sports
+;;22119 - FNATH ADM Personnel
+;22121 - 22122
+;;22121 - FNATH ADM Ex AD Operations
+;22130 - 22131
+;22138
+;22141 - 22149
+;22152
+;22158
+;22186 - 22190
+;22191 - 22199
+;22243
+FNCAM;6;
+;22108
+;;22108 - FNATH ADM Camp Administration
+;22164
+;;22164 - FNATH CMP Strength Training Yo
+FNEXT;6;
+;22112 - 22113
+;;22112 - FNATH ADM Events Management
+;;22113 - FNATH ADM Facility Rental
+;22123 - 22129
+;;22123 - FNATH Marketing
+;;22124 - FNATH Ticket Operations
+;;22125 - FNATH Fan Experience
+;;22126 - FNATH Advertising_Licensing
+;;22127 - FNATH Sales and Service
+;22132 - 22137
+;;22132 - FNATH Ext Development
+;;22135 - FNATH Ext Media Relations
+;;22136 - FNATH IMG Communications
+;;22137 - FNATH Creative Services
+;22139 - 22140
+;;22140 - FNATH SalesMarketing&Service
+;22183
+;;22183 - FNATH SS Spirit Groups
+FNFCL;6;
+;22200 - 22229
+;;22200 - FNATH Fac- Haas Pavilion
+;;22201 - FNATH Fac Facilities Operation
+;;22202 - FNATH Fac Fields/Grounds
+;;22203 - FNATH Fac Pools
+;;22204 - FNATH Fac Tennis Courts
+;;22205 - FNATH Fac- SAHPC/CMS
+FNSTU;6;
+;22116
+;;22116 - FNATH ADM NCAA Compliance
+;22120
+;;22120 - FNATH ADM High Performance
+;22180 - 22182
+;;22180 - FNATH SS Big 'C' Society
+;;22181 - FNATH SS Equipment Room
+;22184 - 22185
+;;22184 - FNATH SS Sports Medicine
+;;22185 - FNATH SS Strength Training
+FNBBL;5;
+FNBBC;6;
+;22151
+;;22151 - FNATH Cmp Boy's Basketball You
+FNBBO;6;
+;22235
+;;22235 - FNATH M Basketball
+FNFOO;5;
+FNFOC;6;
+;22156
+;;22156 - FNATH Cmp Football Youth Camp
+FNFOP;6;
+;22233
+;;22233 - FNATH Football
+FNIAP;5;
+FNOMC;6;
+;22150
+;;22150 - FNATH Cmp Baseball Youth Camp
+;22153 - 22155
+;;22153 - FNATH Cmp Boy's Rowing Youth C
+;;22154 - FNATH Cmp Boy's Soccer Youth C
+;;22155 - FNATH Cmp Boy's Swimming Youth
+;22162
+;;22162 - FNATH Cmp Rugby Youth Camp
+;22166
+;;22166 - FNATH Cmp M Track
+;22168
+;;22168 - FNATH CMP Water Polo (M) Youth
+;22170
+;;22170 - FNATH Cmp Tennis (M) YouthCamp
+;22173
+;;22173 - FNATH Cmp Boy's Golf Youth
+FNOMO;6;
+;22230
+;;22230 - FNATH Baseball
+;22236 - 22242
+;;22236 - FNATH M Crew
+;;22237 - FNATH M Golf
+;;22238 - FNATH M Gymnastics
+;;22239 - FNATH M Soccer
+;;22240 - FNATH M Swimming
+;;22241 - FNATH M Tennis
+;;22242 - FNATH M Water Polo
+;22244
+;;22244 - FNATH Rugby
+;22256 - 22257
+;;22256 - FNATH M Diving
+;;22257 - FNATH M Track
+FNOWS;5;
+FNOWC;6;
+;22159 - 22161
+;;22159 - FNATH Cmp Girl's Rowing Youth
+;;22160 - FNATH Cmp Girl's Soccer Youth
+;;22161 - FNATH Cmp Girl's Volleyball Yo
+;22163
+;;22163 - FNATH Cmp Softball Youth Camp
+;22165
+;;22165 - FNATH CMP Lacrosse (W) Youth C
+;22167
+;;22167 - FNATH CMP Field Hockey Youth C
+;22169
+;;22169 - FNATH CMP Girl's Swimming Camp
+;22171 - 22172
+;;22171 - FNATH Cmp Tennis (W) YouthCamp
+;;22172 - FNATH Cmp Water Polo (W) Youth
+;22174 - 22179
+;;22174 - FNATH Cmp Girl's Golf Youth
+;;22175 - FNATH Cmp W Track
+FNOWO;6;
+;22231 - 22232
+;;22231 - FNATH Diving
+;;22232 - FNATH Field Hockey
+;22234
+;;22234 - FNATH Lacrosse
+;22245 - 22247
+;;22245 - FNATH Softball
+;;22246 - FNATH Track and Field
+;;22247 - FNATH Volleyball
+;22249 - 22255
+;;22249 - FNATH W Crew
+;;22250 - FNATH W Golf
+;;22251 - FNATH W Gymnastics
+;;22252 - FNATH W Soccer
+;;22253 - FNATH W Swimming
+;;22254 - FNATH W Tennis
+;;22255 - FNATH W Water Polo
+;22258 - 22259
+;;22258 - FNATH Sand Volleyball
+FNWBB;5;
+FNWBC;6;
+;22157
+;;22157 - FNATH Cmp Girl's Basketball Yo
+FNWBO;6;
+;22248
+;;22248 - FNATH W Basketball
+CALPF;3;
+KKCAP;4;
+KK034;5;
+KK4AD;6;
+;15690
+;;15690 - KKCAP 1213 HUMR Human Res
+KK4DV;6;
+;15704
+;;15704 - KKCAP 1213 DVMT Development
+KK4PR;6;
+;15694
+;;15694 - KKCAP 1213 ARTS Fine Arts
+;15697 - 15698
+;;15697 - KKCAP 1213 CMOR Comm Outreach
+;;15698 - KKCAP 1213 FACL Facilities
+;15703
+;;15703 - KKCAP 1213 CAMP Ailey Camp
+KK045;5;
+KK5AD;6;
+;15711 - 15713
+;;15711 - KKCAP 1314 ADMN Administration
+;;15712 - KKCAP 1314 HMRS Human Res
+;;15713 - KKCAP 1314 SYST Systems
+KK5OT;6;
+;15708 - 15710
+;;15708 - KKCAP 1314 ACTG Acctg Misc
+;;15709 - KKCAP 1314 AGCY Agency
+KK5PR;6;
+;15714 - 15724
+;;15714 - KKCAP 1314 OPRT Oper-Rental
+;;15715 - KKCAP 1314 OPRC Oper-Recharge
+;;15716 - KKCAP 1314 ARTS Fine Arts
+;;15717 - KKCAP 1314 OPGT Oper-GT (APE)
+;;15718 - KKCAP 1314 BXOF Box Office
+;;15719 - KKCAP 1314 CMOR Comm Outreach
+;;15720 - KKCAP 1314 FACL Facilities
+;;15721 - KKCAP 1314 MRKT Marketing
+;;15722 - KKCAP 1314 OPPR Oper-Presentg
+;;15723 - KKCAP 1314 PURE Public Rel'ns
+;;15724 - KKCAP 1314 PUBL Publications
+KK056;5;
+KK6AD;6;
+;31530 - 31534
+;;31530 - KKCAP 1415 ADMN Administrat'n
+;;31531 - KKCAP 1415 HUMR Human Res
+;;31532 - KKCAP 1415 SYST Systems
+KK6DV;6;
+;31548 - 31549
+;;31548 - KKCAP 1415 DVMT Development
+KK6OT;6;
+;31525 - 31529
+;;31525 - KKCAP 1415 ACTG Acctg Misc
+;;31526 - KKCAP 1415 AGCY Agency
+KK6PR;6;
+;31535 - 31547
+;;31535 - KKCAP 1415 ARTS Fine Arts
+;;31537 - KKCAP 1415 BXOF Box Office
+;;31538 - KKCAP 1415 CMOR Comm Outreach
+;;31539 - KKCAP 1415 FACL Facilities
+;;31540 - KKCAP 1415 MRKT Marketing
+;;31541 - KKCAP 1415 OPPR Oper-Presnt'g
+;;31542 - KKCAP 1415 PURE Public Rel'ns
+;;31543 - KKCAP 1415 PUBL Publications
+;;31544 - KKCAP 1415 CAMP Ailey Camp
+;;31545 - KKCAP 1415 OPRT Oper-Rental
+;;31546 - KKCAP 1415 OPRC Oper-Recharge
+;;31547 - KKCAP 1415 OPGT Oper-GT (APE)
+KKADM;5;
+KKMGT;6;
+;15688 - 15689
+;;15688 - KKCAP FACL Facilities
+;;15689 - KKCAP ADMN Administration
+;15691
+;;15691 - KKCAP SYST Systems
+KKDEV;5;
+KKDVM;6;
+;15728 - 15729
+;;15728 - KKCAP DVMT Development
+KKOTH;5;
+KKOT6;6;
+;15675 - 15687
+;;15675 - KKCAP  Other Agency Funds
+;;15676 - KKCAP  Prior Year Operations
+;;15677 - KKCAP  Improvement Projects
+;;15678 - KKCAP  Unallocated
+;;15683 - KKCAP  Cmpn for ZH Renov
+;;15684 - KKCAP  Campaign for Cal Perf
+;;15685 - KKCAP Salary Provisions
+;;15686 - KKCAP ACTG Acctg Misc
+;;15687 - KKCAP AGCY Agency
+KKPRM;5;
+KKART;6;
+;15705 - 15707
+;;15705 - KKCAP ARTS Artistic Programs
+;;15706 - KKCAP ARCP Residency_Comm Prgs
+KKEDU;6;
+;15725 - 15727
+;;15725 - KKCAP CAMP Ailey Camp
+;;15726 - KKCAP ALIT Artistic Literacy
+KKPGM;6;
+;15692 - 15693
+;;15692 - KKCAP OPRT Ops_Rental
+;;15693 - KKCAP OPRC Ops_Recharge
+;15695 - 15696
+;;15695 - KKCAP OPGT Ops_GT Contract
+;;15696 - KKCAP BXOF Box Office
+;15699 - 15702
+;;15699 - KKCAP MRKT Marketing
+;;15700 - KKCAP OPER Ops_Artistic
+;;15701 - KKCAP PURE Public Relations
+;;15702 - KKCAP PUBL Publications
+KLSMA;4;
+KLSM5;5;
+KLSM6;6;
+;15730 - 15739
+;;15730 - KLSMA  SMA Administration
+;;15731 - KLSMA  Cal Band
+;;15733 - KLSMA  Jazz Ensembles
+;;15735 - KLSMA StudentMusicalAct
+KLCHR;5;
+KLCH6;6;
+;15740 - 15749
+;;15740 - KLSMA Choral General
+;;15741 - KLSMA Choral Barestage
+;;15742 - KLSMA Choral Octet
+;;15743 - KLSMA Choral Overtones
+CHANL;3;
+BWBOV;4;
+BWBO5;5;
+BWBO6;6;
+;10006
+;;10006 - BWBOV Board of Visitors
+AJPAF;4;
+AJPIO;5;
+AJPI6;6;
+;17725
+;;17725 - AJPAF Im Off Gen O
+;17726 - 17739
+;17740 - 17754
+;;17740 - AJPAF Media Relations
+;17755 - 17769
+;;17756 - AJPAF Writing/Editing Svcs
+;;17758 - AJPAF Web/ Design Svcs
+;;17760 - AJPAF General Catalog
+;17770 - 17772
+;17773 - 17784
+;;17774 - AJPAF Visitor/ Parent Svcs
+;;17775 - AJPAF Cal Day
+;;17776 - AJPAF Campanile
+;17785 - 17788
+;17789 - 17799
+AACHN;4;
+AACHO;5;
+AACH6;6;
+;10000 - 10005
+;;10000 - AACHN Chanc Off Gen Admin
+;;10001 - AACHN Campus Memberships
+;;10002 - AACHN Chancellor Commitments
+;;10003 - AACHN Events Mgmnt
+;;10004 - AACHN Chan Off Immed Office
+;;10005 - AACHN Salary Provisions
+;10007 - 10014
+;21413
+;;21413 - AACHN Calif Hall Bldg Mgmt
+;21502
+;;21502 - AACHN Charitable Campaigns
+AAUNH;5;
+AAUN6;6;
+;10015 - 10029
+;;10015 - AACHN Univ House Operations
+;;10016 - AACHN Univ House Maint & Rep
+AACLA;4;
+AACL5;5;
+AACL6;6;
+;10030 - 10039
+;;10030 - AACHN Legal Affairs Operation
+;;10031 - AACHN Ext Legal Svcs & Costs
+AYGCA;4;
+AYGC5;5;
+AYGC6;6;
+;21470 - 21471
+;;21471 - AYGCA Community Relations Admi
+;21473 - 21484
+;;21473 - AYGCA Gov & Cmty Aff Gen Ops
+FCERC;4;
+FCADM;5;
+FCAD6;6;
+;32371 - 32375
+;;32371 - FCERC OERCS Admin Oversight
+;;32372 - FCERC Campus Privacy Office
+FCCDS;5;
+FCCD6;6;
+;32386 - 32390
+;;32386 - FCERC Compl Coord Disab Stands
+FCER5;5;
+FCER6;6;
+;32366 - 32370
+;;32366 - FCERC Office of Records
+FCPID;5;
+FCPI6;6;
+;32391 - 32395
+;;32391 - FCERC Office of Investigations
+FCRER;5;
+FCRE6;6;
+;32376 - 32380
+;;32376 - FCERC Risk Controls Standards
+FCSHD;5;
+FCSH6;6;
+;32381 - 32385
+;;32381 - FCERC Sexual Harassment & Disc
+FDAUD;4;
+FDAU5;5;
+FDAU6;6;
+;21485 - 21499
+;;21485 - FDAUD Audit & Advisory Svcs
+FGOMG;4;
+FGOM5;5;
+FGOM6;6;
+;21515 - 21529
+;;21515 - FGOMG Staff Ombuds Off Ops
+MU1FA;3;
+KNBAM;4;
+KNADM;5;
+KNBLD;6;
+;25320
+;;25320 - KNBAM BAM/PFA Building Project
+;25330
+KNPCU;6;
+;25321 - 25329
+;;25321 - KNBAM Salary Provisions
+;;25327 - KNBAM BAM AD Admin General
+;;25328 - KNBAM BAM AD Adm Director
+;;25329 - KNBAM BAM AD Adm Bd of Trustee
+;25336 - 25360
+;;25336 - KNBAM BAM FA Facilities Gen
+;;25337 - KNBAM BAM FA Facilities Usage
+;;25338 - KNBAM BAM FA Fac Bldg Maint
+;25435 - 25439
+;;25435 - KNBAM PFA EX Exhibitions
+;25444
+;;25444 - KNBAM Student Activities
+;25471 - 25476
+;;25474 - KNBAM BAM/PFA Vis Svc/Fac Rent
+;25481 - 25500
+;;25481 - KNBAM BAM/PFA MS General
+;;25489 - KNBAM BAM/PFA Dig Media Gneral
+KNEXT;5;
+KNEXP;6;
+;25441 - 25443
+;;25441 - KNBAM BAM PR Aud Dev General
+;;25442 - KNBAM BAM PR Mrktg &Publ Rel
+;;25443 - KNBAM PFA PR Mrktg & Publ Rel
+;25445
+;;25445 - KNBAM BAM/PFA PR Publications
+;25467 - 25470
+;25477 - 25480
+;25501 - 25504
+;;25501 - KNBAM BAM/PFA ED Education Gen
+;;25502 - KNBAM BAM/PFA Ed Programs
+KNEXD;6;
+;25451 - 25465
+;;25451 - KNBAM BAM/PFA DV Develop Gen
+;;25455 - KNBAM BAM/PFA DV Annual Event
+;;25459 - KNBAM BAM/PFA DV Membership Pr
+;25466
+;;25466 - KNBAM BAM/PFA Engagement Activ
+KNPRG;5;
+KNPR6;6;
+;25361 - 25420
+;;25361 - KNBAM BAM CU Chief Curator
+;;25364 - KNBAM BAM CU Curatorial Gneral
+;;25371 - KNBAM BAM CO Registration
+;;25372 - KNBAM BAM CO Collection Manage
+;;25373 - KNBAM BAM CO Collection Conser
+;;25375 - KNBAM BAM CO Art Acquisitions
+;;25386 - KNBAM BAM EX Exhibitions
+;;25406 - KNBAM PFA CU Curatorial
+;;25415 - KNBAM PFA CO Collection Manage
+;;25416 - KNBAM PFA CO Collection Preser
+;;25417 - KNBAM PFA CO Collections Techn
+;;25418 - KNBAM PFA CO Collection Acquis
+;25505 - 25514
+;;25505 - KNBAM  BAM/PFA ED PFA Library
+;;25506 - KNBAM  PFA ED Library Special
+;;25507 - KNBAM BAM/PFA ED PFA Subscript
+VCBAS;3;
+AZCSS;4;
+AZADM;5;
+AZAD6;6;
+;32475 - 32484
+;;32475 - AZCSS General Admin
+;;32476 - AZCSS Immediate Office
+;;32477 - AZCSS Process Excellence
+;;32478 - AZCSS Srvc Qual & Org Effectv
+;;32479 - AZCSS Finance & Perf Mgmt
+;;32480 - AZCSS Munic & Change Mgmt
+;;32481 - AZCSS Service Team Mgmt
+AZBSR;5;
+AZBS6;6;
+;32508 - 32510
+;;32508 - AZCSS Service Region 2
+AZCSR;5;
+AZCS6;6;
+;32511 - 32512
+;;32511 - AZCSS Service Region 3
+AZDSR;5;
+AZDS6;6;
+;32513 - 32514
+;;32513 - AZCSS Service Region 4
+AZESR;5;
+AZES6;6;
+;32520 - 32522
+;;32520 - AZCSS Service Region 5
+;32523 - 32524
+AZFIN;5;
+AZFI6;6;
+;32485 - 32494
+;;32485 - AZCSS Finance
+;;32486 - AZCSS Recharge
+;;32487 - AZCSS Business Contracts
+;;32488 - AZCSS Business Services
+;;32489 - AZCSS Procurement
+AZHRS;5;
+AZHR6;6;
+;32495 - 32504
+;;32495 - AZCSS Staff Hr
+;;32496 - AZCSS Academic Personnel
+;;32497 - AZCSS Benefits
+;;32498 - AZCSS Employment Process
+;;32499 - AZCSS Data & Records Mgmt
+;;32500 - AZCSS HCM Processing
+;;32501 - AZCSS Payroll & Timekeeping
+;;32502 - AZCSS Recruiting
+;;32503 - AZCSS Visa & Immigration
+AZITS;5;
+AZIT6;6;
+;26425
+;;26425 - AZCSS DOCS
+;32505 - 32507
+;;32505 - AZCSS General Info Tech
+;;32506 - AZCSS Information Techology
+AZRAD;5;
+AZRA6;6;
+;32515 - 32519
+;;32515 - AZCSS Contracts & Grants
+;;32516 - AZCSS RA Staff HR
+;;32517 - AZCSS RA Academic Personnel
+;;32518 - AZCSS RA Finance
+;;32519 - AZCSS RA Bus & Fin Services
+EERSO;5;
+EERS6;6;
+;31500 - 31514
+;;31500 - EERES ERSO Ops
+;;31510 - EERES ERSO ADR
+BSAVC;4;
+FEPRO;5;
+FEPR6;6;
+;21835 - 21870
+;;21835 - FEPRO CPOs Office
+;;21866 - FEPRO Purchasing
+;;21867 - FEPRO BluCard Program
+;;21869 - FEPRO Strategic Sourcing
+FKMTM;5;
+FKMT6;6;
+;21501
+;;21501 - FKMTM Ofc of Mrkt & Bus Outrch
+;21503 - 21514
+;21871 - 21879
+;;21871 - FKMTM Bus Contr Brand Protect
+FLPRN;5;
+FLBIN;6;
+;21910 - 21920
+;;21911 - FLPRN Library Bindery
+FLPRP;6;
+;21880 - 21894
+;;21880 - FLPRN Prop Equip Mgmt/Distrib
+;;21881 - FLPRN Prop Exc Surplus & Salv
+;;21882 - FLPRN Prop Fleet Services
+;;21883 - FLPRN Prop Rental Storage
+;;21884 - FLPRN Prop Moving Services
+;21899
+FICIO;5;
+FICI6;6;
+;21697 - 21698
+BSHUM;4;
+FMHUM;5;
+FMEOP;6;
+;21940 - 21942
+;;21940 - FMHUM Administration & Finance
+;;21941 - FMHUM Operations Director
+;21960
+;21970 - 21984
+;;21975 - FMHUM Communications
+;21986 - 21989
+;21990 - 21999
+;;21999 - FMHUM Portfolio Management
+;31638
+;;31638 - FMHUM Salary Provisions
+FMHRO;6;
+;21943 - 21959
+;;21943 - FMHUM HR Information Systems
+;;21944 - FMHUM Special Projects
+;;21945 - FMHUM Administration
+;;21947 - FMHUM Communications
+;21961
+;;21961 - FMHUM Policy and Labor Relatio
+;21985
+;;21985 - FMHUM Talent Acquisition
+;22000 - 22002
+;;22000 - FMHUM HR Policy
+;;22001 - FMHUM Benefits
+;;22002 - FMHUM Customer Support
+;22015 - 22104
+;;22015 - FMHUM LaborRelatns&GrvnceCoord
+;;22056 - FMHUM Info Sys Ops
+;;22090 - FMHUM Metrics
+;;22093 - FMHUM Compliance
+;;22095 - FMHUM Compensation
+FWHHS;5;
+FWLDO;6;
+;21962
+;;21962 - FWHHS Learning and Development
+;31630 - 31637
+;;31631 - FWHHS Lrng_Dev and Org Eff Adm
+;;31632 - FWHHS Ongoing Prog Costs
+;;31633 - FWHHS CoreDesignDevel&Delivery
+;;31634 - FWHHS New Pilot Programs
+;;31635 - FWHHS Organizational Effective
+;;31636 - FWHHS CWD Reserves
+;;31637 - FWHHS CD Projects
+;32335 - 32337
+;;32335 - FZHRC Human Resource Center
+;;32336 - FZHRC HRC Operations
+;;32337 - FZHRC HRC Special Projects
+FWIAP;6;
+;21963 - 21969
+;;21963 - FWHHS Encore Bears
+;22003 - 22014
+;;22003 - FWHHS Service Awards
+;31639 - 31648
+;;31648 - FWHHS Staff Organizations
+FJPPS;4;
+FJADM;5;
+FJAD6;6;
+;15220
+;;15220 - FJPPS Map Drawing
+;15222
+;;15222 - FJPPS Inspection Svcs
+;15247 - 15249
+;;15247 - FJPPS CapRenewComte Administn
+;21421
+;;21421 - FJPPS Asset Management
+;21700 - 21702
+;;21700 - FJPPS FS Storehouse and Purch
+;;21702 - FJPPS Adm Information Systems
+;21703 - 21705
+;;21703 - FJPPS Adm Human Resources
+;;21704 - FJPPS FS Immediate Office
+;;21705 - FJPPS Adm PPCS
+;21706
+;;21706 - FJPPS FS Accounting
+;21708
+;;21708 - FJPPS Adm Payroll
+;21709
+;;21709 - FJPPS QA and Customer Service
+;21710 - 21719
+;;21710 - FJPPS ADM Safety Program
+;;21711 - FJPPS Adm Human Resources
+FJBMT;5;
+FJBM6;6;
+;15174
+;;15174 - FJPPS BM Abatement
+;21707
+;;21707 - FJPPS Adm Motor Pool Operation
+;21720 - 21726
+;;21720 - FJPPS BM Immediate Office
+;;21721 - FJPPS BM Stationary Engineers
+;;21722 - FJPPS BM Electrical Shop
+;;21723 - FJPPS BM HVAC Shop
+;;21724 - FJPPS BM Plumbing Shop
+;;21725 - FJPPS BM Structural Shop
+;;21726 - FJPPS BM Trades Support
+;21729 - 21731
+;;21729 - FJPPS BM Elevator Maintenance
+;;21730 - FJPPS BM Carpenter Shop
+;;21731 - FJPPS BM Lockshop
+FJCUS;5;
+FJCU6;6;
+;15232
+;;15232 - FJPPS Comm Fire Mitigation
+;21765 - 21779
+;;21765 - FJPPS CG Grounds Services
+;;21766 - FJPPS CG Custodial Services
+;;21767 - FJPPS Cus Recycling/Refuse
+;;21768 - FJPPS Cus Pest Management
+;;21770 - FJPPS Cus Contract Coord
+;;21771 - FJPPS Custodial Graveyard Shft
+;21782 - 21794
+FJCUP;6;
+;21472
+;;21472 - FJPPS People's Park Operations
+FJDEF;5;
+FJDEP;6;
+;21795 - 21809
+;;21795 - FJPPS Deferred Maintenance
+FJPUT;5;
+FJPU6;6;
+;21780
+;;21780 - FJPPS PU Purchased Utilities
+FJSES;5;
+FJSE6;6;
+;21727 - 21728
+;;21727 - FJPPS Energy Mgt System
+;;21728 - FJPPS Fire Prev Svcs
+;21732 - 21749
+;;21732 - FJPPS Preventive Main
+;21750 - 21764
+;;21750 - FJPPS Utilities Systems AD
+;;21751 - FJPPS Utilities Engineering
+;;21752 - FJPPS Utilities Operations
+;21781
+;;21781 - FJPPS Hill Area Substation Ops
+FTRAN;4;
+FTADM;5;
+FTAD6;6;
+;23300 - 23303
+;;23300 - FTRAN Business Services
+;;23301 - FTRAN Director's Office
+;;23302 - FTRAN Shared Services
+;;23303 - FTRAN Marketing
+FTENF;5;
+FTEN6;6;
+;23304 - 23316
+;;23304 - FTRAN INFO SYSTEM
+;;23315 - FTRAN Citation Processing
+;;23316 - FTRAN Enforcement
+;23322
+;;23322 - FTRAN Hearing Examiner
+FTMAI;5;
+FTMA6;6;
+;21900 - 21904
+;;21901 - FTRAN Mail Administration
+;;21902 - FTRAN Incom&Camp Mail
+;;21903 - FTRAN Outgoing Mail
+;;21904 - FTRAN Special Services Mail
+FTMNT;5;
+FTMN6;6;
+;23317
+;;23317 - FTRAN Park Lot Maintenance
+FTPAR;5;
+FTPA6;6;
+;23318
+;;23318 - FTRAN Permit Services
+;23320 - 23321
+;;23321 - FTRAN Visitor Parking
+;23323 - 23325
+;;23323 - FTRAN Vehicle Access Fees
+FTPAT;5;
+FTAT6;6;
+;23345 - 23346
+;;23345 - FTRAN Alternative Transport
+;;23346 - FTRAN Easy Pass
+FTPSE;5;
+FTPS6;6;
+;23319
+;;23319 - FTRAN Special Events
+;23326 - 23329
+;;23326 - FTRAN Attendant Parking
+;23332
+;;23332 - FTRAN LOOP Program
+FTPTR;5;
+FTPT6;6;
+;23330 - 23331
+;;23331 - FTRAN Transit Operations
+;23333 - 23344
+;23347 - 23358
+FUPOL;4;
+FUADM;5;
+FUAD6;6;
+;23360 - 23369
+;;23360 - FUPOL Adm Adm & Training SPO
+;;23361 - FUPOL Adm Information Systems
+;;23362 - FUPOL Adm Business Services
+;;23363 - FUPOL Adm Chief's Office
+FUSEM;5;
+FUSE6;6;
+;21664 - 21673
+;21696
+;;21696 - FUPOL EM Continuity Planning
+;21699
+;23378
+;;23378 - FUPOL EM Emerg Preparedness
+FUCOM;5;
+FUCO6;6;
+;23375 - 23377
+;;23375 - FUPOL Comm Alarms
+;;23376 - FUPOL Comm Card Key Access
+;;23377 - FUPOL Comm Crime Prevention
+;23379 - 23389
+;;23379 - FUPOL Comm Safety Programs
+;;23380 - FUPOL Comm Key Control
+FUOPS;5;
+FUOP6;6;
+;23370 - 23374
+;;23370 - FUPOL Ops UCOP Security Srvcs
+;23390 - 23396
+;;23390 - FUPOL Ops Comm Svcs Officers
+;;23391 - FUPOL Ops Demonstrations
+;;23392 - FUPOL Ops Investigations
+;;23393 - FUPOL Ops Patrol
+;;23394 - FUPOL Ops Special Projects
+;;23395 - FUPOL Ops Secur Patrol Officer
+;;23396 - FUPOL Ops Support Services
+LMOIH;4;
+LMOI5;5;
+LMOI6;6;
+;14800 - 14802
+;;14800 - LMOIH Intl House Gen Ops
+VCAFO;4;
+AXEXO;5;
+AXPOF;6;
+;32332 - 32334
+AXEXP;6;
+;21416 - 21419
+FAVCO;5;
+FAALL;6;
+;23150 - 23151
+;;23151 - FAVCO Adm & Fin Allocation SPO
+;23153 - 23154
+;23156 - 23159
+;32331
+;;32331 - FAVCO OE Programs
+FAINC;6;
+;21685 - 21695
+;;21685 - FAVCO BAS Immediate Office
+;;21686 - FAVCO Allocation Org
+;23152
+;;23152 - FAVCO Program Coordination
+;23155
+;;23155 - FAVCO Gustafson Capital Proj
+;32329
+;;32329 - FAVCO OE Program Ops
+;32330
+;;32330 - FAVCO OE Misc
+FAOPS;6;
+;10105 - 10119
+;21410 - 21412
+;;21410 - FAVCO Adm & Finance Admin Ops
+;;21411 - FAVCO Adm & Fin Spec Projets
+RESTO;5;
+REST6;6;
+;15244 - 15245
+;;15244 - RESTO CACS
+;;15245 - RESTO Energy Efficiency
+;21414 - 21415
+;;21414 - RESTO Ofc of Sustainability
+;;21415 - RESTO Grn Campus Students
+;21420
+VRIST;4;
+IZDEP;5;
+IZDE6;6;
+;26296
+;;26296 - IZDEP Production Control Ctr
+;26298
+;;26298 - IZDEP DeCIO Mgmt
+;26432 - 26433
+JFAVC;5;
+JFATH;6;
+;26215 - 26224
+;;26215 - JFAVC Interc Athletics
+JFCAL;6;
+;26300
+;;26300 - JLSTP CalNet
+JFAV6;6;
+;10091 - 10092
+;26175 - 26176
+;;26175 - JFAVC OCIO/IST Organiz Exp
+;;26176 - JFAVC Transition Team
+;26178
+;;26178 - JFAVC CIO Special Other
+;26180 - 26186
+;;26184 - JFAVC CIO Salary Plan
+;;26185 - JFAVC IST Salary Provisions
+;;26186 - JFAVC Kuali Ready
+;26190
+;;26190 - JFAVC Architecture & Strategy
+;26196 - 26199
+;;26196 - JFAVC Fin Plan Tech Invest
+;;26199 - JFAVC Security, Privacy,Policy
+;26205 - 26208
+;;26205 - IZDEP  Salary Plan
+;;26206 - IZDEP IST Bank
+;;26207 - IZDEP IST Budget Cuts
+;;26208 - IZDEP Benefits
+;26210 - 26214
+;;26210 - IZDEP DeCIO Discretionary
+;26260
+;;26260 - JFAVC Campus Shared Svcs Fee
+;26391
+;;26391 - JFAVC Center Digital Schlrship
+JFIST;6;
+;10093 - 10104
+;;10093 - JFAVC Technology Program Ofc
+;26177
+;;26177 - JFAVC IST Discretionary
+;26188 - 26189
+;;26189 - JFAVC IT Bank
+;26195
+;;26195 - JFAVC IST Management
+;26209
+;;26209 - IZDEP  ITSM Program
+;26245 - 26254
+;;26250 - JFAVC Student Tech Council
+;26265 - 26269
+;26285 - 26289
+;;26285 - JFAVC Communications
+;26290 - 26294
+;26295
+;;26295 - JFAVC IST Budget & Planning
+;26430 - 26431
+;;26430 - JFAVC Procurement
+;;26431 - JFAVC BS Building Equip Mgmt
+;26434 - 26435
+;;26434 - JFAVC Billing & AR
+JFSEC;6;
+;26179
+;;26179 - JFAVC Sys & Network Security
+JHSSC;5;
+JHSS6;6;
+;26240 - 26244
+;;26240 - JHSSC SSCL Administration
+;26255 - 26259
+;;26255 - JHSSC RIS Operations
+;26270 - 26284
+;;26270 - JHSSC CSM Software
+;;26275 - JHSSC CSM Consortium (ACS)
+JICCS;5;
+JIAPI;6;
+;26436 - 26439
+;;26436 - JICCS CTS Budget & Mgmt
+JIEEI;6;
+;10090
+;;10090 - JICCS End Point Engineering
+;26424
+;;26424 - JICCS Software Central
+JICC6;6;
+;26227
+;;26227 - JICCS Content Management
+;26301 - 26302
+;;26301 - JICCS CalMail
+;;26302 - JICCS Infra Application Devel
+;26305
+;;26305 - JICCS Research Hub
+;26331
+;26333
+;26389
+;;26389 - JICCS CTS Salary Plan
+;26413 - 26423
+;26426 - 26428
+;;26426 - JICCS CalAgenda
+;26441 - 26442
+;26444 - 26452
+;26454 - 26459
+;31670 - 31679
+;;31671 - JICCS Software Engineering
+;;31679 - JICCS Enterprise Architecture
+JIINF;6;
+;26304
+;;26304 - JICCS Info Mgmt & Workflow
+;26443
+;;26443 - JICCS Ticketing & KB
+JIINT;6;
+;26235 - 26236
+;;26235 - JICCS Web Accessibility
+;;26236 - JICCS IT Project Toolkit
+;26303
+;;26303 - JICCS Drupal Services
+;26306
+;;26306 - JICCS Open Berkeley
+;26412
+;;26412 - JICCS Middleware Integration
+;26440
+;;26440 - JICCS Productivity Suite
+JJCNS;5;
+JJCN6;6;
+;26312 - 26315
+;26317
+;26336
+;26338 - 26344
+;26353 - 26355
+;26357 - 26358
+;26361 - 26362
+;;26361 - JJCNS Network Admin
+;26367 - 26369
+;;26367 - JJCNS Shared Services
+;;26368 - JJCNS Data Engineering
+;;26369 - JJCNS Firewall Service
+;26371
+;;26371 - JJCNS Network Wireless Sales
+;26385 - 26386
+;26388
+;;26388 - JJCNS Telecom Salary Pool
+JJDNR;6;
+;26356
+;;26356 - JJCNS Network Operations
+;26363 - 26365
+;;26363 - JJCNS Core
+;;26364 - JJCNS Riser
+;;26365 - JJCNS Station
+;26384
+;;26384 - JJCNS AirBears
+JJTEL;6;
+;26337
+;;26337 - JJCNS Cellular
+;26359
+;;26359 - JJCNS Premise Wiring
+;26366
+;;26366 - JJCNS Telecom Customer Care
+;26374
+;;26374 - JJCNS Emergency Communications
+;26387
+;;26387 - JJCNS Telecom Budget & Mgmt
+JJVOI;6;
+;26360
+;;26360 - JJCNS Voice Installation
+;26375 - 26383
+;;26375 - JJCNS Voice Infrast Dial Tone
+;;26376 - JJCNS Res Halls Telecom
+;;26377 - JJCNS Voice Mail
+;;26378 - JJCNS Domestic Long Dis & Loca
+;;26379 - JJCNS Voice Equip
+;;26380 - JJCNS International Call Usage
+;;26381 - JJCNS DSL Remote Access
+;;26382 - JJCNS Voice Features
+;;26383 - JJCNS Sports Broadcasting
+JKASD;5;
+JKADM;6;
+;26160 - 26174
+;;26161 - JKASD ASD Recharge
+;;26165 - JKASD BFS
+;;26166 - JKASD HCM
+;;26170 - JKASD KRONOS
+;;26174 - JKASD EAS Salary Plan
+;26345 - 26352
+;;26345 - JKASD Budget & Finance Mgmt
+;;26346 - JKASD ServiceNow
+;26405 - 26407
+;;26405 - JKASD SIS Technical Services
+;;26407 - JKASD CARS
+;26409 - 26411
+;31680 - 31689
+;;31682 - JKASD Admin Solutions
+;31690 - 31699
+;;31690 - JKASD Payroll
+JLSTP;5;
+JLDBS;6;
+;26318
+;;26318 - JLSTP Database Services
+;26322 - 26324
+;;26322 - JLSTP DB Storage/Backups
+;;26323 - JLSTP SQL Server Serivce
+;;26324 - JLSTP OpenSource Service
+;26397 - 26400
+;;26397 - JLSTP Database BFS
+;;26398 - JLSTP Database HCM
+;;26399 - JLSTP Database Student
+;;26400 - JLSTP Database BAIRS
+;26403
+;;26403 - JLSTP Oracle Service
+JLEDS;6;
+;26320
+;;26320 - JLSTP Enterprise Data SP
+JLEDW;6;
+;26237 - 26239
+;;26237 - JLSTP EDW Data Integration Svs
+;;26238 - JLSTP EDW Cal Answers
+;;26239 - JLSTP EDW BAIRS
+;26321
+;;26321 - JLSTP EDW Development
+;26332
+;;26332 - JLSTP ETL Data Warehouse
+;26395
+;;26395 - JLSTP Business Intelligence
+JLST6;6;
+;26316
+;26319
+;26325 - 26326
+;26392 - 26394
+;26396
+;;26396 - JLSTP eBus & Storefront
+;26401 - 26402
+;;26401 - JLSTP Database Cal Plan
+;;26402 - JLSTP Database BearBuy
+;26404
+;;26404 - JLSTP ETL and BI Operations
+JMRIN;5;
+JMRI6;6;
+;26464 - 26465
+JMMUS;6;
+;26466 - 26467
+JMRIT;6;
+;26468 - 26469
+JNWWS;5;
+JNINF;6;
+;25421 - 25423
+;;25421 - JNWWS Citrix
+;;25422 - JNWWS Active Directory
+;;25423 - JNWWS Budget Mgmt
+;25431 - 25434
+;;25431 - JNWWS External Hosting
+;;25432 - JNWWS Calshare
+;;25433 - JNWWS Web Hosting
+;;25434 - JNWWS System Administration
+;26299
+;;26299 - JNWWS Business Continuity
+;26311
+;;26311 - JNWWS Mainframe
+;26327 - 26330
+;;26327 - JNWWS Backup
+;;26328 - JNWWS Storage
+;;26329 - JNWWS Unix
+;;26330 - JNWWS Platforms Infrastructure
+;26334
+;;26334 - JNWWS Data Center
+;26370
+;;26370 - JNWWS Production Control
+JNPAS;6;
+;25429
+;;25429 - JNWWS Blade Service
+;26191 - 26194
+;;26191 - JNWWS Virtual Machine ESX
+;;26192 - JNWWS Virtual Machine Base
+;;26193 - JNWWS Virtual Machine Storage
+JNSYS;6;
+;26261 - 26264
+;;26261 - JNWWS Windows System Support
+;26307 - 26309
+;;26309 - JNWWS Unix System Support
+JNWW6;6;
+;25430
+;26297
+;;26297 - JNWWS Platforms Salary Pool
+;26310
+;26372 - 26373
+;26429
+;;26429 - JNWWS Andrew File System (AFS)
+VREAS;5;
+VREA6;6;
+;26460 - 26463
+;;26460 - VRIST SIS Budget and Mgmt
+;;26461 - VRIST SIS Technical
+;;26462 - VRIST SIS  Service Design
+;;26463 - VRIST SIS Support Services
+VRMGT;5;
+VRMG6;6;
+;26187
+;;26187 - VRIST Cell Tower
+;26200 - 26204
+;;26200 - VRIST Allocations
+VCCPD;3;
+RAMGT;4;
+RAMG5;5;
+RAMG6;6;
+;21422 - 21424
+VCEI3;3;
+BVHDR;4;
+BVHD5;5;
+BVHD6;6;
+;30750 - 30759
+;;30750 - BVHDR Admin / Operations
+;;30751 - BVHDR Research
+BBEQI;4;
+BBEQ5;5;
+BBEQ6;6;
+;20390 - 20402
+;30300 - 30306
+;;30304 - BBEQI Cluster Support
+;30309
+;30315 - 30321
+;;30315 - BBEQI Off Misc Projects
+;;30317 - BBEQI Off General
+;;30318 - BBEQI Off Admin
+;30322 - 30323
+;;30322 - BBEQI E & I Adm Services
+;;30323 - BBEQI Undergrd Ed Reserves
+;31649
+;;31649 - BBEQI Div'rsty Rsrch Initative
+;31720 - 31723
+;;31720 - BBEQI E&I Operations
+;;31721 - BBEQI Salary Provisions
+;;31722 - BBEQI E&I Commitments
+;;31723 - BBEQI Chanc Award Adv Inst Exc
+;31725 - 31739
+;;31725 - BBEQI E&I Faculty Mentoring
+BIMUS;4;
+BIMU5;5;
+BIMU6;6;
+;17921 - 17925
+;;17921 - BIMUS Young Musicians Gen Ops
+;;17922 - BIMUS Participant Exp
+;;17923 - BIMUS Development
+;;17925 - BIMUS Special Events
+BLOPP;4;
+BLOP5;5;
+BLOP6;6;
+;26065 - 26066
+;;26065 - BLOPP Grad Opport Prog Gen Ops
+;;26066 - BLOPP Grad Opport Summer Prog
+;26068 - 26073
+;;26068 - BLOPP Grad Opport Visit Day
+;;26072 - BLOPP Grad Opport Student Svcs
+;;26073 - BLOPP Grad Opport Outreach
+BXPPD;4;
+BXPP5;5;
+BXPP6;6;
+;31715 - 31719
+;;31715 - BXPPD Pres Postdoc Program Ops
+;;31716 - BXPPD Pres Postdoc Fellowships
+;31724
+;;31724 - BXPPD Faculty & Postdoc Progms
+UIAPA;4;
+UIADM;5;
+UIAD6;6;
+;10150 - 10151
+;;10150 - UIAPA SUP General Ops
+;;10151 - UIAPA SUP Program Support
+;10152
+;;10152 - UIAPA CEO Break the Cycle
+;17853 - 17855
+;;17853 - UIAPA Adm General
+;;17854 - UIAPA Adm Special Projects
+;;17855 - UIAPA Adm Yield Activities
+;31000 - 31009
+;31175 - 31177
+;;31175 - UIAPA ADM Systems & Evaluation
+;;31176 - UIAPA CEP Various Donors
+;;31177 - UIAPA CAL PREP
+UICCT;5;
+UICC6;6;
+;17857 - 17859
+;;17857 - UIAPA CC Transfer General
+;;17858 - UIAPA CC Transfer Center
+;;17859 - UIAPA CC Transfer Alliance
+UIDES;5;
+UIDE6;6;
+;17856
+;;17856 - UIAPA Destination: College
+UIEAR;5;
+UIEA6;6;
+;17860 - 17879
+;;17860 - UIAPA EAOP General
+;;17862 - UIAPA HS Concurrent Enroll
+;;17863 - UIAPA HS School Site Coord
+;;17864 - UIAPA PACE General
+;;17866 - UIAPA HS2 School Site Coord
+;;17868 - UIAPA HS3 Concurrent Enroll
+;;17873 - UIAPA MS1 Sat College
+;17909 - 17912
+;;17909 - UIAPA EC Test Preparation
+;;17912 - UIAPA EC East Contra Gen
+;18000 - 18059
+;;18000 - UIAPA Advising Coord General
+;;18003 - UIAPA ADV Campus Tours
+;;18005 - UIAPA ADV Coll Make It Happ
+;;18021 - UIAPA ACA Summer Sessions
+;;18024 - UIAPA ACA Pre College Academy
+;;18030 - UIAPA ACA SAT Academy
+;;18031 - UIAPA ACA Test Prep-Other
+;;18050 - UIAPA SJ College Visits
+UIEBC;5;
+UIEB6;6;
+;17826
+;;17826 - UIAPA East Bay Consortium
+UIGUI;5;
+UIGU6;6;
+;17913 - 17914
+;;17913 - UIAPA EGC Bear Week
+;;17914 - UIAPA EGC General
+UIPTE;5;
+UIPT6;6;
+;31178 - 31179
+;;31178 - UIAPA Puente Project
+UIUMS;5;
+UIUM6;6;
+;17919 - 17920
+;;17919 - UIAPA UBMS Math/Science AY
+;;17920 - UIAPA UBMS Math/Science Summer
+UIUPB;5;
+UIUP6;6;
+;17915 - 17918
+;;17915 - UIAPA UB Academic Year
+;;17916 - UIAPA UB Summer
+;;17917 - UIAPA UB Various Donors Stu
+;;17918 - UIAPA UB Various Donors Gen
+UQMSC;4;
+UQMSA;5;
+UQMA6;6;
+;34000 - 34001
+UQMS5;5;
+UQMS6;6;
+;20796 - 20800
+;;20797 - UQMSC MultiCultural Comm Ctr
+;;20798 - UQMSC MC Reserves
+;20801 - 20808
+;;20801 - UQMSC MSGC Administration
+;;20802 - UQMSC Dev SGRP
+;;20804 - UQMSC Dev General Items
+;;20807 - UQMSC Stdt Group Reserve
+;20809
+;;20809 - UQMSC Native Am Student Dev
+;20810 - 20813
+;;20812 - UQMSC Stdt Grp Immigrant Agend
+;;20813 - UQMSC General Operation
+;20814 - 20817
+;;20815 - UQMSC Afr Am Student Dev
+;20818 - 20821
+;;20819 - UQMSC APAm Student Dev
+;20822 - 20825
+;;20823 - UQMSC ChLn Student Dev
+;21395 - 21409
+;;21395 - UQMSC WRC SHAPE
+;;21396 - UQMSC Sexual Violence Educ
+;;21397 - UQMSC Women's Programs
+;;21398 - UQMSC Gen Eq Resource Ctr Admn
+;;21399 - UQMSC LGBTQ Programs
+;26067
+;;26067 - UQMSC American Indian Grad Prg
+;31790 - 31799
+;;31790 - UQMSC Cross Cult Student Dev
+;31835 - 31842
+;;31835 - BESDI Staff Diversity Operatns
+UXDSP;4;
+UXDS5;5;
+UXDS6;6;
+;20737 - 20751
+;;20737 - UXDSP DSP TRIO Program
+;;20738 - UXDSP DSP Residence Program
+;;20739 - UXDSP DSP Reserves
+;;20740 - UXDSP DSP Office Adm
+;;20742 - UXDSP DSP General
+;;20746 - UXDSP DSP Proctored Accommodat
+;;20751 - UXDSP DSP Workability-IV Progr
+;31843
+;;31843 - UXDSP DSP Student Services
+UXPAT;5;
+UXPA6;6;
+;20765 - 20772
+UXPAX;5;
+UXPX6;6;
+;20752 - 20764
+;;20752 - UXDSP DSP Aux Services Gen
+;;20761 - UXDSP DSP Aux Notetakers
+;;20764 - UXDSP DSP ARRA Employment Prog
+;31844 - 31849
+;;31844 - UXDSP DSP Aux Alt Media
+;;31845 - UXDSP DSP Aux Mobility Assts
+;;31846 - USDSP DSP Aux Captioning
+ZCEEE;4;
+ZCEE5;5;
+ZCEE6;6;
+;11388 - 11394
+;;11388 - UNSLA Core Operations
+;;11389 - ZCEEE Cal NERDS General
+;20380 - 20382
+;;20380 - ZCEEE McNair General
+;;20381 - ZCEEE POSSE General
+;20383 - 20385
+;;20383 - ZCEEE Miller General
+;;20384 - UNSLA AADMS Other
+;20386 - 20389
+;;20386 - ZCEEE Student Supp Srvcs Gen
+;;20387 - UNSLA AADSS Other
+;20450 - 20458
+;;20452 - ZCEEE Undocumented Stu Prog
+;;20455 - ZCEEE EOP General
+;20459 - 20464
+;20465 - 20467
+;20468 - 20469
+;30770 - 30779
+;;30770 - ZCEEE Sage General
+;31110 - 31114
+;;31110 - ZCEEE Centers Admin
+;;31112 - ZCEEE Veterans
+;;31113 - ZCEEE CAL Independent Scholars
+;;31114 - ZCEEE Basic Needs Security
+;31115 - 31119
+;;31115 - ZCEEE Transfer General Ops
+;;31117 - ZCEEE Underground Scholars
+;;31118 - ZCEEE Stude Equity and Success
+;31120 - 31124
+;;31120 - ZCEEE Reentry General Ops
+;;31121 - ZCEEE Reentry Other
+;31125 - 31129
+;;31125 - ZCEEE Student Parent General
+;;31126 - ZCEEE Student Parent Other
+VCFIN;3;
+ABCFI;4;
+ABCF5;5;
+ABCF6;6;
+;10070
+;;10070 - ABCFI Finance Communications
+;31650 - 31655
+;;31650 - ABCFI Finance Immediate Office
+;;31651 - ABCFI Allocation Org
+AVCFO;4;
+ACBUD;5;
+ACBU6;6;
+;10045 - 10069
+;;10045 - ACBUD ABRPB Immed Office
+;;10047 - ACBUD Financial Systems
+;;10060 - ACBUD Budget Office
+ADPAO;5;
+ADPA6;6;
+;10075 - 10089
+;;10075 - ADPAO Planning & Analysis
+;19500 - 19504
+;;19500 - ADPAO OSR Operations
+;;19501 - ADPAO OSR Projects/Surveys
+AGSPC;5;
+AGSP6;6;
+;10120 - 10134
+;;10120 - AGSPC Space and Capital Resrcs
+;;10121 - AGSPC Provision Rep Alt Mov
+AVCFC;5;
+FPCNT;6;
+;23135 - 23149
+;;23135 - FPCNT Controller's Office SPO
+;23165 - 23179
+;23210 - 23224
+;;23210 - FPCNT Special Projects
+;23285 - 23287
+FREXM;6;
+;23180 - 23194
+;;23180 - FREXM Extramural Funds Acctg
+FSAGT;6;
+;23195 - 23209
+;;23195 - FSAGT General Accounting
+;23288 - 23299
+;;23288 - FSAGT Travel & Entertainment
+FSDSB;6;
+;23240 - 23254
+;;23240 - FSDSB Disbursements
+FSLOA;6;
+;23225 - 23239
+;23255 - 23269
+;;23255 - FSLOA Billing & Payment Svcs
+FSPAY;6;
+;23270 - 23284
+;;23270 - FSPAY Payroll
+AVFCC;5;
+AVFC6;6;
+;10071 - 10074
+AVFPA;5;
+AVFP6;6;
+;31660 - 31664
+BJSPM;5;
+BJSP6;6;
+;31656 - 31659
+;;31656 - BJSPM Strategic Program Core
+;;31657 - BJSPM CalPlanning Operations
+;;31658 - BJSPM Financial BI Ops
+;;31659 - BJSPM Core Change Team
+CMCAP;4;
+AKVCC;5;
+AKFSS;6;
+;15212
+;;15212 - AKVCC RE Communications
+;15221
+;31760 - 31764
+;;31760 - AKVCC RE Info Tech
+;;31761 - AKVCC RE Adm Operations
+AKVCI;6;
+;15175
+;;15175 - AKVCC RE Immed Ofc Ops
+;15177 - 15186
+;;15177 - AKVCC RE Salary Provisions
+;15213 - 15219
+;;15213 - AKVCC Fac Svcs Initiatives
+ALPDC;5;
+ALCPP;6;
+;15233 - 15234
+;;15233 - ALPDC SP CCRAB
+;;15234 - ALPDC SP Misc Projects
+;15240 - 15242
+;;15240 - ALPDC Plant Expenditures Proj
+ALOPS;6;
+;15176
+;;15176 - ALPDC Accounting
+;15187 - 15201
+;;15188 - ALPDC Adm Operations
+;;15192 - ALPDC Adm Overhead
+;;15193 - ALPDC LBNL Recharge
+;15202 - 15211
+;;15202 - ALPDC Project Management
+;15223 - 15226
+;15227 - 15231
+;;15227 - ALPDC Contract Admin
+;;15230 - ALPDC CP Intiatives (Reserve)
+ALSUS;6;
+;15243
+;;15243 - ALPDC Green Building Program
+;15246
+;;15246 - ALPDC BSAC - Bldg Sust at Cal
+AQCPE;5;
+AQCP6;6;
+;15235 - 15239
+;;15235 - AQCPE Phys & Env Planners
+;;15237 - AQCPE Phys & Env Plnng Sp Proj
+AWREO;5;
+AWRE6;6;
+;21895 - 21898
+;;21897 - AWREO RE Portfolio&ProjectMgmt
+;;21898 - AWREO Real Estate Development
+PBBPS;4;
+PBUPP;5;
+PBUP6;6;
+;19346 - 19350
+;;19346 - PBBPS Univ Partnership Program
+RCBGC;4;
+RCBG5;5;
+RCBG6;6;
+;23160 - 23164
+;;23160 - RCBGC Richmond Field Station
+VCUGA;3;
+FOREC;4;
+FORSA;5;
+FORS6;6;
+;22741
+;;22741 - FOREC GEN Building Reserve
+;22743
+;;22743 - FOREC GEN Directors
+;22745 - 22746
+;;22745 - FOREC GEN Deficit
+;;22746 - FOREC GEN Communications
+;22748 - 22749
+;;22748 - FOREC GEN Information Systems
+;22751
+;;22751 - FOREC Gen BluCard Recon
+;22752 - 22774
+;;22753 - FOREC GEN Shared Services
+;;22754 - FOREC GEN Marketing
+;23050
+FORSF;5;
+FORF6;6;
+;22945 - 22965
+;;22945 - FOREC Fac Buildings
+;;22946 - FOREC Fac Facility Operations
+;;22947 - FOREC Fac Fields Grounds
+;;22948 - FOREC Fac Pools
+FORSM;5;
+FORM6;6;
+;22740
+;;22740 - FOREC MP Aquatics
+;22742
+;;22742 - FOREC MP Cashiers
+;22744
+;;22744 - FOREC MP Events Management
+;22747
+;;22747 - FOREC MP Guest Services
+;22750
+;;22750 - FOREC GEN Personnel
+;22786
+;;22786 - FOREC MP Fitness Operations
+;22788
+;;22788 - FOREC MP Cal Rec Club
+;22966 - 22979
+FORSP;5;
+FORP6;6;
+;22785
+;;22785 - FOREC AP Cal Adventures
+;22787
+;;22787 - FOREC AP Massage 50
+;22791 - 22944
+;;22791 - FOREC AP Strawb Cyn Aquat Mast
+;23044 - 23049
+;;23044 - FOREC AP Sport Clubs
+;23051 - 23099
+;;23051 - FOREC IC Field Hockey M
+;;23055 - FOREC AP Intramurals
+;;23057 - FOREC AP Martial Arts Program
+;;23062 - FOREC IC Snowboarding
+;;23064 - FOREC AP Sport Clubs Admin
+;;23066 - FOREC IC Synchronized Swimming
+;;23072 - FOREC IC Waterski
+;;23074 - FOREC IC Skateboarding
+;;23087 - FOREC AP Golf Program
+FORSY;5;
+FORY6;6;
+;22775 - 22784
+;;22784 - FOREC YP Cal Adventures Youth
+;22789 - 22790
+;;22789 - FOREC YP Golden Bear Rec Ctr
+;;22790 - FOREC YP Strawb Cyn Rec Area
+FXSHP;4;
+FXADM;5;
+FXAD6;6;
+;23427 - 23429
+;;23429 - FXSHP Control Org
+FXCLM;5;
+FXCL6;6;
+;23430 - 23432
+;;23430 - FXSHP UCB Graduate Students
+;;23431 - FXSHP UCB UG Students
+;;23432 - FXSHP UCB Other Students
+FXRSV;5;
+FXRS6;6;
+;23433 - 23434
+;;23433 - FXSHP Stabilization Draw
+FYUHS;4;
+FYADM;5;
+FYAD6;6;
+;23435 - 23438
+;;23435 - FYUHS Business Ops
+;;23436 - FYUHS Facilities
+;;23437 - FYUHS Information Technology
+;;23438 - FYUHS West Wing
+;23443
+;23445 - 23459
+;;23447 - FYUHS Administration
+FYCOU;5;
+FYCO6;6;
+;23490 - 23504
+;;23490 - FYUHS Counseling Services
+;;23491 - FYUHS Social Services
+;;23493 - FYUHS Psychiatry
+;;23494 - FYUHS Counseling Psy Services
+FYFXZ;5;
+FYFX6;6;
+;23460 - 23474
+;;23461 - FYUHS FS Occ Health Clinic
+;;23462 - FYUHS FS Employee Assistance
+;;23463 - FYUHS FS Disability Mgmt
+;;23464 - FYUHS FS Ergonomics
+;;23465 - FYUHS FS Wellness Prog
+;;23466 - FYUHS FS Work Life
+;;23467 - FYUHS FS Wellness Prog
+FYMED;5;
+FYME6;6;
+;23475 - 23489
+;;23475 - FYUHS Laboratory
+;;23476 - FYUHS Pharmacy
+;;23477 - FYUHS Radiology
+;23505 - 23508
+;;23505 - FYUHS Allergy Travel
+;;23506 - FYUHS Physical Therapy
+;;23507 - FYUHS Primary Urgent Care
+;;23508 - FYUHS Specialty
+;23510 - 23519
+FYPRO;5;
+FYPR6;6;
+;23442
+;;23442 - FYUHS EmergencyPrep PubHlth
+;23526 - 23529
+;;23526 - FYUHS Health Promotion
+FYRSV;5;
+FYRS6;6;
+;23439 - 23441
+;;23439 - FYUHS Admin Reserves
+;;23441 - FYUHS Admin Control
+FYSPT;5;
+FYSP6;6;
+;23509
+;;23509 - FYUHS Sports Medicine
+FYSTU;5;
+FYST6;6;
+;23444
+;;23444 - FYUHS Medical Records
+;23520 - 23525
+;;23523 - FYUHS SHIP Office
+;;23524 - FYUHS SHIP and Medical Records
+SXSIS;4;
+SXSI5;5;
+SXSI6;6;
+;25745 - 25750
+UBOSS;4;
+UBOS5;5;
+UBOS6;6;
+;26408
+;;26408 - UBOSS Student Info Systems
+;31750 - 31759
+;;31750 - UBOSS SAIT-Projects
+;;31751 - UBOSS SAIT-CIO Office
+;;31752 - UBOSS SAIT-CIO Office
+;;31753 - UBOSS Student Systems
+;;31754 - UBOSS SAIT-Portfolio Managem't
+;;31755 - UBOSS SAIT-Client Tech Service
+;;31756 - UBOSS SAIT-Student Technology
+;;31757 - UBOSS SAIT-Applications Eng.
+;;31758 - UBOSS SAIT-Infrastructure Serv
+;;31759 - UBOSS SAIT-Security
+UCIMO;4;
+UCDIS;5;
+UCDI6;6;
+;19505
+;;19505 - UCIMO CACSSF Discretionary
+;19511
+;;19511 - UCIMO Salary Provisions
+;19515 - 19529
+;;19515 - UCIMO Discr Reserves
+;;19516 - UCIMO Benefits Allocations
+;;19517 - UCIMO Discr Special Project
+UCFEE;5;
+UCFE6;6;
+;10170 - 10172
+;;10170 - UCIMO Cmte on Student Fees
+UCIMM;5;
+UCIM6;6;
+;18946
+;;18946 - UCIMO SA Communication
+;19506 - 19510
+;;19506 - UCIMO Student Tech Fee Cmte
+;;19508 - UCIMO SA Student Opport Fund
+;;19509 - UCIMO Ombuds-Students-Postdocs
+;;19510 - UCIMO Immed Office Ops
+;19512 - 19513
+;;19512 - UCIMO Learning and Development
+;;19513 - UCIMO SA Operations
+;21306
+;;21306 - UCIMO SA Adm General
+;21307
+;;21307 - UCIMO Student Affairs Finance
+UCCEU;6;
+;19514
+;;19514 - UCIMO Central Evaluation Unit
+UCPTC;6;
+;21276
+;;21276 - UCIMO LEAD Minigrants
+UDDVO;4;
+UDDV5;5;
+UDDV6;6;
+;19530 - 19532
+;;19530 - UDDVO Dev Operations
+;;19531 - UDDVO Regents & Chanc's Pgm
+;;19532 - UDDVO Division Fundraising
+UG1AE;4;
+FFASO;5;
+FFAS6;6;
+;17809 - 17810
+;;17809 - FFASO Stdt Aid General
+;;17810 - FFASO  Emergency Loans
+;17814
+;;17814 - FFASO Alumni Assoc Ldrshp Schl
+;17816
+;;17816 - FFASO CAA Acheivmnt Schl (TAP)
+;30760 - 30764
+;;30760 - FFASO Split School Hold Funds
+;;30761 - FFASO Collegiate Athletic
+;;30762 - FFASO Middle Class Access Plan
+;;30763 - FFASO Specialized Programs
+FFPRZ;6;
+;17811 - 17813
+;;17811 - FFASO CPZ Other Prizes
+;;17812 - FFASO CPZ General
+;;17813 - FFASO CPZ Eisner Event
+;17815
+;;17815 - FFASO CPZ Kraft Event
+FFWSD;6;
+;20974
+;30400 - 30699
+;;30400 - FFASO Off-Campus Emp - 352
+;;30401 - FFASO Off-Campus Emp - 353
+;;30402 - FFASO Off-Campus Emp - 354
+;;30403 - FFASO Off-Campus Emp - 355
+;;30404 - FFASO Off-Campus Emp - 356
+;;30405 - FFASO Off-Campus Emp - 357
+;;30406 - FFASO Off-Campus Emp - 358
+;;30407 - FFASO Off-Campus Emp - 359
+;;30408 - FFASO Off-Campus Emp - 360
+;;30409 - FFASO Off-Campus Emp - 361
+;;30410 - FFASO Off-Campus Emp - 362
+;;30411 - FFASO Off-Campus Emp - 363
+;;30412 - FFASO Off-Campus Emp - 364
+;;30413 - FFASO Off-Campus Emp - 365
+;;30414 - FFASO Off-Campus Emp - 366
+;;30415 - FFASO Off-Campus Emp - 367
+;;30416 - FFASO Off-Campus Emp - 368
+;;30417 - FFASO Off-Campus Emp - 369
+;;30418 - FFASO Off-Campus Emp - 370
+;;30419 - FFASO Off-Campus Emp - 371
+;;30420 - FFASO Off-Campus Emp - 372
+;;30421 - FFASO Off-Campus Emp - 373
+;;30422 - FFASO Off-Campus Emp - 374
+;;30423 - FFASO Off-Campus Emp - 375
+;;30424 - FFASO Off-Campus Emp - 376
+;;30425 - FFASO Off-Campus Emp - 377
+;;30426 - FFASO Off-Campus Emp - 378
+;;30427 - FFASO Off-Campus Emp - 379
+;;30428 - FFASO Off-Campus Emp - 380
+;;30429 - FFASO Off-Campus Emp - 381
+;;30430 - FFASO Off-Campus Emp - 382
+;;30431 - FFASO Off-Campus Emp - 383
+;;30432 - FFASO Off-Campus Emp - 384
+;;30433 - FFASO Off-Campus Emp - 385
+;;30434 - FFASO Off-Campus Emp - 386
+;;30435 - FFASO Off-Campus Emp - 387
+;;30436 - FFASO Off-Campus Emp - 388
+;;30437 - FFASO Off-Campus Emp - 389
+;;30438 - FFASO Off-Campus Emp - 390
+;;30439 - FFASO Off-Campus Emp - 391
+;;30440 - FFASO Off-Campus Emp - 392
+;;30441 - FFASO Off-Campus Emp - 393
+;;30442 - FFASO Off-Campus Emp - 394
+;;30443 - FFASO Off-Campus Emp - 395
+;;30444 - FFASO Off-Campus Emp - 396
+;;30445 - FFASO Off-Campus Emp - 397
+;;30446 - FFASO Off-Campus Emp - 398
+;;30447 - FFASO Off-Campus Emp - 399
+;;30448 - FFASO Off-Campus Emp - 400
+;;30449 - FFASO Off-Campus Emp - 401
+;;30450 - FFASO Off-Campus Emp - 402
+;;30451 - FFASO Off-Campus Emp - 403
+;;30452 - FFASO Off-Campus Emp - 404
+;;30453 - FFASO Off-Campus Emp - 405
+;;30454 - FFASO Off-Campus Emp - 406
+;;30455 - FFASO Off-Campus Emp - 407
+;;30456 - FFASO Off-Campus Emp - 408
+;;30457 - FFASO Off-Campus Emp - 409
+;;30458 - FFASO Off-Campus Emp - 410
+;;30459 - FFASO Off-Campus Emp - 411
+;;30460 - FFASO Off-Campus Emp - 412
+;;30461 - FFASO Off-Campus Emp - 413
+;;30462 - FFASO Off-Campus Emp - 414
+;;30463 - FFASO Off-Campus Emp - 415
+;;30464 - FFASO Off-Campus Emp - 416
+;;30465 - FFASO Off-Campus Emp - 417
+;;30466 - FFASO Off-Campus Emp - 418
+;;30467 - FFASO Off-Campus Emp - 419
+;;30468 - FFASO Off-Campus Emp - 420
+;;30469 - FFASO Off-Campus Emp - 421
+;;30470 - FFASO Off-Campus Emp - 422
+;;30471 - FFASO Off-Campus Emp - 423
+;;30472 - FFASO Off-Campus Emp - 424
+;;30473 - FFASO Off-Campus Emp - 425
+;;30474 - FFASO Off-Campus Emp - 426
+;;30475 - FFASO Off-Campus Emp - 427
+;;30476 - FFASO Off-Campus Emp - 428
+;;30477 - FFASO Off-Campus Emp - 429
+;;30478 - FFASO Off-Campus Emp - 430
+;;30479 - FFASO Off-Campus Emp - 431
+;;30480 - FFASO Off-Campus Emp - 432
+;;30481 - FFASO Off-Campus Emp - 433
+;;30482 - FFASO Off-Campus Emp - 434
+;;30483 - FFASO Off-Campus Emp - 435
+;;30484 - FFASO Off-Campus Emp - 436
+;;30485 - FFASO Off-Campus Emp - 437
+;;30486 - FFASO Off-Campus Emp - 438
+;;30487 - FFASO Off-Campus Emp - 439
+;;30488 - FFASO Off-Campus Emp - 440
+;;30489 - FFASO Off-Campus Emp - 441
+;;30490 - FFASO Off-Campus Emp - 442
+;;30491 - FFASO Off-Campus Emp - 443
+;;30492 - FFASO Off-Campus Emp - 444
+;;30493 - FFASO Off-Campus Emp - 445
+;;30494 - FFASO Off-Campus Emp - 446
+;;30495 - FFASO Off-Campus Emp - 447
+;;30496 - FFASO Off-Campus Emp - 448
+;;30497 - FFASO Off-Campus Emp - 449
+;;30498 - FFASO Off-Campus Emp - 450
+;;30499 - FFASO Off-Campus Emp - 451
+;;30500 - FFASO Off-Campus Emp - 452
+;;30501 - FFASO Off-Campus Emp - 453
+;;30502 - FFASO Off-Campus Emp - 454
+;;30503 - FFASO Off-Campus Emp - 455
+;;30504 - FFASO Off-Campus Emp - 456
+;;30505 - FFASO Off-Campus Emp - 457
+;;30506 - FFASO Off-Campus Emp - 458
+;;30507 - FFASO Off-Campus Emp - 459
+;;30508 - FFASO Off-Campus Emp - 460
+;;30509 - FFASO Off-Campus Emp - 461
+;;30510 - FFASO Off-Campus Emp - 462
+;;30511 - FFASO Off-Campus Emp - 463
+;;30512 - FFASO Off-Campus Emp - 464
+;;30513 - FFASO Off-Campus Emp - 465
+;;30514 - FFASO Off-Campus Emp - 466
+;;30515 - FFASO Off-Campus Emp - 467
+;;30516 - FFASO Off-Campus Emp - 468
+;;30517 - FFASO Off-Campus Emp - 469
+;;30518 - FFASO Off-Campus Emp - 470
+;;30519 - FFASO Off-Campus Emp - 471
+;;30520 - FFASO Off-Campus Emp - 472
+;;30521 - FFASO Off-Campus Emp - 473
+;;30522 - FFASO Off-Campus Emp - 474
+;;30523 - FFASO Off-Campus Emp - 475
+;;30524 - FFASO Off-Campus Emp - 476
+;;30525 - FFASO Off-Campus Emp - 477
+;;30526 - FFASO Off-Campus Emp - 478
+;;30527 - FFASO Off-Campus Emp - 479
+;;30528 - FFASO Off-Campus Emp - 480
+;;30529 - FFASO Off-Campus Emp - 481
+;;30530 - FFASO Off-Campus Emp - 482
+;;30531 - FFASO Off-Campus Emp - 483
+;;30532 - FFASO Off-Campus Emp - 484
+;;30533 - FFASO Off-Campus Emp - 485
+;;30534 - FFASO Off-Campus Emp - 486
+;;30535 - FFASO Off-Campus Emp - 487
+;;30536 - FFASO Off-Campus Emp - 488
+;;30537 - FFASO Off-Campus Emp - 489
+;;30538 - FFASO Off-Campus Emp - 490
+;;30539 - FFASO Off-Campus Emp - 491
+;;30540 - FFASO Off-Campus Emp - 492
+;;30541 - FFASO Off-Campus Emp - 493
+;;30542 - FFASO Off-Campus Emp - 494
+;;30543 - FFASO Off-Campus Emp - 495
+;;30544 - FFASO Off-Campus Emp - 496
+;;30545 - FFASO Off-Campus Emp - 497
+;;30546 - FFASO Off-Campus Emp - 498
+;;30547 - FFASO Off-Campus Emp - 499
+;;30548 - FFASO Off-Campus Emp - 500
+;;30549 - FFASO Off-Campus Emp - 501
+;;30550 - FFASO Off-Campus Emp - 502
+;;30551 - FFASO Off-Campus Emp - 503
+;;30552 - FFASO Off-Campus Emp - 504
+;;30553 - FFASO Off-Campus Emp - 505
+;;30554 - FFASO Off-Campus Emp - 506
+;;30555 - FFASO Off-Campus Emp - 507
+;;30556 - FFASO Off-Campus Emp - 508
+;;30557 - FFASO Off-Campus Emp - 509
+;;30558 - FFASO Off-Campus Emp - 510
+;;30559 - FFASO Off-Campus Emp - 511
+;;30560 - FFASO Off-Campus Emp - 512
+;;30561 - FFASO Off-Campus Emp - 513
+;;30562 - FFASO Off-Campus Emp - 514
+;;30563 - FFASO Off-Campus Emp - 515
+;;30564 - FFASO Off-Campus Emp - 1
+;;30565 - FFASO Off-Campus Emp - 2
+;;30566 - FFASO Off-Campus Emp - 3
+;;30567 - FFASO Off-Campus Emp - 4
+;;30568 - FFASO Off-Campus Emp - 5
+;;30569 - FFASO Off-Campus Emp - 6
+;;30570 - FFASO Off-Campus Emp - 7
+;;30571 - FFASO Off-Campus Emp - 8
+;;30572 - FFASO Off-Campus Emp - 9
+;;30573 - FFASO Off-Campus Emp - 10
+;;30574 - FFASO Off-Campus Emp - 11
+;;30575 - FFASO Off-Campus Emp - 12
+;;30576 - FFASO Off-Campus Emp - 13
+;;30577 - FFASO Off-Campus Emp - 14
+;;30578 - FFASO Off-Campus Emp - 15
+;;30579 - FFASO Off-Campus Emp - 16
+;;30580 - FFASO Off-Campus Emp - 17
+;;30581 - FFASO Off-Campus Emp - 18
+;;30582 - FFASO Off-Campus Emp - 19
+;;30583 - FFASO Off-Campus Emp - 20
+;;30584 - FFASO Off-Campus Emp - 21
+;;30585 - FFASO Off-Campus Emp - 22
+;;30586 - FFASO Off-Campus Emp - 23
+;;30587 - FFASO Off-Campus Emp - 24
+;;30588 - FFASO Off-Campus Emp - 25
+;;30589 - FFASO Off-Campus Emp - 26
+;;30590 - FFASO Off-Campus Emp - 27
+;;30591 - FFASO Off-Campus Emp - 28
+;;30592 - FFASO Off-Campus Emp - 29
+;;30593 - FFASO Off-Campus Emp - 30
+;;30594 - FFASO Off-Campus Emp - 31
+;;30595 - FFASO Off-Campus Emp - 32
+;;30596 - FFASO Off-Campus Emp - 33
+;;30597 - FFASO Off-Campus Emp - 34
+;;30598 - FFASO Off-Campus Emp - 35
+;;30599 - FFASO Off-Campus Emp - 36
+;;30600 - FFASO Off-Campus Emp - 37
+;;30601 - FFASO Off-Campus Emp - 38
+;;30602 - FFASO Off-Campus Emp - 39
+;;30603 - FFASO Off-Campus Emp - 40
+;;30604 - FFASO Off-Campus Emp - 41
+;;30605 - FFASO Off-Campus Emp - 42
+;;30606 - FFASO Off-Campus Emp - 43
+;;30607 - FFASO Off-Campus Emp - 44
+;;30608 - FFASO Off-Campus Emp - 45
+;;30609 - FFASO Off-Campus Emp - 46
+;;30610 - FFASO Off-Campus Emp - 47
+;;30611 - FFASO Off-Campus Emp - 48
+;;30612 - FFASO Off-Campus Emp - 49
+;;30613 - FFASO Off-Campus Emp - 50
+;;30614 - FFASO Off-Campus Emp - 51
+;;30615 - FFASO Off-Campus Emp - 52
+;;30616 - FFASO Off-Campus Emp - 53
+;;30617 - FFASO Off-Campus Emp - 54
+;;30618 - FFASO Off-Campus Emp - 55
+;;30619 - FFASO Off-Campus Emp - 56
+;;30620 - FFASO Off-Campus Emp - 57
+;;30621 - FFASO Off-Campus Emp - 58
+;;30622 - FFASO Off-Campus Emp - 59
+;;30623 - FFASO Off-Campus Emp - 60
+;;30624 - FFASO Off-Campus Emp - 61
+;;30625 - FFASO Off-Campus Emp - 62
+;;30626 - FFASO Off-Campus Emp - 63
+;;30627 - FFASO Off-Campus Emp - 64
+;;30628 - FFASO Off-Campus Emp - 65
+;;30629 - FFASO Off-Campus Emp - 66
+;;30630 - FFASO Off-Campus Emp - 67
+;;30631 - FFASO Off-Campus Emp - 68
+;;30632 - FFASO Off-Campus Emp - 69
+;;30633 - FFASO Off-Campus Emp - 70
+;;30634 - FFASO Off-Campus Emp - 71
+;;30635 - FFASO Off-Campus Emp - 72
+;;30636 - FFASO Off-Campus Emp - 73
+;;30637 - FFASO Off-Campus Emp - 74
+;;30638 - FFASO Off-Campus Emp - 75
+;;30639 - FFASO Off-Campus Emp - 76
+;;30640 - FFASO Off-Campus Emp - 77
+;;30641 - FFASO Off-Campus Emp - 78
+;;30642 - FFASO Off-Campus Emp - 79
+;;30643 - FFASO Off-Campus Emp - 80
+;;30644 - FFASO Off-Campus Emp - 81
+;;30645 - FFASO Off-Campus Emp - 82
+;;30646 - FFASO Off-Campus Emp - 83
+;;30647 - FFASO Off-Campus Emp - 84
+;;30648 - FFASO Off-Campus Emp - 85
+;;30649 - FFASO Off-Campus Emp - 86
+;;30650 - FFASO Off-Campus Emp - 516
+;;30651 - FFASO Off-Campus Emp - 517
+;;30652 - FFASO Off-Campus Emp - 518
+;;30653 - FFASO Off-Campus Emp - 519
+;;30654 - FFASO Off-Campus Emp - 520
+;;30655 - FFASO Off-Campus Emp - 521
+;;30656 - FFASO Off-Campus Emp - 522
+;;30657 - FFASO Off-Campus Emp - 523
+;;30658 - FFASO Off-Campus Emp - 524
+;;30659 - FFASO Off-Campus Emp - 525
+;;30660 - FFASO Off-Campus Emp - 526
+;;30661 - FFASO Off-Campus Emp - 527
+;;30662 - FFASO Off-Campus Emp - 528
+;;30663 - FFASO Off-Campus Emp - 529
+;;30664 - FFASO Off-Campus Emp - 530
+;;30665 - FFASO Off-Campus Emp - 531
+;;30666 - FFASO Off-Campus Emp -  87
+;;30667 - FFASO Off-Campus Emp -  88
+;;30668 - FFASO Off-Campus Emp -  89
+;;30669 - FFASO Off-Campus Emp -  90
+;;30670 - FFASO Off-Campus Emp -  91
+;;30671 - FFASO Off-Campus Emp -  92
+;;30672 - FFASO Off-Campus Emp -  93
+;;30673 - FFASO Off-Campus Emp -  94
+;;30674 - FFASO Off-Campus Emp -  95
+;;30675 - FFASO Off-Campus Emp -  96
+;;30676 - FFASO Off-Campus Emp -  97
+;;30677 - FFASO Off-Campus Emp -  98
+;;30678 - FFASO Off-Campus Emp -  99
+;;30679 - FFASO Off-Campus Emp -  100
+;;30680 - FFASO Off-Campus Emp -  101
+;;30681 - FFASO Off-Campus Emp -  102
+;;30682 - FFASO Off-Campus Emp -  103
+;;30683 - FFASO Off-Campus Emp -  104
+;;30684 - FFASO Off-Campus Emp -  105
+;;30685 - FFASO Off-Campus Emp -  106
+;;30686 - FFASO Off-Campus Emp -  107
+;;30687 - FFASO Off-Campus Emp -  108
+;;30688 - FFASO Off-Campus Emp -  109
+;;30689 - FFASO Off-Campus Emp -  110
+;;30690 - FFASO Off-Campus Emp -  111
+;;30691 - FFASO Off-Campus Emp -  112
+;;30692 - FFASO Off-Campus Emp -  113
+;;30693 - FFASO Off-Campus Emp -  114
+;;30694 - FFASO Off-Campus Emp -  115
+;;30695 - FFASO Off-Campus Emp -  116
+;;30696 - FFASO Off-Campus Emp -  117
+;;30697 - FFASO Off-Campus Emp -  118
+;;30698 - FFASO Off-Campus Emp -  119
+;;30699 - FFASO Off-Campus Emp -  120
+;30800 - 30999
+;;30800 - FFASO Off-Campus Emp -  121
+;;30801 - FFASO Off-Campus Emp -  122
+;;30802 - FFASO Off-Campus Emp -  123
+;;30803 - FFASO Off-Campus Emp -  124
+;;30804 - FFASO Off-Campus Emp -  125
+;;30805 - FFASO Off-Campus Emp -  126
+;;30806 - FFASO Off-Campus Emp -  127
+;;30807 - FFASO Off-Campus Emp -  128
+;;30808 - FFASO Off-Campus Emp -  129
+;;30809 - FFASO Off-Campus Emp -  130
+;;30810 - FFASO Off-Campus Emp -  131
+;;30811 - FFASO Off-Campus Emp -  132
+;;30812 - FFASO Off-Campus Emp -  133
+;;30813 - FFASO Off-Campus Emp -  134
+;;30814 - FFASO Off-Campus Emp -  135
+;;30815 - FFASO Off-Campus Emp -  136
+;;30816 - FFASO Off-Campus Emp -  137
+;;30817 - FFASO Off-Campus Emp -  138
+;;30818 - FFASO Off-Campus Emp -  139
+;;30819 - FFASO Off-Campus Emp -  140
+;;30820 - FFASO Off-Campus Emp -  141
+;;30821 - FFASO Off-Campus Emp -  142
+;;30822 - FFASO Off-Campus Emp -  143
+;;30823 - FFASO Off-Campus Emp -  144
+;;30824 - FFASO Off-Campus Emp -  145
+;;30825 - FFASO Off-Campus Emp -  146
+;;30826 - FFASO Off-Campus Emp -  147
+;;30827 - FFASO Off-Campus Emp -  148
+;;30828 - FFASO Off-Campus Emp -  149
+;;30829 - FFASO Off-Campus Emp -  150
+;;30830 - FFASO Off-Campus Emp -  150
+;;30831 - FFASO Off-Campus Emp -  151
+;;30832 - FFASO Off-Campus Emp -  152
+;;30833 - FFASO Off-Campus Emp -  153
+;;30834 - FFASO Off-Campus Emp -  154
+;;30835 - FFASO Off-Campus Emp -  155
+;;30836 - FFASO Off-Campus Emp -  156
+;;30837 - FFASO Off-Campus Emp -  157
+;;30838 - FFASO Off-Campus Emp -  158
+;;30839 - FFASO Off-Campus Emp -  159
+;;30840 - FFASO Off-Campus Emp -  160
+;;30841 - FFASO Off-Campus Emp -  161
+;;30842 - FFASO Off-Campus Emp -  162
+;;30843 - FFASO Off-Campus Emp -  163
+;;30844 - FFASO Off-Campus Emp -  164
+;;30845 - FFASO Off-Campus Emp -  165
+;;30846 - FFASO Off-Campus Emp -  166
+;;30847 - FFASO Off-Campus Emp -  167
+;;30848 - FFASO Off-Campus Emp -  168
+;;30849 - FFASO Off-Campus Emp -  169
+;;30850 - FFASO Off-Campus Emp -  170
+;;30851 - FFASO Off-Campus Emp -  171
+;;30852 - FFASO Off-Campus Emp -  172
+;;30853 - FFASO Off-Campus Emp -  173
+;;30854 - FFASO Off-Campus Emp -  174
+;;30855 - FFASO Off-Campus Emp -  175
+;;30856 - FFASO Off-Campus Emp -  176
+;;30857 - FFASO Off-Campus Emp -  177
+;;30858 - FFASO Off-Campus Emp -  178
+;;30859 - FFASO Off-Campus Emp -  179
+;;30860 - FFASO Off-Campus Emp -  180
+;;30861 - FFASO Off-Campus Emp -  181
+;;30862 - FFASO Off-Campus Emp -  182
+;;30863 - FFASO Off-Campus Emp -  183
+;;30864 - FFASO Off-Campus Emp -  184
+;;30865 - FFASO Off-Campus Emp -  185
+;;30866 - FFASO Off-Campus Emp -  186
+;;30867 - FFASO Off-Campus Emp -  187
+;;30868 - FFASO Off-Campus Emp -  188
+;;30869 - FFASO Off-Campus Emp -  189
+;;30870 - FFASO Off-Campus Emp -  190
+;;30871 - FFASO Off-Campus Emp -  191
+;;30872 - FFASO Off-Campus Emp -  192
+;;30873 - FFASO Off-Campus Emp -  193
+;;30874 - FFASO Off-Campus Emp -  194
+;;30875 - FFASO Off-Campus Emp -  195
+;;30876 - FFASO Off-Campus Emp -  196
+;;30877 - FFASO Off-Campus Emp -  197
+;;30878 - FFASO Off-Campus Emp -  198
+;;30879 - FFASO Off-Campus Emp -  199
+;;30880 - FFASO Off-Campus Emp -  200
+;;30881 - FFASO Off-Campus Emp -  201
+;;30882 - FFASO Off-Campus Emp -  202
+;;30883 - FFASO Off-Campus Emp -  203
+;;30884 - FFASO Off-Campus Emp -  204
+;;30885 - FFASO Off-Campus Emp -  205
+;;30886 - FFASO Off-Campus Emp -  206
+;;30887 - FFASO Off-Campus Emp -  207
+;;30888 - FFASO Off-Campus Emp -  208
+;;30889 - FFASO Off-Campus Emp -  209
+;;30890 - FFASO Off-Campus Emp -  210
+;;30891 - FFASO Off-Campus Emp -  211
+;;30892 - FFASO Off-Campus Emp -  212
+;;30893 - FFASO Off-Campus Emp -  213
+;;30894 - FFASO Off-Campus Emp -  214
+;;30895 - FFASO Off-Campus Emp -  215
+;;30896 - FFASO Off-Campus Emp -  216
+;;30897 - FFASO Off-Campus Emp -  217
+;;30898 - FFASO Off-Campus Emp -  218
+;;30899 - FFASO Off-Campus Emp -  219
+;;30900 - FFASO Off-Campus Emp -  220
+;;30901 - FFASO Off-Campus Emp -  221
+;;30902 - FFASO Off-Campus Emp -  222
+;;30903 - FFASO Off-Campus Emp -  223
+;;30904 - FFASO Off-Campus Emp -  224
+;;30905 - FFASO Off-Campus Emp -  225
+;;30906 - FFASO Off-Campus Emp -  226
+;;30907 - FFASO Off-Campus Emp -  227
+;;30908 - FFASO Off-Campus Emp -  228
+;;30909 - FFASO Off-Campus Emp -  229
+;;30910 - FFASO Off-Campus Emp -  230
+;;30911 - FFASO Off-Campus Emp -  231
+;;30912 - FFASO Off-Campus Emp -  232
+;;30913 - FFASO Off-Campus Emp -  233
+;;30914 - FFASO Off-Campus Emp -  234
+;;30915 - FFASO Off-Campus Emp -  235
+;;30916 - FFASO Off-Campus Emp -  236
+;;30917 - FFASO Off-Campus Emp -  237
+;;30918 - FFASO Off-Campus Emp -  238
+;;30919 - FFASO Off-Campus Emp -  239
+;;30920 - FFASO Off-Campus Emp -  240
+;;30921 - FFASO Off-Campus Emp -  241
+;;30922 - FFASO Off-Campus Emp -  242
+;;30923 - FFASO Off-Campus Emp -  243
+;;30924 - FFASO Off-Campus Emp -  244
+;;30925 - FFASO Off-Campus Emp -  245
+;;30926 - FFASO Off-Campus Emp -  246
+;;30927 - FFASO Off-Campus Emp -  247
+;;30928 - FFASO Off-Campus Emp -  248
+;;30929 - FFASO Off-Campus Emp -  249
+;;30930 - FFASO Off-Campus Emp -  250
+;;30931 - FFASO Off-Campus Emp -  251
+;;30932 - FFASO Off-Campus Emp -  252
+;;30933 - FFASO Off-Campus Emp -  253
+;;30934 - FFASO Off-Campus Emp -  254
+;;30935 - FFASO Off-Campus Emp -  255
+;;30936 - FFASO Off-Campus Emp -  256
+;;30937 - FFASO Off-Campus Emp -  257
+;;30938 - FFASO Off-Campus Emp -  258
+;;30939 - FFASO Off-Campus Emp -  259
+;;30940 - FFASO Off-Campus Emp -  260
+;;30941 - FFASO Off-Campus Emp -  261
+;;30942 - FFASO Off-Campus Emp -  262
+;;30943 - FFASO Off-Campus Emp -  263
+;;30944 - FFASO Off-Campus Emp -  264
+;;30945 - FFASO Off-Campus Emp -  265
+;;30946 - FFASO Off-Campus Emp -  266
+;;30947 - FFASO Off-Campus Emp -  267
+;;30948 - FFASO Off-Campus Emp -  268
+;;30949 - FFASO Off-Campus Emp -  269
+;;30950 - FFASO Off-Campus Emp -  270
+;;30951 - FFASO Off-Campus Emp -  271
+;;30952 - FFASO Off-Campus Emp -  272
+;;30953 - FFASO Off-Campus Emp -  273
+;;30954 - FFASO Off-Campus Emp -  274
+;;30955 - FFASO Off-Campus Emp -  275
+;;30956 - FFASO Off-Campus Emp -  276
+;;30957 - FFASO Off-Campus Emp -  277
+;;30958 - FFASO Off-Campus Emp -  278
+;;30959 - FFASO Off-Campus Emp -  279
+;;30960 - FFASO Off-Campus Emp -  280
+;;30961 - FFASO Off-Campus Emp -  281
+;;30962 - FFASO Off-Campus Emp -  282
+;;30963 - FFASO Off-Campus Emp -  283
+;;30964 - FFASO Off-Campus Emp -  284
+;;30965 - FFASO Off-Campus Emp -  285
+;;30966 - FFASO Off-Campus Emp -  286
+;;30967 - FFASO Off-Campus Emp -  287
+;;30968 - FFASO Off-Campus Emp -  288
+;;30969 - FFASO Off-Campus Emp -  289
+;;30970 - FFASO Off-Campus Emp -  290
+;;30971 - FFASO Off-Campus Emp -  291
+;;30972 - FFASO Off-Campus Emp -  292
+;;30973 - FFASO Off-Campus Emp -  293
+;;30974 - FFASO Off-Campus Emp -  294
+;;30975 - FFASO Off-Campus Emp -  295
+;;30976 - FFASO Off-Campus Emp -  296
+;;30977 - FFASO Off-Campus Emp -  297
+;;30978 - FFASO Off-Campus Emp -  298
+;;30979 - FFASO Off-Campus Emp -  299
+;;30980 - FFASO Off-Campus Emp -  300
+;32000 - 32199
+;;32000 - FFASO Off-Campus Emp - 301
+;;32001 - FFASO Off-Campus Emp - 302
+;;32002 - FFASO Off-Campus Emp - 303
+;;32003 - FFASO Off-Campus Emp - 304
+;;32004 - FFASO Off-Campus Emp - 305
+;;32005 - FFASO Off-Campus Emp - 306
+;;32006 - FFASO Off-Campus Emp - 307
+;;32007 - FFASO Off-Campus Emp - 308
+;;32008 - FFASO Off-Campus Emp - 309
+;;32009 - FFASO Off-Campus Emp - 310
+;;32010 - FFASO Off-Campus Emp - 311
+;;32011 - FFASO Off-Campus Emp - 312
+;;32012 - FFASO Off-Campus Emp - 313
+;;32013 - FFASO Off-Campus Emp - 314
+;;32014 - FFASO Off-Campus Emp - 315
+;;32015 - FFASO Off-Campus Emp - 316
+;;32016 - FFASO Off-Campus Emp - 317
+;;32017 - FFASO Off-Campus Emp - 318
+;;32018 - FFASO Off-Campus Emp - 319
+;;32019 - FFASO Off-Campus Emp - 320
+;;32020 - FFASO Off-Campus Emp - 321
+;;32021 - FFASO Off-Campus Emp - 322
+;;32022 - FFASO Off-Campus Emp - 323
+;;32023 - FFASO Off-Campus Emp - 324
+;;32024 - FFASO Off-Campus Emp - 325
+;;32025 - FFASO Off-Campus Emp - 326
+;;32026 - FFASO Off-Campus Emp - 327
+;;32027 - FFASO Off-Campus Emp - 328
+;;32028 - FFASO Off-Campus Emp - 329
+;;32029 - FFASO Off-Campus Emp - 330
+;;32030 - FFASO Off-Campus Emp - 331
+;;32031 - FFASO Off-Campus Emp - 332
+;;32032 - FFASO Off-Campus Emp - 333
+;;32033 - FFASO Off-Campus Emp - 334
+;;32034 - FFASO Off-Campus Emp - 335
+;;32035 - FFASO Off-Campus Emp - 336
+;;32036 - FFASO Off-Campus Emp - 337
+;;32037 - FFASO Off-Campus Emp - 338
+;;32038 - FFASO Off-Campus Emp - 339
+;;32039 - FFASO Off-Campus Emp - 340
+;;32040 - FFASO Off-Campus Emp - 341
+;;32041 - FFASO Off-Campus Emp - 342
+;;32042 - FFASO Off-Campus Emp - 343
+;;32043 - FFASO Off-Campus Emp - 344
+;;32044 - FFASO Off-Campus Emp - 345
+;;32045 - FFASO Off-Campus Emp - 346
+;;32046 - FFASO Off-Campus Emp - 347
+;;32047 - FFASO Off-Campus Emp - 348
+;;32048 - FFASO Off-Campus Emp - 349
+;;32049 - FFASO Off-Campus Emp - 350
+;;32050 - FFASO Off-Campus Emp - 351
+UACSC;5;
+UACS6;6;
+;32580 - 32589
+;;32580 - UACSC Cal Student Central
+UEAEO;5;
+UEAE6;6;
+;17885 - 17889
+;;17885 - UEAEO Admis & Enrol Immed Off
+;;17886 - UEAEO Admis & Enrol Provisions
+;;17887 - UEAEO Admis & Enrol Cluster
+;;17889 - UEAEO Admis & Enrol Outrch/Yld
+UFFAO;5;
+UFADM;6;
+;17890 - 17891
+;;17890 - UFFAO General Administration
+;;17891 - UFFAO Ops Staff Support Svcs
+;17901 - 17905
+;;17901 - UFFAO Dir Reserves
+;;17902 - UFFAO Directors Immediate Off
+UFOPS;6;
+;17803
+;;17803 - UFFAO Scholarship Admin
+;17807 - 17808
+;;17807 - UFFAO General Program
+;;17808 - UFFAO Communications
+;17892 - 17896
+;;17892 - UFFAO Ops Emergency Loans
+;;17893 - UFFAO Federal and State Prgrms
+;;17894 - UFFAO Counseling
+;;17895 - UFFAO Processing and Imaging
+;;17896 - UFFAO Ops Grad/Professional Op
+;17898 - 17900
+;;17898 - UFFAO Ops WorkStudy Prog
+;;17899 - UFFAO Fiscal Management
+;;17900 - UFFAO FM Regulatory Control
+UFSHP;6;
+;17804 - 17806
+;;17804 - UFFAO UGS Job Opportunity
+;;17805 - UFFAO Scholarship Yield Prgms
+;;17806 - UFFAO Prizes
+;19281
+;;19281 - UG1AE IncentiveAwardProg
+;19533
+;;19533 - UG1AE Incentive Awards Pgm
+UFSYS;6;
+;17897
+;;17897 - UFFAO Sys Develop and Support
+UGARS;5;
+UGADM;6;
+;17818 - 17819
+;;17818 - UGARS Business Services
+;;17819 - UGARS Director's Office
+UGAPP;6;
+;17817
+;;17817 - UGARS Admissions
+UGOTR;6;
+;17820 - 17825
+;;17820 - UGARS Marketing & Recruitment
+;;17822 - UGARS Outreach General
+;;17824 - UGARS Outreach Bridges
+;;17825 - UGARS Outreach South
+UGPAS;6;
+;17827 - 17828
+;;17828 - UGARS Systems
+UHREG;5;
+UHADM;6;
+;17829 - 17839
+;;17829 - UHREG Adm Reserves
+;;17839 - UHREG Administration
+;31371 - 31375
+;;31371 - UHREG Gen Assign Classrooms
+UHCLS;6;
+;17847 - 17849
+;;17847 - UHREG Classroom Scheduling
+;;17849 - UHREG Classroom Support
+UHCOM;6;
+;17850 - 17852
+;;17851 - UHREG OnTrack
+UHREC;6;
+;17840 - 17842
+;;17842 - UHREG Records
+;17845
+;;17845 - UHREG Transcripts
+UHRER;6;
+;17843 - 17844
+;;17843 - UHREG Residency
+;;17844 - UHREG Registration
+;17846
+;;17846 - UHREG Student Services
+UGDNS;4;
+FVPSS;5;
+FVPST;6;
+;21331
+;;21331 - FVAUX Bridges Pass Through
+;21335
+;;21335 - FVAUX SILP Gen Pass Through
+;23423
+;;23423 - FVAUX Event Svcs Pass Through
+;30341
+;;30341 - FVAUX SA Grad Assem Pass Throu
+;30344
+;;30344 - FVAUX ASUC Pass Through
+;30349
+;;30349 - FVAUX TGIF Pass Through
+FVAUX;5;
+FVADM;6;
+;23398 - 23399
+;;23398 - FVAUX Administration
+;;23399 - FVAUX IT
+;23420
+;;23420 - FVAUX Ops Composting
+;23424 - 23426
+;30346
+;;30346 - FVAUX SA Programs
+FVCOM;6;
+;23397
+;;23397 - FVAUX Adm Accounting
+;23416
+;;23416 - FVAUX Lecture Notes
+;23421 - 23422
+;;23421 - FVAUX Bookstore
+;;23422 - FVAUX Ops Leasehold
+FVDBT;6;
+;21261
+;;21261 - FVAUX Debate Operational
+FVMKT;6;
+;23411 - 23413
+;;23411 - FVAUX Marketing
+;23417 - 23419
+;;23417 - FVAUX Art Studio
+;;23418 - FVAUX Bearcade
+;;23419 - FVAUX Ops Recycling
+FVOPS;6;
+;23400 - 23410
+;;23400 - FVAUX Facility General Ops
+;;23410 - FVAUX Custodial
+;23414 - 23415
+;;23414 - FVAUX Cal Lodge
+;;23415 - FVAUX Event Services
+FVSRC;6;
+;30347 - 30348
+;;30347 - FVAUX TGIF
+;;30348 - FVAUX Stdt Environ Res Comtt
+FVSTD;6;
+;21260
+;;21260 - FVAUX High School Tournament
+;21262
+;;21262 - FVAUX Summer Camp
+;21332
+;;21332 - USSAS SILP Student Groups
+;21334
+;;21334 - USSAS SILP Greek Life
+;30340
+;;30340 - FVAUX LEAD Operations
+;30342 - 30343
+;;30342 - FVAUX Gen Stdnt Org Activity
+;;30343 - FVAUX SA Publications
+;30345
+ULNSS;5;
+ULCSO;6;
+;19280
+;19282 - 19306
+;;19282 - ULNSS RSSP Other Funds
+;;19285 - ULNSS CalSO Fall AdmitI Gen
+;19312
+;;19312 - ULNSS New Student Services
+;19323 - 19327
+;;19323 - ULNSS NSS Admin Prof Devlpt
+;;19324 - ULNSS General - Smooth Trans.
+;19328 - 19345
+;;19329 - ULNSS Summer Bridge
+;;19331 - ULNSS Sum Bridge Admin
+;;19332 - ULNSS Sum Bridge Peers
+UPCAR;5;
+UPCA6;6;
+;20773 - 20780
+;;20773 - UPCAR Student Employment
+;;20774 - UPCAR Special Events/Programs
+;;20775 - UPCAR On Campus Recruiting
+;;20776 - UPCAR Educational Career Svcs
+;;20777 - UPCAR DSAPP
+;;20778 - UPCAR Letter of Evaluation Svc
+;;20779 - UPCAR Career Center
+;20781 - 20794
+;;20781 - UPCAR PCAR AdvSdtPeerAdvisPgm
+;;20782 - UPCAR Adv Career Counseling
+;;20783 - UPCAR PCAR Adv Alumnit Svcs
+;;20784 - UPCAR Adv PhD Svcs
+;;20785 - UPCAR Adv PreProf/PreGrad
+;;20786 - UPCAR Adv Recp/Appoint Desk
+;;20787 - UPCAR Adv Ctr Publications
+;;20788 - UPCAR Adv Cntr Info Tapes
+;;20789 - UPCAR Adv Res Ctr Handout Mats
+;;20790 - UPCAR Adv Conultant Svcs
+;;20791 - UPCAR Adv General
+;;20792 - UPCAR Adv Cal on Campus Prog
+;;20793 - UPCAR Adv Coop Intern Pgm Adm
+USSAS;5;
+USCOR;6;
+;21245 - 21259
+;;21245 - USSAS CAL CORPS Awards
+;;21246 - USSAS CAL CORPS FED GRANT
+;;21247 - USSAS CAL CORPS BUCK
+;;21248 - USSAS Cal Corps ACCORD
+;;21249 - USSAS PSC General
+;;21250 - USSAS BUILD
+USGRP;6;
+;21220 - 21244
+;;21220 - USSAS Grps Student Publication
+;;21221 - USSAS Student Legal Services
+;;21222 - USSAS GrpsInfo Center
+;;21223 - USSAS Grps Reg Stdt Grp Advis
+;;21224 - USSAS Grps Student Regents
+;;21225 - USSAS Grps Observer Program
+;;21226 - USSAS Grps Std Observer Prgm
+;;21227 - USSAS Grps Activities Fund
+;21263 - 21274
+;;21263 - USSAS For General
+;;21264 - USSAS FOR IE
+;;21265 - USSAS - SA Case Management
+;21300 - 21305
+;;21300 - USSAS SAS Adm Staff Devel
+;;21301 - USSAS SAS Adm ADA
+;;21302 - USSAS SAS Adm Conference
+;;21303 - USSAS SAS Adm Events
+;;21304 - USSAS SAS Adm Health & Human
+;;21305 - USSAS SAS Adm Cal Corps
+;21308 - 21324
+;21380 - 21394
+;;21380 - USSAS Student CondUSt  Fines
+;;21381 - USSAS Student Conduct
+USLEA;6;
+;21275
+;;21275 - USSAS LEAD Leadership & Svc
+;21277 - 21299
+;;21277 - USSAS LEAD Dean of Students
+;;21278 - USSAS LEAD Publicity
+;;21279 - USSAS LEAD Institute
+;;21280 - USSAS LEAD Evaluation
+;;21281 - USSAS LEAD Course Instruction
+;;21282 - USSAS LEAD General
+USSDG;6;
+;21325 - 21330
+;;21325 - USSAS SSGA TEAM Weekend
+;;21326 - USSAS SSGA B.E.A.R.S.
+;;21327 - USSAS SSGA Image
+;;21328 - USSAS SSGA Prytannean
+;;21329 - USSAS SSGA Cal in Sacramento
+;;21330 - USSAS SSGA J Comm
+;21333
+;;21333 - USSAS SILP Student Development
+;21336 - 21379
+;;21336 - USSAS SSGA PANHELLENIC
+;;21337 - USSAS SSGA PANHELLENIC RECRUIT
+;;21338 - USSAS SSGA IFC RECRUITMENT
+;;21339 - USSAS SSGA IFC General
+;;21340 - USSAS SSGA Model United Nation
+;;21341 - USSAS SSGA MUN Conference
+;;21342 - USSAS SSGA Cal in Capital
+;;21343 - USSAS SSGA CAL Student Foundat
+;;21344 - USSAS SSGA Fraternity Alumni
+;;21345 - USSAS SSGA NPHC
+;;21346 - USSAS SSGA HONOR GROUPS
+UKHDS;4;
+UKADS;5;
+UKAD6;6;
+;18940
+;;18940 - UKHDS BUD Accounts Payable
+;18945
+;;18945 - UKHDS Cashiering Actvity-Bal
+;18948 - 18949
+;;18948 - UKHDS ADS Cashier
+;;18949 - UKHDS ADS Assignments
+;18970
+;;18970 - UKHDS Cal Rentals
+UKATH;5;
+UKCON;6;
+;32435 - 32444
+;;32435 - UKHDS Concessions Admin
+;;32436 - UKHDS Concession RawFood
+;;32437 - UKHDS Concessions FoodP
+;;32438 - UKHDS Concession Student
+;;32439 - UKHDS Concessions Maint
+;;32440 - UKHDS Concessi Utilities
+;;32441 - UKHDS Concessio Cashiers
+;;32442 - UKHDS Concession Central
+;;32443 - UKHDS Concessions Campus
+UKHOF;6;
+;32426 - 32434
+;;32426 - UKHDS HOF CafeAdmin
+;;32427 - UKHDS HOF Cafe RawFood
+;;32428 - UKHDS HOF Cafe FoodP
+;;32429 - UKHDS HOF Cafe Student
+;;32430 - UKHDS HOF Cafe Maint
+;;32431 - UKHDS HOF Cafe Utilities
+;;32432 - UKHDS HOF Cafe Cashiers
+;;32433 - UKHDS HOF Cafe Central
+;;32434 - UKHDS HOF Cafe Campus
+UKBUD;5;
+UKBU6;6;
+;18941
+;;18941 - UKHDS BUD  Budget
+;18943 - 18944
+;;18943 - UKHDS BUD Special items
+;;18944 - UKHDS BUD Reserves
+;18969
+;;18969 - UKHDS BUD Campus Overhead
+UKCCS;5;
+UKCC6;6;
+;18924 - 18937
+;;18924 - UJCCS CKC Infant Center F/S
+;;18927 - UJCCS Student Programs Centers
+;;18931 - UJCCS Child Study Center F/S
+;;18934 - UJCCS Student Program
+;;18936 - UJCCS ECEP Haste St.
+;;18937 - UJCCS ECEP Chan/Ells Start up
+UKCEN;5;
+UKCE6;6;
+;18960
+;;18960 - UKHDS HDCC1 Cal 1 Card
+UKCNF;5;
+UKCN6;6;
+;18961 - 18962
+;;18961 - UKHDS Conference Charges
+;;18962 - UKHDS HDCNF Conferences
+UKCRR;5;
+UKCTS;6;
+;31850 - 31859
+;;31850 - UKHDS Qualcomm Admin
+;;31851 - UKHDS Qualcomm Raw Fd
+;;31852 - UKHDS CTS QualComm Food Prep
+;;31853 - UKHDS Qualcomm Student Labor
+;;31854 - UKHDS Quallcomm Maintenance
+;;31855 - UKHDS Qualcomm Utilities
+;;31856 - UKHDS QualComm Cashiers/Misc
+UKDLB;6;
+;31740 - 31749
+;;31740 - UKHDS DLB LBL Caf Admin
+;;31741 - UKHDS DLB LBL Caf Raw Food
+;;31742 - UKHDS DLB LBL Fd Prep
+;;31743 - UKHDS DLB LBL Student Labor
+;;31744 - UKHDS DLB LBL Maintenance
+;;31745 - UKHDS DLB LBL Utilities
+;;31746 - UKHDS DLB LBL Cashiers
+;;31747 - UKHDS DLB LBL Central
+;;31748 - UKHDS DLB LBL Campus
+UKDWR;6;
+;31700 - 31714
+;;31700 - UKHDS DWR Common Grd Admin
+;;31701 - UKHDS DWR Common Grd Raw Food
+;;31702 - UKHDS DWR Common Grd Fd Prep
+;;31703 - UKHDS DWR Common Grd Stu Labor
+;;31704 - UKHDS DWR Common Grd Maint
+;;31705 - UKHDS DWR Common Grd Utilities
+;;31706 - UKHDS DWR Common Grd Cashiers
+;;31707 - UKHDS DWR Common Grd Central
+;;31708 - UKHDS DWR Common Grd Campus
+UKGBR;6;
+;19210 - 19223
+;;19210 - UKHDS GBR  GoldBear Admin
+;;19211 - UKHDS GBR  GoldBear Raw Fd
+;;19212 - UKHDS GBR  GoldBear Fd Prep
+;;19213 - UKHDS GBR  GoldBear Stu Labor
+;;19214 - UKHDS GBR  GoldBear Maint
+;;19215 - UKHDS GBR  GoldBear Utilities
+;;19216 - UKHDS GBR GoldBear Cashiers
+;;19217 - UKHDS GBR  GoldBear Central
+;;19218 - UKHDS GBR  GoldBear Campus
+;;19219 - UKHDS GBR  GoldBear Reserves
+;;19220 - UKHDS GBR  GoldBear Debt Serv
+;;19221 - UKHDS GBR GoldBear Vndng Subs
+UKLHR;6;
+;32455 - 32464
+;;32455 - UKHDS LHS View Admin
+;;32456 - UKHDS LHS View RawFood
+;;32457 - UKHDS LHS View FoodPrep
+;;32458 - UKHDS LHS View Student
+;;32459 - UKHDS LHS View Maint
+;;32460 - UKHDS LHS View Utilities
+;;32461 - UKHDS LHS View Cashiers
+;;32462 - UKHDS LHS View Central
+;;32463 - UKHDS LHS View Campus
+UKMWR;6;
+;19268 - 19279
+;;19268 - UKHDS CalCat Express Admin
+;;19269 - UKHDS CalCat Express Raw Fd
+;;19270 - UKHDS CalCat Express Fd Prep
+;;19271 - UKHDS CalCat Express Stu Labr
+;;19272 - UKHDS CalCat Express Maint
+;;19273 - UKHDS CalCat Express Utility
+;;19274 - UKHDS CalCat Express Cashiers
+;;19275 - UKHDS CalCat Express Central
+;;19276 - UKHDS CalCat Express Cashiers
+UKPBR;6;
+;19224 - 19235
+;;19224 - UKHDS PBR  PatBr Admin
+;;19225 - UKHDS PBR  PatBr Raw Fd
+;;19226 - UKHDS PBR  PatBr Fd Prep
+;;19227 - UKHDS PBR  PatBr Stu Labor
+;;19228 - UKHDS PBR  PatBr Maint
+;;19229 - UKHDS PBR  PatBr Utilities
+;;19230 - UKHDS PBR Pat Br Cashiers
+;;19231 - UKHDS PBR Pat Br Central
+;;19232 - UKHDS PBR  PatBr Campus
+;;19233 - UKHDS PBR  PatBr Reserves
+;;19234 - UKHDS PBR  PatBr Debt Serv
+;;19235 - UKHDS PBR  PatBr Vend Subsidy
+UKPRR;6;
+;19182 - 19195
+;;19182 - UKHDS ProShop Admin
+;;19183 - UKHDS ProShop Raw Food
+;;19184 - UKHDS ProShop Fd Prep
+;;19185 - UKHDS ProShop Student Lab
+;;19186 - UKHDS ProShop Maint
+;;19187 - UKHDS ProShop Utilities
+;;19188 - UKHDS ProShop Cashiers
+;;19189 - UKHDS ProShop Central
+;;19190 - UKHDS ProShop Campus
+;;19193 - UKHDS ProShop Vend Subsidy
+UKRMR;6;
+;19196 - 19209
+;;19196 - UKHDS RMR  Ramona Admin
+;;19197 - UKHDS RMR  Ramona Raw Fd
+;;19198 - UKHDS RMR  Ramona Fd Prep
+;;19199 - UKHDS RMR  Ramona Stu Labor
+;;19200 - UKHDS RMR  Ramona Maint
+;;19201 - UKHDS RMR  Ramona Utilities
+;;19202 - UKHDS RMR Ramona Cashiers
+;;19203 - UKHDS RMR  Ramona Central
+;;19204 - UKHDS RMR  Ramona Campus
+;;19205 - UKHDS RMR  Ramona Reserves
+;;19206 - UKHDS RMR  Ramona Debt Serv
+;;19207 - UKHDS RMR  Ramona Vend Subsidy
+UKTCR;6;
+;19238 - 19267
+;;19254 - UKHDS TCR  Terr Cafe Admin
+;;19255 - UKHDS TCR  Terr Cafe Raw Fd
+;;19256 - UKHDS TCR  Terr Cafe Fd Prep
+;;19257 - UKHDS TCR  Terr Cafe Stu Labor
+;;19258 - UKHDS TCR  Terr Cafe Maint
+;;19259 - UKHDS TCR  Terr Cafe Utilities
+;;19260 - UKHDS TCR Terr Cafe Cashiers
+;;19261 - UKHDS TCR  Terr Cafe Central
+;;19262 - UKHDS TCR  Terr Cafe Campus
+;;19263 - UKHDS TCR  Terr Cafe Reserves
+;;19264 - UKHDS TCR  Terr Cafe Debt Serv
+;;19265 - UKHDS TCR  Terr Cafe Vend Subs
+UKCTR;5;
+UKCAT;6;
+;19545 - 19554
+;;19545 - UKHDS Catering Administration
+;;19546 - UKHDS Catering Raw Food
+;;19547 - UKHDS Catering Food Prep
+;;19548 - UKHDS Catering Student Labor
+;;19549 - UKHDS Catering Maint
+;;19550 - UKHDS Catering Utilities
+;;19551 - UKHDS Catering Misc/Cashiers
+UKCT6;6;
+;32465 - 32474
+;;32465 - UKHDS Athltc Cater Admin
+;;32466 - UKHDS Athltc Cater Raw Food
+;;32467 - UKHDS Athltc FoodP
+;;32468 - UKHDS Athltc Cater Student
+;;32469 - UKHDS Athltc Cater Maint
+;;32470 - UKHDS Athltc Cater Util
+;;32471 - UKHDS Athltc Cater Cashiers
+;;32472 - UKHDS Athltc Cater Central
+;;32473 - UKHDS Athltc Cater Campus
+UKTTB;6;
+;32401 - 32415
+;;32401 - UKHDS TrainTable Admin
+;;32402 - UKHDS TrainTable Raw Fd
+;;32403 - UKHDS TrainTable Fd Prep
+;;32404 - UKHDS TrainTable Student
+;;32405 - UKHDS TrainTable Maint
+;;32406 - UKHDS TrainTable Utility
+;;32407 - UKHDS TrainTable Cashier
+;;32408 - UKHDS TrainTable Central
+;;32409 - UKHDS TrainTable Campus
+UKDIN;5;
+UKBMD;6;
+;31575 - 31589
+;;31575 - UKHDS BMD Bear MArket Admin
+;;31576 - UKHDS BMD Bear Market Raw Fd
+;;31577 - UKHDS BMD Bear Market Fd Prep
+;;31578 - UKHDS BMD Bear Market StLabor
+;;31579 - UKHDS BMD Bear Market Maint
+;;31580 - UKHDS BMD Bear Market Utility
+;;31581 - UKHDS BMD Bear Market Cashiers
+UKCAD;6;
+;19171 - 19181
+;;19171 - UKHDS DED The Den Admin
+;;19172 - UKHDS DED The Den Raw Fd
+;;19173 - UKHDS DED The Den Food Prep
+;;19174 - UKHDS DED The Den St Labor
+;;19175 - UKHDS DED The Den Maint
+;;19176 - UKHDS DED The Den Utilities
+;;19177 - UKHDS DED The Den Cashiers/Mis
+;;19178 - UKHDS DED The Den Central
+;;19179 - UKHDS DED The Den Campus
+UKCDI;6;
+;18964
+;;18964 - UKHDS HDCDS Central Dining
+UKCKD;6;
+;19105 - 19126
+;;19116 - UKHDS CKD CKC Admin
+;;19117 - UKHDS CKD CKC Raw Fd
+;;19118 - UKHDS CKD CKC Fd Prep
+;;19119 - UKHDS CKD CKC St Labor
+;;19120 - UKHDS CKD CKC Maintenance
+;;19121 - UKHDS CKD CKC Utilities
+;;19122 - UKHDS CKD CKC Cashiers/Misc
+;;19123 - UKHDS CKD CKC Central
+;;19124 - UKHDS CKD CKC Campus
+UKCUD;6;
+;31800 - 31814
+;;31800 - UKHDS Cub Admin
+;;31801 - UKHDS Cub Raw Food
+;;31802 - UKHDS Cub Fd Prep
+;;31803 - UKHDS Cub St Labor
+;;31804 - UKHDS Cub Maintenance
+;;31805 - UKHDS Cub Utilities
+;;31806 - UKHDS Cub Misc-Cashiers
+UKFUK;6;
+;19127 - 19137
+;;19127 - UKHDS FHD Foothill Admin
+;;19128 - UKHDS FHD Foothill Raw Fd
+;;19129 - UKHDS FHD Foothill Fd Prep
+;;19130 - UKHDS FHD Foothill St Labor
+;;19131 - UKHDS FHD Foothill Maintenance
+;;19132 - UKHDS FHD Foothill Utilities
+;;19133 - UKHDS FHD Foothill Cashiers/Mi
+;;19134 - UKHDS FHD Foothill Central
+;;19135 - UKHDS FHD Foothill Campus
+UKU1D;6;
+;19138 - 19159
+;;19138 - UKHDS Crossroads Admin
+;;19139 - UKHDS Crossroads Raw Food
+;;19140 - UKHDS Crossroads Food Prep
+;;19141 - UKHDS Crossroads St Labor
+;;19142 - UKHDS Crossroads Maint
+;;19143 - UKHDS Crossroads Utilities
+;;19144 - UKHDS Crossroads Cashiers
+;;19145 - UKHDS Crossroads Central
+;;19146 - UKHDS Crossroads Campus
+UKU3D;6;
+;19160 - 19170
+;;19160 - UKHDS U3D Unit 3 DS Admin
+;;19161 - UKHDS U3D Unit 3 DS Raw Fd
+;;19162 - UKHDS U3D Unit 3 DS Fd Prep
+;;19163 - UKHDS U3D Unit 3 DS St Labor
+;;19164 - UKHDS U3D Unit 3 DS Maint
+;;19165 - UKHDS U3D Unit 3 DS Utilities
+;;19166 - UKHDS U3D Unit 3 Cashiers/Misc
+;;19167 - UKHDS U3D Unit 3 DS Central
+;;19168 - UKHDS U3D Unit 3 DS Campus
+UKDIR;5;
+UKDI6;6;
+;18938 - 18939
+;;18938 - UKHDS H&D Svcs Immediate Off
+UKFAC;5;
+UKBOF;6;
+;18980 - 18988
+;;18980 - UKHDS FAC  Bowles Admin
+;;18981 - UKHDS FAC  Bowles Hskping
+;;18982 - UKHDS FAC  Bowles Linen
+;;18983 - UKHDS FAC  Bowles Maint
+;;18984 - UKHDS FAC  Bowles Utilities
+;;18985 - UKHDS FAC  Bowles Grounds
+;;18986 - UKHDS FAC  Bowles Central
+;;18987 - UKHDS FAC  Bowles Campus
+UKCHA;6;
+;31401 - 31410
+;;31401 - UKHDS Channing/Bow Admin
+;;31402 - UKHDS Channing/Bow Housekeep
+;;31403 - UKHDS Channing/Bow Linen
+;;31404 - UKHDS Channing/Bow Maintenance
+;;31405 - UKHDS Channing/Bow Utilities
+;;31406 - UKHDS Channing/Bow Grounds
+;;31407 - UKHDS Channing/Bow Central
+;;31408 - UKHDS Channing/Bow Campus
+UKCKF;6;
+;18989 - 18997
+;;18989 - UKHDS CKC Admin
+;;18990 - UKHDS CKC Hskping
+;;18991 - UKHDS CKC Linen
+;;18992 - UKHDS CKC Maint
+;;18993 - UKHDS CKC Utilities
+;;18994 - UKHDS CKC Grounds
+;;18995 - UKHDS CKC Central
+;;18996 - UKHDS CKC Campus
+UKDUR;6;
+;30780 - 30799
+;;30780 - UKHDS PC Dev & Support
+;;30785 - UKHDS Ida Jackson Admin
+;;30786 - UKHDS Ida Jackson Housekeeping
+;;30787 - UKHDS Ida Jackson Linen
+;;30788 - UKHDS Ida Jackson Maint
+;;30789 - UKHDS Ida Jackson Utilities
+;;30790 - UKHDS Ida Jackson Grounds
+;;30791 - UKHDS Ida Jackson Central
+;;30792 - UKHDS Ida Jackson Campus
+;;30793 - UKHDS Ida Jackson Major Maint
+UKFAF;6;
+;18998 - 19006
+;;18998 - UKHDS CK Fac Apt Admin
+;;18999 - UKHDS CK Fac Apt Hskping
+;;19000 - UKHDS CK Fac Apt Linen
+;;19001 - UKHDS CK Fac Apt Maint
+;;19002 - UKHDS CK Fac Apt Utilities
+;;19003 - UKHDS CK Fac Apt Grounds
+;;19004 - UKHDS CK Fac Apt Central
+;;19005 - UKHDS CK Fac Apt Campus
+UKFHF;6;
+;19007 - 19015
+;;19007 - UKHDS Foothill Admin
+;;19008 - UKHDS Foothill Hskping
+;;19009 - UKHDS Foothill Linen
+;;19010 - UKHDS Foothill Maint
+;;19011 - UKHDS Foothill Utilities
+;;19012 - UKHDS Foothill Grounds
+;;19013 - UKHDS Foothill Central
+;;19014 - UKHDS Foothill Campus
+UKMAF;6;
+;19016 - 19033
+;;19016 - UKHDS Manville Apt Admin
+;;19017 - UKHDS Manville Apt Hskping
+;;19018 - UKHDS Manville Apt Linen
+;;19019 - UKHDS Manville Apt Maint
+;;19020 - UKHDS Manville Apt Utilities
+;;19021 - UKHDS Manville Apt Grounds
+;;19022 - UKHDS Manville Apt Central
+;;19023 - UKHDS Manville Apt Campus
+UKMAR;6;
+;32445 - 32454
+;;32445 - UKHDS Martinez Com Admin
+;;32446 - UKHDS Martinez Com HSkping
+;;32447 - UKHDS Martinez Com Linen
+;;32448 - UKHDS Martinez Com Maint
+;;32449 - UKHDS Martinez Com Utilities
+;;32450 - UKHDS Martinez C Grounds
+;;32451 - UKHDS Martinez C Central
+;;32452 - UKHDS Martinez Co Campus
+UKSTF;6;
+;19034 - 19042
+;;19034 - UKHDS Stern Apt Admin
+;;19035 - UKHDS Stern Apt Hskping
+;;19036 - UKHDS Stern Apt Linen
+;;19037 - UKHDS Stern Apt Maint
+;;19038 - UKHDS Stern Apt Utilities
+;;19039 - UKHDS Stern Apt Grounds
+;;19040 - UKHDS Stern Apt Central
+;;19041 - UKHDS Stern Apt Campus
+UKU1F;6;
+;19043 - 19051
+;;19043 - UKHDS Unit 1 Apt Admin
+;;19044 - UKHDS Unit 1 Apt Hskping
+;;19045 - UKHDS Unit 1 Apt Linen
+;;19046 - UKHDS Unit 1 Apt Maint
+;;19047 - UKHDS Unit 1 Apt Utilities
+;;19048 - UKHDS Unit 1 Apt Grounds
+;;19049 - UKHDS Unit 1 Apt Central
+;;19050 - UKHDS Unit 1 Apt Campus
+UKU2F;6;
+;19052 - 19060
+;;19052 - UKHDS Unit 2 Apt Admin
+;;19053 - UKHDS Unit 2 Apt Hskping
+;;19054 - UKHDS Unit 2 Apt Linen
+;;19055 - UKHDS Unit 2 Apt Maint
+;;19056 - UKHDS Unit 2 Apt Utilities
+;;19057 - UKHDS Unit 2 Apt Grounds
+;;19058 - UKHDS Unit 2 Apt Central
+;;19059 - UKHDS Unit 2 Apt Campus
+UKU3F;6;
+;19061 - 19069
+;;19061 - UKHDS Unit 3 Apt Admin
+;;19062 - UKHDS Unit 3 Apt Hskping
+;;19063 - UKHDS Unit 3 Apt Linen
+;;19064 - UKHDS Unit 3 Apt Maint
+;;19065 - UKHDS Unit 3 Apt Utilities
+;;19066 - UKHDS Unit 3 Apt Grounds
+;;19067 - UKHDS Unit 3 Apt Central
+;;19068 - UKHDS Unit 3 Apt Campus
+UKFAM;5;
+UKSMA;6;
+;19071 - 19091
+;;19082 - UKHDS SMA Smyth Admin
+;;19083 - UKHDS SMA Smyth Hskping
+;;19084 - UKHDS SMA Smyth Maint
+;;19085 - UKHDS SMA Smyth Utility
+;;19086 - UKHDS SMA Smyth Cr Guard
+;;19087 - UKHDS SMA Smyth Stu Program
+;;19088 - UKHDS SMA Smyth Grounds
+;;19089 - UKHDS SMA Smyth Central
+;;19090 - UKHDS SMA Smyth Campus
+UKUVA;6;
+;19092 - 19104
+;;19092 - UKHDS UVA  Admin
+;;19093 - UKHDS UVA  Hskping
+;;19094 - UKHDS UVA  Maintenance
+;;19095 - UKHDS UVA  Utilities
+;;19096 - UKHDS UVA  Cross Guard
+;;19097 - UKHDS Residential Programs
+;;19098 - UKHDS Recreation Programs
+;;19099 - UKHDS UVA  Grounds
+;;19100 - UKHDS UVA  Central
+;;19101 - UKHDS UVA  Campus
+UKGRD;5;
+UKGR6;6;
+;18968
+;;18968 - UKHDS HDCGR Grounds Central
+UKHAD;5;
+UKHA6;6;
+;18963
+;;18963 - UKHDS RSSP
+UKHOM;5;
+UKHO6;6;
+;18942
+;;18942 - UKHDS RSSB Central Building
+;18951
+;;18951 - UKHDS HOME Work Order Center
+;18966
+;;18966 - UKHDS HDCFS Central Facilities
+;18971
+;;18971 - UKHDS Central Housekeeping
+UKMNT;6;
+;18965
+;;18965 - UKHDS Central Maintenance
+;18967
+;;18967 - UKHDS HDDIR Design
+UKHRS;5;
+UKHR6;6;
+;18947
+;;18947 - UKHDS ADS Payroll
+;18950
+;;18950 - UKHDS ADS Human Resources
+UKIST;5;
+UKIS6;6;
+;18952 - 18954
+;;18952 - UKHDS Info Technologies
+;;18953 - UKHDS Info Tech Projects
+UKRFL;5;
+UKRF6;6;
+;18955 - 18959
+;;18955 - UKHDS RFL - Security
+;;18956 - UKHDS RFL - Administration
+;;18957 - UKHDS RFL - Residential Life
+;;18958 - UKHDS RFL  Academic Serv
+;;18959 - UKHDS RFL - Training
+;19307 - 19311
+;19313 - 19322
+;;19314 - UKHDS General Office
+UKVDO;5;
+UKVD6;6;
+;18972 - 18979
+;;18972 - UKHDS Vending/Lease
+;;18973 - UKHDS VDO Vending Ops/Commis
+;;18974 - UKHDS VDO Vendg Maint/Repair
+;;18975 - UKHDS VDO Vending Central
+;;18976 - UKHDS VDO Ctr Admin Campus
+;;18977 - UKHDS VDO Ctrl Adm General
+UUNON;4;
+UUNO5;5;
+UUNO6;6;
+;19535 - 19544
+;;19535 - UUNON Lab GuestHse Admin/Offic
+;;19536 - UUNON Lab GuestHse Hkpg
+;;19537 - UUNON Lab GuestHse Amenties
+;;19538 - UUNON Lab GuestHse Maintenance
+;;19539 - UUNON Lab GuestHse Utilities
+;;19540 - UUNON Lab GuestHse Grounds
+;;19541 - UUNON Lab GuestHse Central
+;;19542 - UUNON Lab GuestHse Campus
+UCRLO;3;
+AIDVO;4;
+AIDBA;5;
+AIDAO;6;
+;17629 - 17646
+;;17630 - AIDVO UR Central Allocations
+;;17640 - AIDVO Admin and Finance
+;;17641 - AIDVO Human Resources
+;;17642 - AIDVO Financial Svcs UCBF
+;;17643 - AIDVO Business Services
+;17647 - 17659
+;;17647 - AIDVO UCBF Agency Unrest
+;17670 - 17678
+;;17670 - AIDVO Regts Pending Designatn
+AIDDS;6;
+;17661
+;;17661 - AIDVO Gift Processing
+;17701
+;;17701 - AIDVO Donor Stewardship
+AIDPF;6;
+;17628
+;;17628 - AIDVO UCBF Dev Planning
+;17669
+AIDPS;6;
+;17660
+;;17660 - AIDVO Dev Ops and Services
+;17662 - 17663
+;;17662 - AIDVO Advancement Info Mgmt
+;17665 - 17668
+;;17667 - AIDVO Information Technology
+AIDDC;5;
+AIANP;6;
+;17688 - 17691
+;;17688 - AIDVO Annual Programs
+;;17689 - AIDVO Direct Mail
+;;17690 - AIDVO Telemarketing
+;;17691 - AIDVO Class Campaign
+;17693 - 17694
+;;17693 - AIDVO Parents
+;;17694 - AIDVO Student Philanthropy
+AIEXT;6;
+;17621
+;;17621 - AIDVO Chancellor Events
+;17695 - 17698
+;;17695 - AIDVO Marketing and Comm
+;;17696 - AIDVO Reunion_Homecoming
+;;17698 - AIDVO Ext Relat and Protocol
+;23359
+;;23359 - AIDVO Order of the Golden Bear
+AIFLC;6;
+;17682
+;;17682 - AIDVO Leadership Gifts
+;17685
+;;17685 - AIDVO Corp and Fdn Relations
+;17702 - 17705
+;;17702 - AIDVO New York Region
+;;17703 - AIDVO Bay Area Region
+;;17704 - AIDVO Los Angeles Region
+;;17705 - AIDVO Diverse Constituencies
+;17708 - 17724
+AIDD6;6;
+;17622 - 17627
+;17680 - 17681
+;;17680 - AIDVO Development Imm Ofc
+;17683 - 17684
+;;17684 - AIDVO Gift Planning
+;17686 - 17687
+;;17686 - AIDVO International Relations
+;17692
+;17700
+;;17700 - AIDVO Principal Gifts
+AICCP;5;
+AICC6;6;
+;17664
+;;17664 - AIDVO Prospect Development
+;17699
+;;17699 - AIDVO Constituent Prog Imm Ofc
+;17706 - 17707
+;;17706 - AIDVO Student Experience
+AILIO;5;
+AILI6;6;
+;17620
+;;17620 - AIDVO UDAR Immediate Office
+;17679
+;;17679 - AIDVO Campus Initiatives
+CENLD;2;
+ACCTL;3;
+ZD1HR;4;
+ZD1H5;5;
+ZD1H6;6;
+;00640 - 00649
+;;00640 - ZD1HR Ctrl Ops Human Resources
+ZFGEF;4;
+ZFGE5;5;
+ZFGE6;6;
+;00660 - 00669
+;;00660 - ZFGEF Gift & Endowment Acctg
+ZKEFA;4;
+ZKEF5;5;
+ZKEF6;6;
+;00510 - 00525
+;;00510 - ZKEFA Ctrl Ops Extramural Fds
+;;00511 - ZKEFA EFA Bad Debt Write-Off
+ZLACT;4;
+ZLAC5;5;
+ZLAC6;6;
+;00500 - 00509
+;;00500 - ZLACT Ctrl Ops General Acctg
+;;00501 - ZLACT Compensated Absences
+;;00502 - ZLACT Educational Fee Exp Pro
+;;00503 - ZLACT Capital Expend Offset
+;;00504 - ZLACT Scholarship Allowance
+;00526 - 00599
+;00800
+;;00800 - ZLACT Ctrl Ops Gen Acctg - NEW
+;00999
+ZMBSU;4;
+ZMBS5;5;
+ZMBS6;6;
+;00600 - 00629
+;;00600 - ZMBSU Ctrl Ops Payroll
+ZNLRO;4;
+ZNLR5;5;
+ZNLR6;6;
+;00650 - 00659
+;;00650 - ZNLRO Cntrl Ops Billing Srvcs
+;;00651 - ZNLRO Bad Debt Write-Off
+;;00652 - ZNLRO Cntrl Ops Payment Srvcs
+;;00653 - ZNLRO Unforgiven CUBS Debts
+ZPUOP;4;
+ZPUO5;5;
+ZPUO6;6;
+;00900 - 00949
+;;00900 - ZPUOP Ctl Ops UCOP (J)
+ZQDSB;4;
+ZQDS5;5;
+ZQDS6;6;
+;00700
+;;00700 - ZQDSB Ctrl Ops Disbursements
+ZRRSK;4;
+ZRRS5;5;
+ZRRS6;6;
+;00630 - 00639
+;;00630 - ZRRSK Risk Management
+ZTTET;4;
+ZTTE5;5;
+ZTTE6;6;
+;00750
+;;00750 - ZTTET Ctrl Ops Travel & Ent
+CENRL;3;
+ZAPRO;4;
+ZAPR5;5;
+ZAPR6;6;
+;10146 - 10149
+;;10148 - ZAPRO EVCP Endowments
+ZABUD;4;
+ZACER;5;
+ZACE6;6;
+;00001
+;;00001 - ZABUD Ctrl Res: Core Funds
+;00030 - 00031
+;;00030 - ZABUD Ctrl Res: Other Unrestr
+;;00031 - ZABUD Ctrl Res: Other Restr
+;00035 - 00039
+;00040 - 00049
+;00080 - 00089
+ZACMG;5;
+ZACM6;6;
+;00003 - 00013
+;;00003 - ZABUD Close-Related Activity
+;;00004 - ZABUD 2BDel - Bldg Rent
+;;00005 - ZABUD-2BDel CtrlOpCamp Infrstr
+;;00006 - ZABUD Miscellaneous Activity
+;;00007 - ZABUD Dvlpmt Office Activity
+;;00008 - ZABUD 2BDel Moving Expenses
+;;00009 - ZABUD-2BDel Ctrl Ops GAEL
+;;00010 - ZABUD 2BDel - Workers Comp
+;;00011 - ZABUD 2BDel - Full Costing
+;;00012 - ZABUD 2BDel - Property Ins
+;;00013 - ZABUD Suspense - ITOF
+;00060 - 00062
+;;00060 - ZABUD Expenses & Outflows
+;;00061 - ZABUD UCOP Assessment
+;;00062 - ZABUD Revenues & Inflows
+;00064
+;;00064 - ZABUD Suspense/Clearing
+;00100 - 00399
+;00480 - 00499
+;;00499 - ZABUD Disaster Recovery
+;10145
+;;10145 - ZABUD EVCP Discretionary
+ZACSA;5;
+ZACS6;6;
+;00002
+;;00002 - ZABUD Hlth Sci Pos Funding
+;00014 - 00029
+;;00014 - ZABUD Operational Excellence
+;;00015 - ZABUD-2BDel 415(M) Restoration
+;;00016 - ZABUD-2BDel Incr Enrollmt Fac
+;;00017 - ZABUD Withheld FTE: GC
+;;00018 - ZABUD-2BDel SMG Serv Pay Resrv
+;;00019 - ZABUD-2BDel Prov Summr Fac Cut
+;;00020 - ZABUD-2BDel Relinqsh NonRec GC
+;;00021 - ZABUD-2BDel Budgetary Savings
+;;00022 - ZABUD-2BDel Nonresid Tuition
+;;00023 - ZABUD Withheld FTE: HS NonRec
+;;00025 - ZABUD Central Campus Holding
+;00032 - 00034
+;;00032 - ZABUD Set-Aside Resources
+;;00033 - ZABUD Acad Salary Prov Pool
+;;00034 - ZABUD Campus Debt Service
+;00050 - 00059
+ZAXMG;5;
+ZAXM6;6;
+;00090 - 00099
+;;00090 - ZABUD Space & Capital Budget
+;;00091 - ZABUD Real Estate Activity
+;;00099 - ZABUD Real Estate Mgd Activity
+ZHCTR;4;
+ZHCT5;5;
+ZHCT6;6;
+;00063
+;;00063 - ZHCTR Interloc Xfer Pass-thru
+;00065 - 00069
+;;00065 - ZHCTR CSS Assessment 2 Percent
+;00400 - 00479
+;;00400 - ZHCTR Composite Benefit Pool
+ZXFRO;4;
+ZXFR5;5;
+ZXFR6;6;
+;00070 - 00079
+;;00070 - ZXFRO TransfrOffsetGlobal-Plan
+FOUND;2;
+FNDN3;3;
+ZZZZF;4;
+;99900
+;;99900 - UC Berkeley Foundation
+OTHR2;2;
+OTHR3;3;
+YZUOP;4;
+;81500 - 81699
+;83000 - 83999
+;;83000 - YZUOP  (*DEACTIVATION PENDING)
+;;83400 - YZUOP Composite Benefit Pool J
+;;83488 - YZUOP FY01Conv Tempbud Default
+;;83600 - YZUOP J Payroll Ctl Ops
+;;83601 - YZUOP Payroll Suspense-Balance
+;;83602 - YZUOP Payroll Suspense-Edits
+;;83610 - YZUOP J  Ctl Ops  Vacation Acc
+;;83700 - YZUOP Ctrl Ops Disbursemts (J)
+;;83800 - YZUOP Ctrl Ops UCOP (J)
+;;83803 - YZUOP Capital Expense Offset
+;;83863 - YZUOP Interloc Xfer Pass-thru
+OTHR5;3;
+YOFOR;4;
+;82300 - 82499
+;;82310 - YOFOR Forest Prod Lab Research
+;;82410 - YOFOR Forest Prod Lab Outreach
+YFFOR;5;
+;89017 - 89018
+YIWAT;4;
+;82100 - 82139
+;;82110 - YIWAT Water Resources Center
+;;82120 - YIWAT Water Resoures Ct Archiv
+YFWAT;5;
+;89000 - 89001
+YFHWD;4;
+;82200 - 82299
+;;82210 - YFHWD  Integrated Hardwoods
+;;82220 - YFHWD CE Integrated Hardwoods
+YCSWP;4;
+;82140 - 82199
+;;82140 - YCSWP ANR Natural Resources PL
+;;82141 - YCSWP IGIS Infom/Geog Info Sys
+;;82142 - YCSWP Nutrition Policy Instit
+YFWRC;5;
+;89003 - 89004
+YNPMB;4;
+;82610 - 82719
+;;82610 - YNPMB PMB Dept
+;;82611 - YNPMB PMB Dept Lemaux
+;;82612 - YNPMB PMB Dept Biotechnology
+YJPMB;5;
+;89013 - 89014
+YMNST;4;
+;82590 - 82599
+;;82590 - YMNST Nutritional Sci & Tox. D
+;;82591 - YMNST NS Dept Crawford
+;;82592 - YMNST NS Dept Ikeda
+;;82593 - YMNST NS Dept Genomics Bioinfo
+YJNST;5;
+;89009 - 89010
+YLESP;4;
+YLECO;5;
+;82720 - 82731
+;;82720 - YLESP NR Ecosystem Science Div
+;;82721 - YLESP ES Division Kelly
+;;82722 - YLESP ES Division - Garbelloto
+;;82723 - YLESP ES Division - Moritz
+;;82724 - YLESP ES Division Merenlender
+;;82725 - YLESP ES Division Tietje
+;;82726 - YLESP ES Division McCreary
+;;82727 - YLESP ES Division Scott
+;;82728 - YLESP ES Division Butsic
+;;82729 - YLESP ES Division Grantham
+;;82730 - YLESP ES Division Axelson
+;;82731 - YLESP ES Division Macaulay
+YJECO;6;
+;89015 - 89016
+YLIBD;5;
+;82560 - 82569
+;;82560 - YLESP Coop Ext Insect Biology
+;;82561 - YLESP IB Div. Lewis
+;;82562 - YLESP IB Div. Van Steenwyck
+;;82563 - YLESP IB Div. Daane
+;;82564 - Ylesp IB Div Forest Entomology
+YJIBD;6;
+;89007 - 89008
+YLSOC;5;
+YLSO6;6;
+;82600 - 82609
+;;82600 - YLESP ESPM Society & Env Div
+;;82601 - YLESP ESPM Society & Env Getz
+;;82602 - YLESP ESPM Society_Env Sower
+YKARE;4;
+;82550 - 82559
+;;82550 - YKARE Agric Res Econ & Pol Dpt
+;;82551 - YKARE ARE Goldman
+;;82552 - YKARE ARE Rosenberg
+;;82553 - YKARE ARE Econ Siebert
+;;82554 - YKARE ARE Econ Sunding
+;;82555 - YKARE ARE - Zwane
+;;82556 - YKARE ARE Zilberman
+YJARE;5;
+;89005 - 89006
+YECOM;4;
+;82020 - 82099
+;;82020 - YECOM Communication Services
+YGDVW;4;
+;82000 - 82019
+;;82000 - YGDVW DANR Conditional Commit
+;;82002 - YGDVW DANR Salary Provisions
+;;82003 - YGDVW DANR Staff Merits
+;;82004 - YGDVW DANR Benefits Offs
+;;82005 - Provision Reconcile-Temp-DANR
+;;82008 - YGDVW DANR IAP Funds
+;;82010 - YGDVW Giannini Foundation
+YHSPH;4;
+;82500 - 82510
+;;82500 - YHSPH Expanded Food Nutri Educ
+;;82510 - YHSPH Ag Extension Program
+YJCNR;4;
+YJDOF;5;
+;82520 - 82549
+;;82520 - YJCNR DANR College of Natural
+;;82530 - YJCNR DANR  Dean's Office
+;;82531 - YJCNR Dean's Office Provisions
+;;82532 - YJCNR Genomics Facilities
+;;82533 - YJCNR Russel Reserve
+;;82534 - YJCNR insect & Quarant Facil
+;;82535 - YJCNR Oxford Tract Facilities
+;;82540 - YJCNR Fire Center
+;;82541 - YJCNR Asmt Mon For Eco Res Ctr
+;;82542 - YJCNR Biolgical Control Ctr
+;;82543 - YJCNR Nutrit Genomics Center
+;;82544 - YJCNR Sust Res Devel Center
+;;82545 - YJCNR Weight & Health Center
+YJFOC;5;
+;82580 - 82589
+;;82580 - YJCNR NR Center for Forestry
+;;82581 - YJCNR Russell Reserve
+YJFSD;5;
+;82570 - 82579
+;;82570 - YJCNR CE Forestry Prog Gen Ops
+;;82571 - YJCNR CE Forestry - Harris
+;;82572 - YJCNR CE Forestry - Nakamura
+;;82573 - YJCNR CE Forestry - Stewart
+;;82574 - YJCNR CE Forestry Standiford
+OTHR7;3;
+YAVPR;4;
+;81000 - 81009
+;;81000 - YAVPR VC Research Ctl Ops
+;;81004 - YAVPR VC Res Benefits Offsets
+;;81008 - YAVPR MRU IAP Funds
+;81863
+;;81863 - YAVPR Interloc Xfer Pass-thru
+YAILE;5;
+;81100 - 81149
+;;81100 - YAVPR ILE Admin Costs/Payroll
+;;81101 - YAVPR ILE Faculty/Student RFP
+;;81102 - YAVPR ILE Ctr Labor Res & Edu
+;;81103 - YAVPR ILE Conf & Workg Groups
+;;81104 - YAVPR ILE Partnershps/Postdocs
+;;81105 - YAVPR ILE Research/CA Labor
+;;81106 - YAILE Sal Prov Staff Recog Awa
+YACLP;5;
+;81150 - 81499
+;;81150 - YAVPR Chicano/Latino Policy
+;;81151 - YACLP Sal Prov Staff Recog Awa
+YBITS;4;
+;81050 - 81097
+;;81050 - YBITS ITS Mangement/Admin
+;;81051 - YBITS ITS Publications
+;;81052 - YBITS ITS Systems Unit
+;;81053 - YBITS ITS Library
+;;81054 - YBITS ITS Miscellaneous
+;;81060 - YBITS  ITS Salary Provisions
+YAITS;5;
+;81098 - 81099
+OTHR9;3;
+OTHR11;4;
+YAUEI;5;
+;81010 - 81049
+;;81010 - YAVPR UCEI Admin/General Ops
+;;81011 - YAVPR UCEI Grants Program
+;;81012 - YAVPR UCEI Power Program
+;;81013 - YAVPR New Research Initiatives
+;;81014 - YAVPR UCEI Visitors
+;;81015 - YAVPR UCEI Miscellaneous
+;;81020 - YAVPR UCEI CSEM
+;;81030 - YAVPR UCEI Salary Provisions
+OTHRH;2;
+OTHH3;3;
+ZXZZH;4;
+TEST1;5;
+;99800 - 99809
+;;99800 - ZXZZH Exec Educ Gen Ops
+;;99801 - ZXZZH Exec Ed Program Cost
+;;99802 - ZXZZH Exec Ed Bldg Activity
+;;99803 - ZXZZH Exec Ed Open Programs
+;;99804 - ZXZZH Exec Ed Partner
+;;99805 - ZXZZH Exec Ed Custom Prgms
+;;99806 - ZXZZH Exec Ed Statoil
